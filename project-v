@@ -128,413 +128,119 @@ http://195.191.208.11:8087/udp/238.2.2.231:1234
 #EXTINF:-1 group-title="RU",СТС (+6)
 http://195.191.208.11:8087/udp/238.2.2.251:1234
 
+#EXTM3U description="Medium" size="Medium" background="#11609e"
 #EXTINF:-1 tvg-logo="https://live.1tv.am/p/img/channel/am1abr-vod-am.png" group-title="Армения_Հայաստան 🇦🇲",Հանրային հեռուստաընկերություն
-http://188.208.197.173:2580/channel/7b24d53e/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/7b24d53e/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://live.1tv.am/p/img/channel/am2abr-vod-am.png" group-title="Армения_Հայաստան 🇦🇲",Հանրային Լուրեր
-http://188.208.197.173:2580/channel/64fb6eb/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/64fb6eb/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://live.1tv.am/p/img/channel/am3abr-vod-am.png" group-title="Армения_Հայաստան 🇦🇲",Առաջինի միջազգային ալիք
-http://188.208.197.173:2580/channel/34b31477/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/34b31477/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://live.1tv.am/p/img/channel/am4abr-vod-am.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-488",Առաջին ալիք Ամերիկա
-http://188.208.197.173:2580/channel/5d235864/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/5d235864/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rvEZ1Av6ddZ-vEtpiAdlhgTD68YHT-v60A&s" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-487",Armenia TV
-http://188.208.197.173:2580/channel/n243fe6db/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n243fe6db/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScFe_PRPbay9zSSL3vv5NkuS_GRdS8jr-lhA&s" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54862",Armenia Premium
-http://188.208.197.173:2580/channel/n3983fa8c/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n3983fa8c/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCnPw46jfpBld4juf3laRp3EsuS7Gh4M9fAA&s" group-title="Армения_Հայաստան 🇦🇲",5TV
-http://188.208.197.173:2580/channel/n27588c86/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n27588c86/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://gisher.me/images1/armtv/main/5plus.jpg" group-title="Армения_Հայաստան 🇦🇲",5TV PLUS
-http://188.208.197.173:2580/channel/n78dfe180/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n78dfe180/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nUNwF03DXaaaJR4pCnkpydwqdjex38SQ8ghFZYpsAk=s900-c-k-c0x00ffffff-no-rj" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-489",H2 ARM
-http://188.208.197.173:2580/channel/64ec8923/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/64ec8923/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RJyD6JHIejYHeeoUBGWsO_NbZOy70Z7dMofZRXrTvGUEX1IYySvRJ4HjUQafOXeFjcBFAu99k-I=s900-c-k-c0x00ffffff-no-rj" group-title="Армения_Հայաստան 🇦🇲",Free News
-http://188.208.197.173:2580/channel/n11951036/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n11951036/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/ATV.png_1627890585.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-8021",ATV
-http://188.208.197.173:2580/channel/n565a18dd/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n565a18dd/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1DxhubeX0MPT-TS5xLWgbBB6UOWF9ZoJvw&s" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54497",Կինոման
-http://188.208.197.173:2580/channel/17e7febb/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/17e7febb/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://gisher.me/images1/armtv/main/xaghaliq-tv.webp" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54496",Խաղալիք
-http://188.208.197.173:2580/channel/n6337dd4e/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54867" tvg-logo="http://188.208.197.173:2580/logos/atv-cineman.png",Սինեման
-http://188.208.197.173:2580/channel/n38966c4/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n6337dd4e/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54867" tvg-logo="http://188.208.197.173:3000/logos/atv-cineman.png",Սինեման
+http://188.208.197.173:3000/channel/n38966c4/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://antifriz.tv/storage/images/pack_logos/3378e041647cd0d3e0f287a8c2c1de44.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54495",Թավա
-http://188.208.197.173:2580/channel/n72932fb5/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n72932fb5/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://static.tert.am/storage/files/life/2017/12/30/haykino_logo-770x_.jpg" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54863",Հայ Կինո
-http://188.208.197.173:2580/channel/n111fa9a6/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n111fa9a6/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2u45Mp4juzfu8X4h_j-dUhn4un4BhYp5JDsqF95W4VhoMgB4gKmPtNvuIOvfke2YuYVM&usqp=CAU" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54864",Ջան ԹՎ
-http://188.208.197.173:2580/channel/41a6ff5/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/41a6ff5/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://gisher.me/images1/armtv/main/comedy.jpg" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54865",Քոմեդի
-http://188.208.197.173:2580/channel/14cd0ebc/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/14cd0ebc/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Kentron_TV_logo.jpg" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-8448",Կենտրոն
-http://188.208.197.173:2580/channel/89e9952/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/89e9952/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Shant_TV_logo.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-491",Շանթ Հեռուստաընկերություն
-http://188.208.197.173:2580/channel/nd6da2f2/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/nd6da2f2/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiLGgk-x-P20cTJI4nwqrXAeDhso6IPDHwOA0oQRY4xVFyaS8vDINfTiNmphfqfbYSBA&usqp=CAU" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-491",Շանթ Սերիալ
-http://188.208.197.173:2580/channel/459a3464/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/459a3464/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYVfORiSs5oo647AWOO-ND6vEvQtTJovCdzHWqAWvc0VwbbXOzNXuyCXNi7jdCQkpNk4&usqp=CAU" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-491",Շանթ Kids
-http://188.208.197.173:2580/channel/n15b9da9d/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n15b9da9d/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/Shant_Gyumri.png_1629113137.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-491",Շանթ Գյումրի
-http://188.208.197.173:2580/channel/2931e51d/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/2931e51d/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hy/thumb/8/88/%D5%87%D5%B8%D5%B2%D5%A1%D5%AF%D5%A1%D5%A9_%28%D5%B0%D5%A5%D5%BC%D5%B8%D6%82%D5%BD%D5%BF%D5%A1%D5%A1%D5%AC%D5%AB%D6%84%29.svg/1200px-%D5%87%D5%B8%D5%B2%D5%A1%D5%AF%D5%A1%D5%A9_%28%D5%B0%D5%A5%D5%BC%D5%B8%D6%82%D5%BD%D5%BF%D5%A1%D5%A1%D5%AC%D5%AB%D6%84%29.svg.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-8509",Շողակաթ
-http://188.208.197.173:2580/channel/n3009bca6/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n3009bca6/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppdyJPlfJJA-lK5qP4EekjASOYmhTCdXCgg&s" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-51784",Delta TV
-http://188.208.197.173:2580/channel/4acd17e7/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/4acd17e7/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-img3zQuXbZRkc4jk-IP36gw-t1080x1080.jpg" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-51784",Delta Music
-http://188.208.197.173:2580/channel/n547285b0/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n547285b0/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://antifriz.tv/storage/images/pack_logos/1543b83790979788c11f8b01494af477.png" group-title="Армения_Հայաստան 🇦🇲",Velari TV
-http://188.208.197.173:2580/channel/4ce8978/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/4ce8978/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTT3qt5EA1HwORgQqMJTyAC1-tmfxOTAfZKA&s" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54799",Song TV AM
-http://188.208.197.173:2580/channel/124b158d/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/124b158d/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQG0sFndMV7pHj73plgJPzZYpB9i6VIbvWQ&s" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54498",Հայ TV
-http://188.208.197.173:2580/channel/neabeff2/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/neabeff2/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://antifriz.tv/storage/images/pack_logos/e93abca1677610309ec1ca51c9f843b4.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-664",Ֆորտունա Հեռուստաընկերություն
-http://188.208.197.173:2580/channel/n757254bb/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n757254bb/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://kotayktv.am/wp-content/uploads/2016/12/15628743_1806085679644792_1971387487_o-e1482345361303.png" group-title="Армения_Հայաստան 🇦🇲",Կոտայք Հեռուստաընկերություն
-http://188.208.197.173:2580/channel/n5f2a3ef/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n5f2a3ef/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_la32-rGT_H9xbQN9sSSw66bh9BAAG4ETbKNTawo55C0g=s900-c-k-c0x00ffffff-no-rj" group-title="Армения_Հայաստան 🇦🇲",Արարատ Հեռուստաընկերություն
-http://188.208.197.173:2580/channel/n7f8c4cd1/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n7f8c4cd1/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://www.course.de/images/logos/7c32f694-d437-44a8-8dbf-1d8160e2abce.jpg" group-title="Армения_Հայաստան 🇦🇲",Բուն Հեռուստաընկերություն
-http://188.208.197.173:2580/channel/ddd8b21/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/ddd8b21/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/799505699810279424/Zbqj3wwK_400x400.jpg" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-599",Դար 21
-http://188.208.197.173:2580/channel/16838c29/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/16838c29/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/EDU_1.png_1628666060.png" group-title="Армения_Հայաստան 🇦🇲",Hybrid Edu
-http://188.208.197.173:2580/channel/n34e5dfd1/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n34e5dfd1/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/hybrid-rest1.png_1628666220.png" group-title="Армения_Հայաստան 🇦🇲",Hybrid Rest
-http://188.208.197.173:2580/channel/n67d02d85/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n67d02d85/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/Hybrid-Film_1.png_1628666175.png" group-title="Армения_Հայաստան 🇦🇲",Hybrid Film
-http://188.208.197.173:2580/channel/n67d593d5/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n67d593d5/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/YtipWilymv0xcxmzVAMwXOhn4A5qIxGh30KAVtpN.jpg" group-title="Армения_Հայաստան 🇦🇲",Նոյան Տապան
-http://188.208.197.173:2580/channel/3e37ef18/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/3e37ef18/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/Muzzon_1.png_1629744283.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54869",Մուզզոն
-http://188.208.197.173:2580/channel/3227308f/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/3227308f/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LkGmympHU5Igx3CZOers_fHrZqWn8tOO0aoXR2dKeDE1q4ddR9O9eqIQovVlnMwxxvKM=w240-h480-rw" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-882",Alpha News AM
-http://188.208.197.173:2580/channel/6461b1da/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/6461b1da/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8hbUxKBAoeSPHggYdDH8GSTJ-muRUVdb7ft3ITVNMbtEvO-j-ZCxPSnzxlnhiw7-Y25EgWaH4w=s900-c-k-c0x00ffffff-no-rj" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-51206",ABN
-http://188.208.197.173:2580/channel/n565a1b13/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n565a1b13/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjtI2_N0J0JOrKiiqU7NZxvHinP-hOCzeQYA&s" group-title="Армения_Հայաստան 🇦🇲",Armount TV
-http://188.208.197.173:2580/channel/5074298c/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/5074298c/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0np3fY1vMmutL_vIHfyYYdZH5kEFkvZZJ38T0T5p8CBD9K12vPztj-g5we-3oW7sBFwU93g9=s900-c-k-c0x00ffffff-no-rj" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-55160",Ազատություն Հեռուստաընկերություն
-http://188.208.197.173:2580/channel/37811015/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/37811015/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/WcBUl6bPu7XJitHz8CFnQ6g4l8gFbKVR9hHquL0C.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-50251",Fast Sport
-http://188.208.197.173:2580/channel/n34df91f0/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n34df91f0/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/NR2cFlMSSQRvJi9BRs0A5QkAnIIZFmpyHthYRDaf.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-50251",Fast Sport 1
 http://188.208.197.173:2101/fast-sport-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/j9vOys5d5F9I3z9YIRTBmDauyuMEfhIygrWo8cNv.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-50251",Fast Sport 2
 http://188.208.197.173:2101/fast-sport-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kK2GT2s7AeMUKVscaTSXiofrJ0c35B0KZnqkbHZf6AMxE=s900-c-k-c0x00ffffff-no-rj" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-20784",Artn TV
-http://188.208.197.173:2580/channel/2ed17751/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/2ed17751/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/Bazmoc-TV_1.png_1629793748.png" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54499",Բազմոց ԹՎ
-http://188.208.197.173:2580/channel/57d60417/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/57d60417/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Q4DeRJ71S0UBYFubYFCASJruZoxksEpBtc6BkVA9h8DsmFk15t2AL-ZMJKfzhCwfdWkuBGtDpsY=s900-c-k-c0x00ffffff-no-rj" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-100008",Radio Van Video
-http://188.208.197.173:2580/channel/nbf51f87/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/nbf51f87/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/901039.webp" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-58",Fresh Tv Armenia
-http://188.208.197.173:2580/channel/n4074b62c/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n4074b62c/index.m3u8?q=1763550651725
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OYRIcMPYC9oI4YzHGytFhlfbdj6Zf_w4pAdWNn19lO-RgA-TtkPMieYKZLJsTg524lw3ZssCBZU=s900-c-k-c0x00ffffff-no-rj" group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-51203",AABC
-http://188.208.197.173:2580/channel/n3598dc79/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n3598dc79/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения_Հայաստան 🇦🇲",Դելտա travel
-http://188.208.197.173:2580/channel/74c964a/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/74c964a/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения_Հայաստան 🇦🇲",Lifehack TV
-http://188.208.197.173:2580/channel/3970b461/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/3970b461/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-54870" tvg-logo="https://dl.dropboxusercontent.com/s/pdj2a89rja6hbq1/fitnes.png",Ֆիտնես ԹՎ
-http://188.208.197.173:2580/channel/n55b69087/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-20985" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/uu/us_armenia_tv.png",US Armenia
-http://188.208.197.173:2580/channel/n513c66de/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n55b69087/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-20985" tvg-logo="http://188.208.197.173:3000/proxy/https://www.lyngsat-logo.com/logo/tv/uu/us_armenia_tv.png",US Armenia
+http://188.208.197.173:3000/channel/n513c66de/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения_Հայաստան 🇦🇲",Միգ ԹՎ
-http://188.208.197.173:2580/channel/n635c08f/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/n635c08f/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения_Հայաստան 🇦🇲" tvg-id="hlsproxy-491" tvg-logo="https://dl.dropboxusercontent.com/s/cz7kwmw0jkf278z/shant.png",Շանթ High Vision
-http://188.208.197.173:2580/channel/5e3a3d9/index.m3u8?q=1763550651725
+http://188.208.197.173:3000/channel/5e3a3d9/index.m3u8?q=1763550651725
 
-
-#EXTINF:-1 tvg-name=".black [RU]" group-title="movies",.black [RU]
-http://188.208.197.173:2580/channel/3f9cf55a/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name=".red [RU]" group-title="movies" tvg-id="hlsproxy-159" tvg-logo="http://188.208.197.173:2580/logos/dot-red.png",.red [RU]
-http://188.208.197.173:2580/channel/n6bf50978/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name=".sci-fi [RU]" group-title="movies" tvg-id="hlsproxy-28" tvg-logo="http://188.208.197.173:2580/logos/dot-sci-fi.png",.sci-fi [RU]
-http://188.208.197.173:2580/channel/2a17d96e/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Amedia 1 [RU]" group-title="movies" tvg-id="hlsproxy-25" tvg-logo="http://188.208.197.173:2580/logos/a1-tv.png",Amedia 1 [RU]
-http://188.208.197.173:2580/channel/n406e9ec9/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Amedia 2 [RU]" group-title="movies",Amedia 2 [RU]
-http://188.208.197.173:2580/channel/n3eb9c62a/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Amedia Hit [RU]" group-title="movies" tvg-id="hlsproxy-578" tvg-logo="http://188.208.197.173:2580/logos/amedia-hit-hd.png",Amedia Hit [RU]
-http://188.208.197.173:2580/channel/n4c74f70b/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Amedia premium HD [RU]" group-title="movies" tvg-id="hlsproxy-31" tvg-logo="http://188.208.197.173:2580/logos/amedia-premium-hd.png",Amedia premium HD [RU]
-http://188.208.197.173:2580/channel/16d8abd1/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Action HD [RU]" group-title="movies" tvg-id="hlsproxy-55465" tvg-logo="http://188.208.197.173:2580/logos/bcu-action-hd.png",BCU Action HD [RU]
-http://188.208.197.173:2580/channel/n4bae29e7/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Catastrophe HD [RU]" group-title="movies" tvg-id="hlsproxy-55464" tvg-logo="http://188.208.197.173:2580/logos/bcu-catastrophe-hd.png",BCU Catastrophe HD [RU]
-http://188.208.197.173:2580/channel/n136cb5b9/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Cinema HD [RU]" group-title="movies" tvg-id="hlsproxy-53995" tvg-logo="http://188.208.197.173:2580/logos/bcu-cinema-hd.png",BCU Cinema HD [RU]
-http://188.208.197.173:2580/channel/1d565fd4/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Cinema+ HD [RU]" group-title="movies" tvg-id="hlsproxy-55528" tvg-logo="http://188.208.197.173:2580/logos/bcu-cinema-plus-hd.png",BCU Cinema+ HD [RU]
-http://188.208.197.173:2580/channel/n40fc9f03/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Comedy HD [RU]" group-title="movies" tvg-id="hlsproxy-55456" tvg-logo="http://188.208.197.173:2580/logos/bcu-comedy-hd.png",BCU Comedy HD [RU]
-http://188.208.197.173:2580/channel/n373b084/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Cosmo HD [RU]" group-title="movies" tvg-id="hlsproxy-55531" tvg-logo="http://188.208.197.173:2580/logos/bcu-cosmo-hd.png",BCU Cosmo HD [RU]
-http://188.208.197.173:2580/channel/n3a3d07f4/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Criminal HD [RU]" group-title="movies" tvg-id="hlsproxy-55532" tvg-logo="http://188.208.197.173:2580/logos/bcu-criminal-hd.png",BCU Criminal HD [RU]
-http://188.208.197.173:2580/channel/24250f46/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Fantastic HD [RU]" group-title="movies" tvg-id="hlsproxy-55457" tvg-logo="http://188.208.197.173:2580/logos/bcu-fantastic-hd.png",BCU Fantastic HD [RU]
-http://188.208.197.173:2580/channel/n36d8ab62/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Filmystic HD [RU]" group-title="movies" tvg-id="hlsproxy-54990" tvg-logo="http://188.208.197.173:2580/logos/bcu-filmystic-hd.png",BCU Filmystic HD [RU]
-http://188.208.197.173:2580/channel/513787d3/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU History HD [RU]" group-title="movies" tvg-id="hlsproxy-2521" tvg-logo="http://188.208.197.173:2580/logos/bcu-history-hd.png",BCU History HD [RU]
-http://188.208.197.173:2580/channel/2bc80037/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Kinorating HD [RU]" group-title="movies" tvg-id="hlsproxy-55458" tvg-logo="http://188.208.197.173:2580/logos/bcu-kinorating-hd.png",BCU Kinorating HD [RU]
-http://188.208.197.173:2580/channel/n5e19e421/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Kinozakaz HD [RU]" group-title="movies",BCU Kinozakaz HD [RU]
-http://188.208.197.173:2580/channel/33d0d2c1/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Marvel HD [RU]" group-title="movies" tvg-id="hlsproxy-55459" tvg-logo="http://188.208.197.173:2580/logos/bcu-marvel-hd.png",BCU Marvel HD [RU]
-http://188.208.197.173:2580/channel/3a83bc62/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Premiere HD [RU]" group-title="movies" tvg-id="hlsproxy-55460" tvg-logo="http://188.208.197.173:2580/logos/bcu-premiere-hd.png",BCU Premiere HD [RU]
-http://188.208.197.173:2580/channel/d5e5c/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Reality HD [RU]" group-title="movies" tvg-id="hlsproxy-55534" tvg-logo="http://188.208.197.173:2580/logos/bcu-reality-hd.png",BCU Reality HD [RU]
-http://188.208.197.173:2580/channel/n70a9ee0d/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Ruserial HD [RU]" group-title="movies" tvg-id="hlsproxy-55533" tvg-logo="http://188.208.197.173:2580/logos/bcu-ruserial-hd.png",BCU Ruserial HD [RU]
-http://188.208.197.173:2580/channel/249c4cda/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Russian HD [RU]" group-title="movies" tvg-id="hlsproxy-2518" tvg-logo="http://188.208.197.173:2580/logos/bcu-russian-hd.png",BCU Russian HD [RU]
-http://188.208.197.173:2580/channel/27e07c36/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Stars HD [RU]" group-title="movies" tvg-id="hlsproxy-55529" tvg-logo="http://188.208.197.173:2580/logos/bcu-stars-hd.png",BCU Stars HD [RU]
-http://188.208.197.173:2580/channel/72d7fb04/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Survival HD [RU]" group-title="movies" tvg-id="hlsproxy-55535" tvg-logo="http://188.208.197.173:2580/logos/bcu-survival-hd.png",BCU Survival HD [RU]
-http://188.208.197.173:2580/channel/45621321/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU TruMotion HD [RU]" group-title="movies" tvg-id="hlsproxy-55536" tvg-logo="http://188.208.197.173:2580/logos/bcu-trumotion-hd.png",BCU TruMotion HD [RU]
-http://188.208.197.173:2580/channel/nf6dd10/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Ultra 4K [RU]" group-title="movies" tvg-id="hlsproxy-55537" tvg-logo="http://188.208.197.173:2580/logos/bcu-ultra-4k.png",BCU Ultra 4K [RU]
-http://188.208.197.173:2580/channel/n6390616c/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU VHS HD [RU]" group-title="movies" tvg-id="hlsproxy-55461" tvg-logo="http://188.208.197.173:2580/logos/bcu-vhs-hd.png",BCU VHS HD [RU]
-http://188.208.197.173:2580/channel/4e5a92a4/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Кинозал Premiere 1 HD [RU]" group-title="movies" tvg-id="hlsproxy-1969" tvg-logo="http://188.208.197.173:2580/logos/bcu-premiere-hd.png",BCU Кинозал Premiere 1 HD [RU]
-http://188.208.197.173:2580/channel/1d87edca/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Кинозал Premiere 2 HD [RU]" group-title="movies" tvg-id="hlsproxy-1970" tvg-logo="http://188.208.197.173:2580/logos/bcu-premiere-hd.png",BCU Кинозал Premiere 2 HD [RU]
-http://188.208.197.173:2580/channel/n4e33a335/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Кинозал Premiere 3 HD [RU]" group-title="movies" tvg-id="hlsproxy-1971" tvg-logo="http://188.208.197.173:2580/logos/bcu-premiere-hd.png",BCU Кинозал Premiere 3 HD [RU]
-http://188.208.197.173:2580/channel/4610cbcc/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Кинозал СССР HD [RU]" group-title="movies" tvg-id="hlsproxy-55462" tvg-logo="http://188.208.197.173:2580/logos/bcu-sssr-hd.png",BCU Кинозал СССР HD [RU]
-http://188.208.197.173:2580/channel/n629924a1/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Романтика HD [RU]" group-title="movies",BCU Романтика HD [RU]
-http://188.208.197.173:2580/channel/n6e309866/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="BCU Сваты HD [RU]" group-title="movies" tvg-id="hlsproxy-2517" tvg-logo="http://188.208.197.173:2580/logos/bcu-svaty-hd.png",BCU Сваты HD [RU]
-http://188.208.197.173:2580/channel/632526b/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Bollywood HD [RU]" group-title="movies" tvg-id="hlsproxy-51106" tvg-logo="http://188.208.197.173:2580/logos/bollywood-hd.png",Bollywood HD [RU]
-http://188.208.197.173:2580/channel/6ea35dc8/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="CineMan Top [RU]" group-title="movies" tvg-id="hlsproxy-100305" tvg-logo="http://188.208.197.173:2580/logos/cineman-top.png",CineMan Top [RU]
-http://188.208.197.173:2580/channel/5c6cca41/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="CineMan [RU]" group-title="movies" tvg-id="hlsproxy-100307" tvg-logo="http://188.208.197.173:2580/logos/cineman.png",CineMan [RU]
-http://188.208.197.173:2580/channel/25003db6/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="CineMan РуКино [RU]" group-title="movies" tvg-id="hlsproxy-100310" tvg-logo="http://188.208.197.173:2580/logos/cineman-rukino.png",CineMan РуКино [RU]
-http://188.208.197.173:2580/channel/n51a839da/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Cinema (Космос ТВ) [RU]" group-title="movies",Cinema (Космос ТВ) [RU]
-http://188.208.197.173:2580/channel/n681d9529/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="FOX HD [RU]" group-title="movies",FOX HD [RU]
-http://188.208.197.173:2580/channel/4740015e/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Fox Life HD [RU]" group-title="movies" tvg-id="hlsproxy-84" tvg-logo="http://188.208.197.173:2580/logos/foxlife-hd.png",Fox Life HD [RU]
-http://188.208.197.173:2580/channel/2554f444/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Hollywood HD [RU]" group-title="movies",Hollywood HD [RU]
-http://188.208.197.173:2580/channel/529e91ce/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Paramount Comedy Russia [RU]" group-title="movies" tvg-id="hlsproxy-144" tvg-logo="http://188.208.197.173:2580/logos/paramount-comedy.png",Paramount Comedy Russia [RU]
-http://188.208.197.173:2580/channel/1fcf83f8/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="TV1000 Action [RU]" group-title="movies" tvg-id="hlsproxy-172" tvg-logo="http://188.208.197.173:2580/logos/tv1000-action.png",TV1000 Action [RU]
-http://188.208.197.173:2580/channel/16a56f9e/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="TV1000 World Kino [RU]" group-title="movies" tvg-id="hlsproxy-22" tvg-logo="http://188.208.197.173:2580/logos/tv1000-world-kino.png",TV1000 World Kino [RU]
-http://188.208.197.173:2580/channel/n61b1a5d9/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="TV1000 [RU]" group-title="movies" tvg-id="hlsproxy-171" tvg-logo="http://188.208.197.173:2580/logos/tv1000.png",TV1000 [RU]
-http://188.208.197.173:2580/channel/n164cb5f6/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="TV1000 Русское кино [RU]" group-title="movies" tvg-id="hlsproxy-429" tvg-logo="http://188.208.197.173:2580/logos/tv1000-russkoe.png",TV1000 Русское кино [RU]
-http://188.208.197.173:2580/channel/n116b661d/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="VIP Comedy [RU]" group-title="movies" tvg-id="hlsproxy-173" tvg-logo="http://188.208.197.173:2580/logos/vip-comedy.png",VIP Comedy [RU]
-http://188.208.197.173:2580/channel/529d228f/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="VIP Megahit [RU]" group-title="movies" tvg-id="hlsproxy-174" tvg-logo="http://188.208.197.173:2580/logos/vip-megahit.png",VIP Megahit [RU]
-http://188.208.197.173:2580/channel/4f7afb15/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="VIP Premiere [RU]" group-title="movies" tvg-id="hlsproxy-175" tvg-logo="http://188.208.197.173:2580/logos/vip-premiere.png",VIP Premiere [RU]
-http://188.208.197.173:2580/channel/1691116f/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="VIP Serial [RU]" group-title="movies" tvg-id="hlsproxy-55135" tvg-logo="http://188.208.197.173:2580/logos/vip-serial.png",VIP Serial [RU]
-http://188.208.197.173:2580/channel/n19fcefec/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Арсенал HD [RU]" group-title="movies" tvg-id="hlsproxy-1993" tvg-logo="http://188.208.197.173:2580/logos/arsenal.png",Арсенал HD [RU]
-http://188.208.197.173:2580/channel/45648ff3/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Блокбастер HD [RU]" group-title="movies" tvg-id="hlsproxy-2505" tvg-logo="http://188.208.197.173:2580/logos/blockbaster.png",Блокбастер HD [RU]
-http://188.208.197.173:2580/channel/4d655388/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Дом кино [RU]" group-title="movies" tvg-id="hlsproxy-244" tvg-logo="http://188.208.197.173:2580/logos/dom-kino.png",Дом кино [RU]
-http://188.208.197.173:2580/channel/4da5dc7e/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Дом кино премиум HD [RU]" group-title="movies" tvg-id="hlsproxy-51107" tvg-logo="http://188.208.197.173:2580/logos/dom-kino-premium-hd.png",Дом кино премиум HD [RU]
-http://188.208.197.173:2580/channel/2edab56d/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Дорама [RU]" group-title="movies" tvg-id="hlsproxy-53747" tvg-logo="http://188.208.197.173:2580/logos/dorama.png",Дорама [RU]
-http://188.208.197.173:2580/channel/n50403903/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Душевное [RU]" group-title="movies" tvg-id="hlsproxy-575" tvg-logo="http://188.208.197.173:2580/logos/dushevnoe.png",Душевное [RU]
-http://188.208.197.173:2580/channel/296e41ed/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Еврокино [RU]" group-title="movies" tvg-id="hlsproxy-253" tvg-logo="http://188.208.197.173:2580/logos/evrokino.png",Еврокино [RU]
-http://188.208.197.173:2580/channel/n63854cf/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="ИНДИЙСКОЕ КИНО [RU]" group-title="movies" tvg-id="hlsproxy-265" tvg-logo="http://188.208.197.173:2580/logos/indiyskoe-kino.png",ИНДИЙСКОЕ КИНО [RU]
-http://188.208.197.173:2580/channel/5ec04dac/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Иллюзион+ [RU]" group-title="movies" tvg-id="hlsproxy-263" tvg-logo="http://188.208.197.173:2580/logos/illuzion-plus.png",Иллюзион+ [RU]
-http://188.208.197.173:2580/channel/n2b222ea2/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="КИНО ТВ [RU]" group-title="movies",КИНО ТВ [RU]
-http://188.208.197.173:2580/channel/7bedcd02/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="КИНОСВИДАНИЕ [RU]" group-title="movies" tvg-id="hlsproxy-324" tvg-logo="http://188.208.197.173:2580/logos/kinosvidanie.png",КИНОСВИДАНИЕ [RU]
-http://188.208.197.173:2580/channel/718ec995/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="КИНОСЕРИЯ [RU]" group-title="movies" tvg-id="hlsproxy-309" tvg-logo="http://188.208.197.173:2580/logos/kinoseria.png",КИНОСЕРИЯ [RU]
-http://188.208.197.173:2580/channel/n10223e31/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Камеди HD [RU]" group-title="movies" tvg-id="hlsproxy-2507" tvg-logo="http://188.208.197.173:2580/logos/kamedi.png",Камеди HD [RU]
-http://188.208.197.173:2580/channel/2001eb6a/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="КиноСат [RU]" group-title="movies" tvg-id="hlsproxy-794" tvg-logo="http://188.208.197.173:2580/logos/kinosat.png",КиноСат [RU]
-http://188.208.197.173:2580/channel/4d54ad5f/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Киноджем 1 HD [RU]" group-title="movies" tvg-id="hlsproxy-100265" tvg-logo="http://188.208.197.173:2580/logos/kinojam-1.png",Киноджем 1 HD [RU]
-http://188.208.197.173:2580/channel/3bd6c210/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Кинозал 1 [RU]" group-title="movies" tvg-id="hlsproxy-51087" tvg-logo="https://dl.dropboxusercontent.com/s/ggkwr4sypsr9a52/kinozal3.png",Кинозал 1 [RU]
-http://188.208.197.173:2580/channel/279cca7f/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Кинокомедия [RU]" group-title="movies" tvg-id="hlsproxy-290" tvg-logo="http://188.208.197.173:2580/logos/kinokomedia.png",Кинокомедия [RU]
-http://188.208.197.173:2580/channel/25d15b44/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Киномикс [RU]" group-title="movies" tvg-id="hlsproxy-323" tvg-logo="http://188.208.197.173:2580/logos/kinomiks.png",Киномикс [RU]
-http://188.208.197.173:2580/channel/n5f38b637/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Кинопоказ HD [RU]" group-title="movies" tvg-id="hlsproxy-281" tvg-logo="http://188.208.197.173:2580/logos/kinopokaz.png",Кинопоказ HD [RU]
-http://188.208.197.173:2580/channel/n8575cee/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Кинопремьера HD [RU]" group-title="movies" tvg-id="hlsproxy-331" tvg-logo="http://188.208.197.173:2580/logos/kinopremiera-hd.png",Кинопремьера HD [RU]
-http://188.208.197.173:2580/channel/2d16a137/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Киносемья [RU]" group-title="movies" tvg-id="hlsproxy-92" tvg-logo="http://188.208.197.173:2580/logos/kinosemya.png",Киносемья [RU]
-http://188.208.197.173:2580/channel/n493a6099/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Киноужас [RU]" group-title="movies" tvg-id="hlsproxy-1796" tvg-logo="http://188.208.197.173:2580/logos/kinouzhas.png",Киноужас [RU]
-http://188.208.197.173:2580/channel/n321a5778/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Кинохит [RU]" group-title="movies" tvg-id="hlsproxy-327" tvg-logo="http://188.208.197.173:2580/logos/kinohit.png",Кинохит [RU]
-http://188.208.197.173:2580/channel/n6fcf293d/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Комедийное HD [RU]" group-title="movies" tvg-id="hlsproxy-283" tvg-logo="http://188.208.197.173:2580/logos/komediynoe.png",Комедийное HD [RU]
-http://188.208.197.173:2580/channel/n3097d12d/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Любимое кино [RU]" group-title="movies" tvg-id="hlsproxy-385" tvg-logo="http://188.208.197.173:2580/logos/nashe-lubimoe.png",Любимое кино [RU]
-http://188.208.197.173:2580/channel/25ce9ca5/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Мосфильм [RU]" group-title="movies" tvg-id="hlsproxy-100262" tvg-logo="http://188.208.197.173:2580/logos/zolotaya-kollekciya.png",Мосфильм [RU]
-http://188.208.197.173:2580/channel/4f7c62d3/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Мужское кино [RU]" group-title="movies",Мужское кино [RU]
-http://188.208.197.173:2580/channel/n65bcf115/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="НСТ [RU]" group-title="movies" tvg-id="hlsproxy-344" tvg-logo="http://188.208.197.173:2580/logos/nastoyaschee-strashnoe.png",НСТ [RU]
-http://188.208.197.173:2580/channel/n5cc9e54b/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="НТВ Сериал [RU]" group-title="movies" tvg-id="hlsproxy-8194" tvg-logo="http://188.208.197.173:2580/logos/ntv-serial.png",НТВ Сериал [RU]
-http://188.208.197.173:2580/channel/3644eee1/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="НТВ ХИТ [RU]" group-title="movies" tvg-id="hlsproxy-212" tvg-logo="http://188.208.197.173:2580/logos/ntv-hit.png",НТВ ХИТ [RU]
-http://188.208.197.173:2580/channel/n6e00b3e9/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Наш Кинопоказ HD [RU]" group-title="movies" tvg-id="hlsproxy-2503" tvg-logo="http://188.208.197.173:2580/logos/nash-kinopokaz.png",Наш Кинопоказ HD [RU]
-http://188.208.197.173:2580/channel/n5c9feb59/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Наше Мужское HD [RU]" group-title="movies" tvg-id="hlsproxy-100096" tvg-logo="http://188.208.197.173:2580/logos/nashe-muzhskoe-hd.png",Наше Мужское HD [RU]
-http://188.208.197.173:2580/channel/2ba03f96/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Наше крутое HD [RU]" group-title="movies" tvg-id="hlsproxy-577" tvg-logo="http://188.208.197.173:2580/logos/nashe-krutoe.png",Наше крутое HD [RU]
-http://188.208.197.173:2580/channel/n749bef75/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Наше любимое HD [RU]" group-title="movies" tvg-id="hlsproxy-6117" tvg-logo="http://188.208.197.173:2580/logos/lubimoe.png",Наше любимое HD [RU]
-http://188.208.197.173:2580/channel/n24ac410/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Наше новое кино [RU]" group-title="movies" tvg-id="hlsproxy-329" tvg-logo="http://188.208.197.173:2580/logos/nashe-novoe-kino.png",Наше новое кино [RU]
-http://188.208.197.173:2580/channel/1aef78bc/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Ностальгия [RU]" group-title="movies" tvg-id="hlsproxy-349" tvg-logo="http://188.208.197.173:2580/logos/nostalgia.png",Ностальгия [RU]
-http://188.208.197.173:2580/channel/n56fc2540/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="О!Кино [RU]" group-title="movies" tvg-id="hlsproxy-55216" tvg-logo="http://188.208.197.173:2580/logos/o-kino.png",О!Кино [RU]
-http://188.208.197.173:2580/channel/384376c9/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Остросюжетное HD [RU]" group-title="movies" tvg-id="hlsproxy-576" tvg-logo="http://188.208.197.173:2580/logos/ostrosuzhetnoe.png",Остросюжетное HD [RU]
-http://188.208.197.173:2580/channel/7f8408a/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Премиальное HD [RU]" group-title="movies",Премиальное HD [RU]
-http://188.208.197.173:2580/channel/5a01d8f2/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Про Любовь HD [RU]" group-title="movies" tvg-id="hlsproxy-2510" tvg-logo="http://188.208.197.173:2580/logos/pro-lubov.png",Про Любовь HD [RU]
-http://188.208.197.173:2580/channel/n1b49982c/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Родное кино [RU]" group-title="movies" tvg-id="hlsproxy-330" tvg-logo="http://188.208.197.173:2580/logos/rodnoe-kino.png",Родное кино [RU]
-http://188.208.197.173:2580/channel/20590472/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Романтичное [RU]" group-title="movies" tvg-id="hlsproxy-55081" tvg-logo="http://188.208.197.173:2580/logos/romantichnoe.png",Романтичное [RU]
-http://188.208.197.173:2580/channel/5b9ca345/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Русская комедия [RU]" group-title="movies" tvg-id="hlsproxy-604" tvg-logo="http://188.208.197.173:2580/logos/komedia.png",Русская комедия [RU]
-http://188.208.197.173:2580/channel/n29461551/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Русский Бестселлер [RU]" group-title="movies" tvg-id="hlsproxy-399" tvg-logo="http://188.208.197.173:2580/logos/russkiy-bestseller.png",Русский Бестселлер [RU]
-http://188.208.197.173:2580/channel/n1db3f7c1/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Русский Детектив [RU]" group-title="movies" tvg-id="hlsproxy-400" tvg-logo="http://188.208.197.173:2580/logos/russkiy-detektiv.png",Русский Детектив [RU]
-http://188.208.197.173:2580/channel/n2488fe93/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Русский иллюзион [RU]" group-title="movies" tvg-id="hlsproxy-397" tvg-logo="http://188.208.197.173:2580/logos/russkiy-illuzion.png",Русский иллюзион [RU]
-http://188.208.197.173:2580/channel/n1e7566d3/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Страшное HD [RU]" group-title="movies",Страшное HD [RU]
-http://188.208.197.173:2580/channel/5a38b734/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="ТВ XXI [RU]" group-title="movies" tvg-id="hlsproxy-170" tvg-logo="http://188.208.197.173:2580/logos/tv-xxi.png",ТВ XXI [RU]
-http://188.208.197.173:2580/channel/7b5be192/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Феникс Плюс Кино [RU]" group-title="movies" tvg-id="hlsproxy-464" tvg-logo="http://188.208.197.173:2580/logos/feniks-plus-kino.png",Феникс Плюс Кино [RU]
-http://188.208.197.173:2580/channel/69c91b88/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Хит HD [RU]" group-title="movies" tvg-id="hlsproxy-2506" tvg-logo="http://188.208.197.173:2580/logos/hit.png",Хит HD [RU]
-http://188.208.197.173:2580/channel/2f95c69e/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Шокирующее HD [RU]" group-title="movies" tvg-id="hlsproxy-282" tvg-logo="http://188.208.197.173:2580/logos/shokiruyuschee.png",Шокирующее HD [RU]
-http://188.208.197.173:2580/channel/n4a723db7/index.m3u8?q=1763550651725
-
-
-
-
-#EXTINF:-1 tvg-name="Animal Planet HD [RU]" group-title="educational" tvg-id="hlsproxy-36" tvg-logo="http://188.208.197.173:2580/logos/animal-planet-hd.png",Animal Planet HD [RU]
-http://188.208.197.173:2580/channel/243f50eb/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Da Vinci [RU]" group-title="educational" tvg-id="hlsproxy-56" tvg-logo="http://188.208.197.173:2580/logos/da-vinci.png",Da Vinci [RU]
-http://188.208.197.173:2580/channel/2f5e82ad/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Dikaya Okhota HD [RU]" group-title="educational",Dikaya Okhota HD [RU]
-http://188.208.197.173:2580/channel/50a03f1c/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Dikaya Rybalka HD [RU]" group-title="educational",Dikaya Rybalka HD [RU]
-http://188.208.197.173:2580/channel/n7bf842aa/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Discovery HD [RU]" group-title="educational" tvg-id="hlsproxy-61" tvg-logo="http://188.208.197.173:2580/logos/discovery-channel-hd.png",Discovery HD [RU]
-http://188.208.197.173:2580/channel/277a443f/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Eureka HD [RU]" group-title="educational" tvg-id="hlsproxy-69" tvg-logo="http://188.208.197.173:2580/logos/eureka-hd.png",Eureka HD [RU]
-http://188.208.197.173:2580/channel/a8984f0/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Fashion TV HD [RU]" group-title="educational",Fashion TV HD [RU]
-http://188.208.197.173:2580/channel/1a90e461/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="H2 HD [RU]" group-title="educational" tvg-id="hlsproxy-100032" tvg-logo="http://188.208.197.173:2580/logos/history-2-hd.png",H2 HD [RU]
-http://188.208.197.173:2580/channel/1d011b41/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="HD Life [RU]" group-title="educational" tvg-id="hlsproxy-90" tvg-logo="http://188.208.197.173:2580/logos/hdl.png",HD Life [RU]
-http://188.208.197.173:2580/channel/331fc733/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="History HD [RU]" group-title="educational",History HD [RU]
-http://188.208.197.173:2580/channel/a9a8223/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Nat Geo Wild HD [RU]" group-title="educational" tvg-id="hlsproxy-129" tvg-logo="http://188.208.197.173:2580/logos/nat-geo-wild-hd.png",Nat Geo Wild HD [RU]
-http://188.208.197.173:2580/channel/n2aa6f0f1/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="National Geographic HD [RU]" group-title="educational" tvg-id="hlsproxy-131" tvg-logo="http://188.208.197.173:2580/logos/national-geographic-hd.png",National Geographic HD [RU]
-http://188.208.197.173:2580/channel/7b2eec54/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Travel Channel HD [RU]" group-title="educational" tvg-id="hlsproxy-183" tvg-logo="http://188.208.197.173:2580/logos/travel-channel-hd.png",Travel Channel HD [RU]
-http://188.208.197.173:2580/channel/4d40d354/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Travel+Adventure HD [RU]" group-title="educational" tvg-id="hlsproxy-185" tvg-logo="http://188.208.197.173:2580/logos/travel-adventure-hd.png",Travel+Adventure HD [RU]
-http://188.208.197.173:2580/channel/ndbe43ca/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Viasat Explore [RU]" group-title="educational" tvg-id="hlsproxy-194" tvg-logo="http://188.208.197.173:2580/logos/viasat-explore.png",Viasat Explore [RU]
-http://188.208.197.173:2580/channel/n2d92a160/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Viasat History [RU]" group-title="educational" tvg-id="hlsproxy-196" tvg-logo="http://188.208.197.173:2580/logos/viasat-history.png",Viasat History [RU]
-http://188.208.197.173:2580/channel/n2ec372c1/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Viasat Nature [RU]" group-title="educational" tvg-id="hlsproxy-197" tvg-logo="http://188.208.197.173:2580/logos/viasat-nature.png",Viasat Nature [RU]
-http://188.208.197.173:2580/channel/175bc8a4/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Viasat Nature/History HD [RU]" group-title="educational" tvg-id="hlsproxy-198" tvg-logo="http://188.208.197.173:2580/logos/viasat-nature-hd-history-hd.png",Viasat Nature/History HD [RU]
-http://188.208.197.173:2580/channel/4359b7c3/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Авто 24 [RU]" group-title="educational" tvg-id="hlsproxy-93" tvg-logo="http://188.208.197.173:2580/logos/avto24.png",Авто 24 [RU]
-http://188.208.197.173:2580/channel/417bb1af/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Авто Плюс [RU]" group-title="educational" tvg-id="hlsproxy-209" tvg-logo="http://188.208.197.173:2580/logos/avto-plus.png",Авто Плюс [RU]
-http://188.208.197.173:2580/channel/n394571e/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="В мире животных [RU]" group-title="educational",В мире животных [RU]
-http://188.208.197.173:2580/channel/474f4dcf/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Глазами туриста HD [RU]" group-title="educational" tvg-id="hlsproxy-1131" tvg-logo="http://188.208.197.173:2580/logos/glazami-turista.png",Глазами туриста HD [RU]
-http://188.208.197.173:2580/channel/28b281e2/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Диалоги о рыбалке [RU]" group-title="educational" tvg-id="hlsproxy-52975" tvg-logo="http://188.208.197.173:2580/logos/dialogi-o-rybalke.png",Диалоги о рыбалке [RU]
-http://188.208.197.173:2580/channel/2173c195/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Дикий [RU]" group-title="educational" tvg-id="hlsproxy-53816" tvg-logo="http://188.208.197.173:2580/logos/dikiy.png",Дикий [RU]
-http://188.208.197.173:2580/channel/4be9c2bc/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Доктор [RU]" group-title="educational" tvg-id="hlsproxy-9" tvg-logo="http://188.208.197.173:2580/logos/doktor.png",Доктор [RU]
-http://188.208.197.173:2580/channel/9145517/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Драйв [RU]" group-title="educational" tvg-id="hlsproxy-248" tvg-logo="http://188.208.197.173:2580/logos/draiv.png",Драйв [RU]
-http://188.208.197.173:2580/channel/835c8f6/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Еда Премиум HD [RU]" group-title="educational" tvg-id="hlsproxy-250" tvg-logo="http://188.208.197.173:2580/logos/eda-hd.png",Еда Премиум HD [RU]
-http://188.208.197.173:2580/channel/n3c202af7/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Живая планета [RU]" group-title="educational" tvg-id="hlsproxy-421" tvg-logo="http://188.208.197.173:2580/logos/zhivaya-planeta.png",Живая планета [RU]
-http://188.208.197.173:2580/channel/13a0756a/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Загородная жизнь [RU]" group-title="educational" tvg-id="hlsproxy-257" tvg-logo="http://188.208.197.173:2580/logos/zagorodnaya-zhizn.png",Загородная жизнь [RU]
-http://188.208.197.173:2580/channel/3495acfd/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Здоровое ТВ [RU]" group-title="educational",Здоровое ТВ [RU]
-http://188.208.197.173:2580/channel/4f07530d/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Мир Вокруг HD [RU]" group-title="educational" tvg-id="hlsproxy-55137" tvg-logo="http://188.208.197.173:2580/logos/mir-vokrug.png",Мир Вокруг HD [RU]
-http://188.208.197.173:2580/channel/2912f055/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Моя планета HD [RU]" group-title="educational",Моя планета HD [RU]
-http://188.208.197.173:2580/channel/60db5816/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Мужской [RU]" group-title="educational" tvg-id="hlsproxy-312" tvg-logo="http://188.208.197.173:2580/logos/muzhskoy.png",Мужской [RU]
-http://188.208.197.173:2580/channel/n347022b0/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="НАНО [RU]" group-title="educational" tvg-id="hlsproxy-127" tvg-logo="http://188.208.197.173:2580/logos/nano.png",НАНО [RU]
-http://188.208.197.173:2580/channel/n5e287ba9/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="НТВ Стиль [RU]" group-title="educational" tvg-id="hlsproxy-8191" tvg-logo="http://188.208.197.173:2580/logos/ntv-style.png",НТВ Стиль [RU]
-http://188.208.197.173:2580/channel/630c021e/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Наука 2.0 [RU]" group-title="educational" tvg-id="hlsproxy-345" tvg-logo="http://188.208.197.173:2580/logos/nauka-rus-2-0.png",Наука 2.0 [RU]
-http://188.208.197.173:2580/channel/n190bae47/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Оружие [RU]" group-title="educational" tvg-id="hlsproxy-357" tvg-logo="http://188.208.197.173:2580/logos/oruzhie.png",Оружие [RU]
-http://188.208.197.173:2580/channel/n35bab2e7/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Охотник и Рыболов HD [RU]" group-title="educational" tvg-id="hlsproxy-511" tvg-logo="http://188.208.197.173:2580/logos/ohotnik-i-rybolov-hd.png",Охотник и Рыболов HD [RU]
-http://188.208.197.173:2580/channel/n256a88e/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Поехали! [RU]" group-title="educational" tvg-id="hlsproxy-867" tvg-logo="http://188.208.197.173:2580/logos/poehali.png",Поехали! [RU]
-http://188.208.197.173:2580/channel/4f011888/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Приключения HD [RU]" group-title="educational" tvg-id="hlsproxy-455" tvg-logo="http://188.208.197.173:2580/logos/prikluchenia-hd.png",Приключения HD [RU]
-http://188.208.197.173:2580/channel/n1f2b5781/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Сов. Секретно [RU]" group-title="educational" tvg-id="hlsproxy-417" tvg-logo="http://188.208.197.173:2580/logos/sovershenno-sekretno.png",Сов. Секретно [RU]
-http://188.208.197.173:2580/channel/6ab17bc4/index.m3u8?q=1763550651725
-#EXTINF:-1 tvg-name="Усадьба [RU]" group-title="educational" tvg-id="hlsproxy-462" tvg-logo="http://188.208.197.173:2580/logos/usadba.png",Усадьба [RU]
-http://188.208.197.173:2580/channel/25383b6a/index.m3u8?q=1763550651725
