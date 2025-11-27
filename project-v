@@ -385,7 +385,7 @@ http://195.191.208.11:8087/udp/238.9.64.77:1234
 http://195.191.208.11:8087/udp/238.9.64.149:1234
 #EXTINF:-1 group-title="Спорт",KHL Prime HD
 http://195.191.208.11:8087/udp/238.9.64.177:1234
-#EXTINF:-1 group-title="Окко",Окко
+#EXTINF:-1 group-title="Спорт",Окко
 http://185.221.213.254:8080/Okko/index.m3u8
 
 
