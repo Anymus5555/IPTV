@@ -1,1 +1,464 @@
+#EXTM3U
+#EXTINF:-1 group-title="Россия",Первый Канал
+http://195.191.208.11:8087/udp/238.2.2.239:1234
+#EXTINF:-1 group-title="Россия",Первый Канал +2
+http://195.191.208.11:8087/udp/238.2.2.189:1234
+#EXTINF:-1 group-title="Россия",Первый Канал +4
+http://195.191.208.11:8087/udp/238.2.2.219:1234
+#EXTINF:-1 group-title="Россия",Россия 1
+http://195.191.208.11:8087/udp/238.2.3.4:1234
+#EXTINF:-1 group-title="Россия",Россия 1 HD
+http://195.191.208.11:8087/udp/224.0.191.220:1234
+#EXTINF:-1 group-title="Россия",Россия РТР
+http://195.191.208.11:8087/udp/238.2.1.97:1234
+#EXTINF:-1 group-title="Россия",Россия 1 (+2)
+http://195.191.208.11:8087/udp/238.2.2.190:1234
+#EXTINF:-1 group-title="Россия",Россия 1 (+4)
+http://195.191.208.11:8087/udp/238.2.2.220:1234
+#EXTINF:-1 group-title="Россия",Россия 1 (+6)
+http://195.191.208.11:8087/udp/238.2.2.240:1234
+#EXTINF:-1 group-title="Россия",Россия К
+http://195.191.208.11:8087/udp/238.2.15.141:1234
+#EXTINF:-1 group-title="Россия",Россия К (+2)
+http://195.191.208.11:8087/udp/238.2.2.224:1234
+#EXTINF:-1 group-title="Россия",Россия К (+4)
+http://195.191.208.11:8087/udp/238.2.2.194:1234
+#EXTINF:-1 group-title="Россия",Россия К (+6)
+http://195.191.208.11:8087/udp/238.2.2.244:1234
+#EXTINF:-1 group-title="Россия",Россия 24
+http://195.191.208.11:8087/udp/238.9.64.49:1234
+#EXTINF:-1 group-title="Россия",Россия 24 (+4)
+http://195.191.208.11:8087/udp/238.2.2.225:1234
+#EXTINF:-1 group-title="Россия",Россия 24 +2
+http://195.191.208.11:8087/udp/238.2.2.195:1234
+#EXTINF:-1 group-title="Россия",Россия 24 +6
+http://195.191.208.11:8087/udp/238.2.2.245:1234
+#EXTINF:-1 group-title="Россия",НТВ
+http://195.191.208.11:8087/udp/224.0.191.149:1234
+#EXTINF:-1 group-title="Россия",НТВ (+2)
+http://195.191.208.11:8087/udp/238.2.2.192:1234
+#EXTINF:-1 group-title="Россия",НТВ (+4)
+http://195.191.208.11:8087/udp/238.2.2.222:1234
+#EXTINF:-1 group-title="Россия",НТВ (+6)
+http://195.191.208.11:8087/udp/238.2.2.242:1234
+#EXTINF:-1 group-title="Россия",НТВ-Мир
+http://195.191.208.11:8087/udp/238.2.2.115:1234
+#EXTINF:-1 group-title="Россия",НТВ сериал
+http://195.191.208.11:8087/udp/238.2.3.16:1234
+#EXTINF:-1 group-title="Россия",НТВ Право
+http://195.191.208.11:8087/udp/238.2.3.17:1234
+#EXTINF:-1 group-title="Россия",НТВ Стиль
+http://195.191.208.11:8087/udp/238.2.3.18:1234
+#EXTINF:-1 group-title="Россия",Звезда
+http://195.191.208.11:8087/udp/238.9.64.170:1234
+#EXTINF:-1 group-title="Россия",Звезда (+2)
+http://195.191.208.11:8087/udp/238.2.2.205:1234
+#EXTINF:-1 group-title="Россия",Звезда (+4)
+http://195.191.208.11:8087/udp/238.2.2.235:1234
+#EXTINF:-1 group-title="Россия",Звезда (+6)
+http://195.191.208.11:8087/udp/238.2.2.255:1234
+#EXTINF:-1 group-title="Россия",Арсенал HD
+http://195.191.208.11:8087/udp/238.2.49.131:1234
+#EXTINF:-1 group-title="Россия",Пятый Канал
+http://195.191.208.11:8087/udp/224.0.191.150:1234
+#EXTINF:-1 group-title="Россия",Пятый Канал +2
+http://195.191.208.11:8087/udp/238.2.2.193:1234
+#EXTINF:-1 group-title="Россия",Пятый Канал +4
+http://195.191.208.11:8087/udp/238.2.2.223:1234
+#EXTINF:-1 group-title="Россия",Пятый Канал +6
+http://195.191.208.11:8087/udp/238.2.2.243:1234
+#EXTINF:-1 group-title="Россия",ТВЦ
+http://195.191.208.11:8087/udp/238.9.64.3:1234
+#EXTINF:-1 group-title="Россия",ТВЦ +2
+http://195.191.208.11:8087/udp/238.2.2.198:1234
+#EXTINF:-1 group-title="Россия",ТВЦ +4
+http://195.191.208.11:8087/udp/238.2.2.228:1234
+#EXTINF:-1 group-title="Россия",ТВЦ +6
+http://195.191.208.11:8087/udp/238.2.2.248:1234
+#EXTINF:-1 group-title="Россия",РЕН ТВ
+http://195.191.208.11:8087/udp/224.0.191.156:1234
+#EXTINF:-1 group-title="Россия",РЕН ТВ +2
+http://195.191.208.11:8087/udp/238.2.2.199:1234
+#EXTINF:-1 group-title="Россия",РЕН ТВ +4
+http://195.191.208.11:8087/udp/238.2.2.229:1234
+#EXTINF:-1 group-title="Россия",РЕН ТВ +6
+http://195.191.208.11:8087/udp/238.2.2.249:1234
+#EXTINF:-1 group-title="Россия",Домашний
+http://195.191.208.11:8087/udp/238.9.64.115:1234
+#EXTINF:-1 group-title="Россия",Домашний +2
+http://195.191.208.11:8087/udp/238.2.2.202:1234
+#EXTINF:-1 group-title="Россия",Домашний +4
+http://195.191.208.11:8087/udp/238.2.2.232:1234
+#EXTINF:-1 group-title="Россия",Домашний +6
+http://195.191.208.11:8087/udp/238.2.2.252:1234
+#EXTINF:-1 group-title="Россия",Пятница
+http://195.191.208.11:8087/udp/224.0.191.161:1234
+#EXTINF:-1 group-title="Россия",Пятница! (+2)
+http://195.191.208.11:8087/udp/238.2.2.204:1234
+#EXTINF:-1 group-title="Россия",Пятница! (+4)
+http://195.191.208.11:8087/udp/238.2.2.234:1234
+#EXTINF:-1 group-title="Россия",Пятница! (+6)
+http://195.191.208.11:8087/udp/238.2.2.254:1234
+#EXTINF:-1 group-title="Россия",МИР
+http://195.191.208.11:8087/udp/238.9.64.118:1234
+#EXTINF:-1 group-title="Россия",Мир (+2)
+http://195.191.208.11:8087/udp/238.2.2.206:1234
+#EXTINF:-1 group-title="Россия",МИР (+4)
+http://195.191.208.11:8087/udp/238.2.2.236:1234
+#EXTINF:-1 group-title="Россия",МИР 24
+http://195.191.208.11:8087/udp/238.9.64.236:1234
+#EXTINF:-1 group-title="Россия",ОТР
+http://195.191.208.11:8087/udp/224.0.191.154:1234
+#EXTINF:-1 group-title="Россия",ОТР (+2)
+http://195.191.208.11:8087/udp/238.2.2.227:1234
+#EXTINF:-1 group-title="Россия",ОТР (+4)
+http://195.191.208.11:8087/udp/238.2.2.197:1234
+#EXTINF:-1 group-title="Россия",ТНТ
+http://195.191.208.11:8087/udp/238.2.2.237:1234
+#EXTINF:-1 group-title="Россия",ТНТ HD
+http://195.191.208.11:8087/udp/238.9.64.86:1234
+#EXTINF:-1 group-title="Россия",ТНТ4
+http://195.191.208.11:8087/udp/238.9.64.41:1234
+#EXTINF:-1 group-title="Россия",СТС
+http://195.191.208.11:8087/udp/238.9.64.8:1234
+#EXTINF:-1 group-title="Россия",СТС (+2)
+http://195.191.208.11:8087/udp/238.2.2.201:1234
+#EXTINF:-1 group-title="Россия",СТС (+4)
+http://195.191.208.11:8087/udp/238.2.2.231:1234
+#EXTINF:-1 group-title="Россия",СТС (+6)
+http://195.191.208.11:8087/udp/238.2.2.251:1234
+#EXTINF:-1 group-title="Познавательный",Конный мир HD
+http://195.191.208.11:8087/udp/238.2.49.138:1234
+#EXTINF:-1 group-title="Познавательный",NATIONAL GEOGRAPHIC HD
+http://195.191.208.11:8087/udp/238.2.48.143:1234
+#EXTINF:-1 group-title="Познавательный",NAT GEO WILD HD
+http://195.191.208.11:8087/udp/238.2.48.162:1234
+#EXTINF:-1 group-title="Познавательный",Investigation Discovery
+http://195.191.208.11:8087/udp/238.2.1.106:1234
+#EXTINF:-1 group-title="Познавательный",TERRA
+http://195.191.208.11:8087/udp/238.9.64.31:1234
+#EXTINF:-1 group-title="Познавательный",Viasat Explore
+http://195.191.208.11:8087/udp/238.9.64.79:1234
+#EXTINF:-1 group-title="Познавательный",Viasat History
+http://195.191.208.11:8087/udp/238.9.64.78:1234
+#EXTINF:-1 group-title="Познавательный",Viasat Nature
+http://195.191.208.11:8087/udp/238.9.64.119:1234
+#EXTINF:-1 group-title="Познавательный",HISTORY
+http://195.191.208.11:8087/udp/238.2.48.188:1234
+#EXTINF:-1 group-title="Познавательный",Моя Планета
+http://195.191.208.11:8087/udp/238.9.64.135:1234
+#EXTINF:-1 group-title="Познавательный",Galaxy
+http://195.191.208.11:8087/udp/238.2.1.32:1234
+#EXTINF:-1 group-title="Познавательный",Первый Космический
+http://195.191.208.11:8087/udp/238.2.49.117:1234
+#EXTINF:-1 group-title="Познавательный",Travel+Adventure
+http://195.191.208.11:8087/udp/238.9.64.164:1234
+#EXTINF:-1 group-title="Познавательный",Приключения HD
+http://195.191.208.11:8087/udp/238.2.48.140:1234
+#EXTINF:-1 group-title="Познавательный",Поехали!
+http://195.191.208.11:8087/udp/238.2.1.41:1234
+#EXTINF:-1 group-title="Познавательный",RTG HD
+http://195.191.208.11:8087/udp/238.2.48.186:1234
+#EXTINF:-1 group-title="Познавательный",365 дней ТВ
+http://195.191.208.11:8087/udp/238.9.64.207:1234
+#EXTINF:-1 group-title="Познавательный",Точка РФ
+http://195.191.208.11:8087/udp/238.9.64.142:1234
+#EXTINF:-1 group-title="Познавательный",Точка Отрыва
+http://195.191.208.11:8087/udp/238.2.2.89:1234
+#EXTINF:-1 group-title="Познавательный",Русский Экстрим
+http://195.191.208.11:8087/udp/238.2.49.89:1234
+#EXTINF:-1 group-title="Познавательный",Зоо ТВ
+http://195.191.208.11:8087/udp/238.2.1.130:1234
+#EXTINF:-1 group-title="Познавательный",В мире животных HD
+http://195.191.208.11:8087/udp/238.2.49.116:1234
+#EXTINF:-1 group-title="Познавательный",ДОМАШНИЕ ЖИВОТНЫЕ
+http://195.191.208.11:8087/udp/238.9.0.121:1234
+#EXTINF:-1 group-title="Познавательный",Охотник и рыболов HD
+http://195.191.208.11:8087/udp/238.2.49.108:1234
+#EXTINF:-1 group-title="Познавательный",Дикий
+http://195.191.208.11:8087/udp/238.2.2.88:1234
+#EXTINF:-1 group-title="Познавательный",Наша Тема HD
+http://195.191.208.11:8087/udp/224.0.191.55:1234
+#EXTINF:-1 group-title="Познавательный",Кухня
+http://195.191.208.11:8087/udp/238.9.64.38:1234
+#EXTINF:-1 group-title="Познавательный",Food Time
+http://195.191.208.11:8087/udp/238.2.48.141:1234
+#EXTINF:-1 group-title="Познавательный",Первый Вегетарианский
+http://195.191.208.11:8087/udp/238.2.1.79:1234
+#EXTINF:-1 group-title="Познавательный",Загородный
+http://195.191.208.11:8087/udp/238.2.1.129:1234
+#EXTINF:-1 group-title="Познавательный",Наука
+http://195.191.208.11:8087/udp/238.9.64.155:1234
+#EXTINF:-1 group-title="Россия",Суббота
+http://195.191.208.11:8087/udp/224.0.191.97:1234
+#EXTINF:-1 group-title="Россия",Перец
+http://195.191.208.11:8087/udp/238.2.1.228:1234
+#EXTINF:-1 group-title="Россия",Дом Кино
+http://195.191.208.11:8087/udp/238.9.0.42:1234
+#EXTINF:-1 group-title="Познавательный",Авто Плюс
+http://195.191.208.11:8087/udp/238.9.64.29:1234
+#EXTINF:-1 group-title="Кино",TV1000 HD
+http://195.191.208.11:8087/udp/238.2.49.232:1234
+#EXTINF:-1 group-title="Кино",TV1000 action
+http://195.191.208.11:8087/udp/238.9.64.83:1234
+#EXTINF:-1 group-title="Кино",TV1000 Русское кино
+http://195.191.208.11:8087/udp/238.9.0.81:1234
+#EXTINF:-1 group-title="Кино",VIP Comedy HD
+http://195.191.208.11:8087/udp/238.9.64.194:1234
+#EXTINF:-1 group-title="Кино",VIP Megahit HD
+http://195.191.208.11:8087/udp/238.9.64.195:1234
+#EXTINF:-1 group-title="Кино",VIP Premiere HD
+http://195.191.208.11:8087/udp/238.9.64.196:1234
+#EXTINF:-1 group-title="Кино",Русский роман
+http://195.191.208.11:8087/udp/238.9.64.172:1234
+#EXTINF:-1 group-title="Кино",Русский Иллюзион
+http://195.191.208.11:8087/udp/238.9.64.201:1234
+#EXTINF:-1 group-title="Кино",Иллюзион+
+http://195.191.208.11:8087/udp/238.9.64.202:1234
+#EXTINF:-1 group-title="Кино",Мир сериала
+http://195.191.208.11:8087/udp/238.2.1.35:1234
+#EXTINF:-1 group-title="Кино",Шокирующее HD
+http://195.191.208.11:8087/udp/238.2.48.137:1234
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://195.191.208.11:8087/udp/238.9.64.209:1234
+#EXTINF:-1 group-title="Кино",КИНОСВИДАНИЕ
+http://195.191.208.11:8087/udp/238.9.64.11:1234
+#EXTINF:-1 group-title="Кино",КИНОПРЕМЬЕРА HD
+http://195.191.208.11:8087/udp/238.9.64.183:1234
+#EXTINF:-1 group-title="Кино",КИНОСЕРИЯ
+http://195.191.208.11:8087/udp/238.9.64.208:1234
+#EXTINF:-1 group-title="Кино",КИНОСЕМЬЯ
+http://195.191.208.11:8087/udp/238.9.64.13:1234
+#EXTINF:-1 group-title="Кино",КИНОХИТ
+http://195.191.208.11:8087/udp/238.9.64.33:1234
+#EXTINF:-1 group-title="Кино",КИНОМИКС
+http://195.191.208.11:8087/udp/238.9.64.167:1234
+#EXTINF:-1 group-title="Кино",НАШЕ НОВОЕ КИНО
+http://195.191.208.11:8087/udp/238.9.64.35:1234
+#EXTINF:-1 group-title="Кино",Киноужас HD
+http://195.191.208.11:8087/udp/238.2.49.3:1234
+#EXTINF:-1 group-title="Кино",РОДНОЕ КИНО
+http://195.191.208.11:8087/udp/238.9.64.12:1234
+#EXTINF:-1 group-title="Кино",КИНОКОМЕДИЯ
+http://195.191.208.11:8087/udp/238.9.64.26:1234
+#EXTINF:-1 group-title="Кино",Кино ТВ HD
+http://195.191.208.11:8087/udp/238.2.49.125:1234
+#EXTINF:-1 group-title="Россия",ТВ3
+http://195.191.208.11:8087/udp/238.9.64.66:1234
+#EXTINF:-1 group-title="Россия",ТВ3 (+2)
+http://195.191.208.11:8087/udp/238.2.2.203:1234
+#EXTINF:-1 group-title="Россия",ТВ3 (+4)
+http://195.191.208.11:8087/udp/238.2.2.233:1234
+#EXTINF:-1 group-title="Россия",ТВ3 (+6)
+http://195.191.208.11:8087/udp/238.2.2.253:1234
+#EXTINF:-1 group-title="Россия",Ретро
+http://195.191.208.11:8087/udp/224.0.191.128:1234
+#EXTINF:-1 group-title="Кино",ЕвроКино
+http://195.191.208.11:8087/udp/238.9.64.96:1234
+#EXTINF:-1 group-title="Кино",TV XXI
+http://195.191.208.11:8087/udp/224.0.90.208:1234
+#EXTINF:-1 group-title="Кино",Amedia 2
+http://195.191.208.11:8087/udp/238.9.64.95:1234
+#EXTINF:-1 group-title="Кино",Amedia Hit
+http://195.191.208.11:8087/udp/238.9.64.90:1234
+#EXTINF:-1 group-title="Кино",Amedia Premium HD
+http://195.191.208.11:8087/udp/238.9.64.187:1234
+#EXTINF:-1 group-title="Кино",.black
+http://195.191.208.11:8087/udp/238.9.64.235:1234
+#EXTINF:-1 group-title="Кино",.red
+http://195.191.208.11:8087/udp/224.0.90.90:1234
+#EXTINF:-1 group-title="Кино",Hollywood HD
+http://195.191.208.11:8087/udp/238.9.64.176:1234
+#EXTINF:-1 group-title="Кино",FX HD
+http://195.191.208.11:8087/udp/238.2.48.178:1234
+#EXTINF:-1 group-title="Кино",FX LIFE HD
+http://195.191.208.11:8087/udp/238.2.48.179:1234
+#EXTINF:-1 group-title="Кино",САПФИР
+http://195.191.208.11:8087/udp/238.9.64.94:1234
+#EXTINF:-1 group-title="Кино",КИНЕКО HD
+http://195.191.208.11:8087/udp/238.9.64.178:1234
+#EXTINF:-1 group-title="Кино",SHOT TV
+http://195.191.208.11:8087/udp/238.9.64.150:1234
+#EXTINF:-1 group-title="Кино",Trash HD
+http://195.191.208.11:8087/udp/224.0.191.29:1234
+#EXTINF:-1 group-title="Кино",ИНДИЙСКОЕ КИНО
+http://195.191.208.11:8087/udp/238.9.64.62:1234
+#EXTINF:-1 group-title="Кино",Дорама
+http://195.191.208.11:8087/udp/238.2.15.255:1234
+#EXTINF:-1 group-title="Кино",Красная Линия
+http://195.191.208.11:8087/udp/238.2.15.83:1234
+#EXTINF:-1 group-title="Познавательный",Москва доверие
+http://195.191.208.11:8087/udp/238.2.1.65:1234
+#EXTINF:-1 group-title="Кино",Ностальгия
+http://195.191.208.11:8087/udp/238.9.64.206:1234
+#EXTINF:-1 group-title="Кино",Капитан фантастика HD
+http://195.191.208.11:8087/udp/238.2.49.128:1234
+#EXTINF:-1 group-title="Детские",Карусель
+http://195.191.208.11:8087/udp/238.9.64.40:1234
+#EXTINF:-1 group-title="Детские",Карусель +2
+http://195.191.208.11:8087/udp/238.2.2.196:1234
+#EXTINF:-1 group-title="Детские",Карусель +4
+http://195.191.208.11:8087/udp/238.2.2.226:1234
+#EXTINF:-1 group-title="Детские",Карусель +6
+http://195.191.208.11:8087/udp/238.2.2.246:1234
+#EXTINF:-1 group-title="Детские",Мульт
+http://195.191.208.11:8087/udp/238.9.64.200:1234
+#EXTINF:-1 group-title="Детские",Мультиландия
+http://195.191.208.11:8087/udp/238.9.64.116:1234
+#EXTINF:-1 group-title="Детские",Уникум
+http://195.191.208.11:8087/udp/238.9.64.98:1234
+#EXTINF:-1 group-title="Детские",2X2
+http://195.191.208.11:8087/udp/238.9.64.100:1234
+#EXTINF:-1 group-title="Детские",TiJi
+http://195.191.208.11:8087/udp/238.9.64.218:1234
+#EXTINF:-1 group-title="Детские",О!
+http://195.191.208.11:8087/udp/238.9.64.182:1234
+#EXTINF:-1 group-title="Детские",Мультимузыка
+http://195.191.208.11:8087/udp/238.9.64.156:1234
+#EXTINF:-1 group-title="Музыка",BRIDGE TV
+http://195.191.208.11:8087/udp/224.0.191.103:1234
+#EXTINF:-1 group-title="Музыка",BRIDGE TV Hits
+http://195.191.208.11:8087/udp/224.0.191.106:1234
+#EXTINF:-1 group-title="Музыка",BRIDGE РУССКИЙ ХИТ
+http://195.191.208.11:8087/udp/238.9.64.158:1234
+#EXTINF:-1 group-title="Музыка",BRIDGE HD
+http://195.191.208.11:8087/udp/238.9.64.154:1234
+#EXTINF:-1 group-title="Музыка",BRIDGE TV Classic
+http://195.191.208.11:8087/udp/224.0.191.104:1234
+#EXTINF:-1 group-title="Музыка",BRIDGE TV Шлягер
+http://195.191.208.11:8087/udp/224.0.191.245:1234
+#EXTINF:-1 group-title="Музыка",Russian music box
+http://195.191.208.11:8087/udp/238.2.49.240:1234
+#EXTINF:-1 group-title="Музыка",Музыка Первого
+http://195.191.208.11:8087/udp/238.9.64.133:1234
+#EXTINF:-1 group-title="Музыка",МузТВ
+http://195.191.208.11:8087/udp/238.9.64.10:1234
+#EXTINF:-1 group-title="Музыка",МУЗ ТВ (+2)
+http://195.191.208.11:8087/udp/238.2.2.208:1234
+#EXTINF:-1 group-title="Музыка",МУЗ ТВ (+4)
+http://195.191.208.11:8087/udp/238.2.2.238:1234
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://195.191.208.11:8087/udp/238.9.64.63:1234
+#EXTINF:-1 group-title="Музыка",Европа Плюс ТВ
+http://195.191.208.11:8087/udp/224.0.191.60:1234
+#EXTINF:-1 group-title="Музыка",МУЗЫКА LIVE
+http://195.191.208.11:8087/udp/238.9.64.222:1234
+#EXTINF:-1 group-title="Музыка",MCM Top
+http://195.191.208.11:8087/udp/238.9.64.45:1234
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
+http://195.191.208.11:8087/udp/238.2.48.145:1234
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://195.191.208.11:8087/udp/238.2.3.5:1234
+#EXTINF:-1 group-title="Спорт",Матч! +2
+http://195.191.208.11:8087/udp/238.2.2.191:1234
+#EXTINF:-1 group-title="Спорт",Матч! +4
+http://195.191.208.11:8087/udp/238.2.2.221:1234
+#EXTINF:-1 group-title="Спорт",Матч! +6
+http://195.191.208.11:8087/udp/238.2.2.241:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА
+http://195.191.208.11:8087/udp/238.9.64.136:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА
+http://195.191.208.11:8087/udp/238.9.64.153:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! СТРАНА
+http://195.191.208.11:8087/udp/238.9.64.134:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ ПРЕМЬЕР
+http://195.191.208.11:8087/udp/238.9.64.37:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://195.191.208.11:8087/udp/238.9.64.30:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1
+http://195.191.208.11:8087/udp/238.9.64.54:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2
+http://195.191.208.11:8087/udp/238.9.64.205:1234
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+http://195.191.208.11:8087/udp/238.2.49.73:1234
+#EXTINF:-1 group-title="Спорт",ЕХ Extreme
+http://195.191.208.11:8087/udp/238.9.64.53:1234
+#EXTINF:-1 group-title="Спорт",БОКС ТВ
+http://195.191.208.11:8087/udp/224.0.191.59:1234
+#EXTINF:-1 group-title="Спорт",MMA-TV.COM
+http://195.191.208.11:8087/udp/224.0.191.63:1234
+#EXTINF:-1 group-title="Спорт",Удар
+http://195.191.208.11:8087/udp/238.9.64.233:1234
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+http://195.191.208.11:8087/udp/238.9.64.77:1234
+#EXTINF:-1 group-title="Спорт",KHL
+http://195.191.208.11:8087/udp/238.9.64.149:1234
+#EXTINF:-1 group-title="Спорт",KHL Prime HD
+http://195.191.208.11:8087/udp/238.9.64.177:1234
+#EXTINF:-1 group-title="Окко",Окко
+http://185.221.213.254:8080/Okko/index.m3u8
 
+
+#EXTINF:-1 tvg-id="hlsproxy-488" group-title="Армения" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1
+http://188.208.197.173:2580/channel/n1611b18e/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8509" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ss/shoghakat_tv_am.png",Shoghakat
+http://188.208.197.173:2580/channel/n1dec8e51/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Новости" tvg-id="hlsproxy-488" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1 News
+http://188.208.197.173:2580/channel/n6bd281f/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-487" tvg-logo="https://dl.dropboxusercontent.com/s/500w0rsb8ncw3kz/armenia.png",Armenia TV
+http://188.208.197.173:2580/channel/n31095db2/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-491" tvg-logo="https://dl.dropboxusercontent.com/s/cz7kwmw0jkf278z/shant.png",Shant
+http://188.208.197.173:2580/channel/n344fbed7/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8021" tvg-logo="https://dl.dropboxusercontent.com/s/bjzdxn4xtitz6iw/atv.jpg",ATV
+http://188.208.197.173:2580/channel/53db6a1a/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fast_and_fun_box_hd.png",Fast Sport
+http://188.208.197.173:2580/channel/n41a908c7/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fast_and_fun_box_hd.png",Fast Sport 1
+http://188.208.197.173:2580/channel/3202541e/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fast_and_fun_box_hd.png",Fast Sport 1
+http://188.208.197.173:2580/channel/n7b89eef5/index.m3u8?q=1763550651725
+
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8448" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kentron_tv_am.png",Kentron
+http://188.208.197.173:2580/channel/naf1d6d8/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Новости",FreeNews
+http://188.208.197.173:2580/channel/44c29e48/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",NUR TV
+http://188.208.197.173:2580/channel/n5f440fa0/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Boon TV
+http://188.208.197.173:2580/channel/2a10b02d/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54829" tvg-logo="https://dl.dropboxusercontent.com/s/pj9csbtje3n08vs/newtv.png",New Armenia
+http://188.208.197.173:2580/channel/n3998b64c/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",5TV
+http://188.208.197.173:2580/channel/53db3d0e/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-599" tvg-logo="https://dl.dropboxusercontent.com/s/8bz8sw56zjv45p7/21tv.png",Dar 21
+http://188.208.197.173:2580/channel/n6f9ce42d/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8445" tvg-logo="https://dl.dropboxusercontent.com/s/bqxjz7jfl1wjwwn/ararat.png",Ararat TV
+http://188.208.197.173:2580/channel/n4e1da71c/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Tsayg Gyumri
+http://188.208.197.173:2580/channel/209b0f1a/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-664" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fortuna_tv_am.png",Fortuna TV
+http://188.208.197.173:2580/channel/4b445ee/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Kotayq TV
+http://188.208.197.173:2580/channel/16500290/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Tavush TV
+http://188.208.197.173:2580/channel/29fc33f8/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-51784" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/dd/delta_tv_bg.png",Delta TV
+http://188.208.197.173:2580/channel/n2de3d52d/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Geghama TV
+http://188.208.197.173:2580/channel/1aaaa875/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Syuniq TV
+http://188.208.197.173:2580/channel/1172fe92/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-489" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/hh/h2_tv_am.png",H2
+http://188.208.197.173:2580/channel/n1611b18d/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8101" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/yy/yerkir_media_tv_am.png",Yerkir Media
+http://188.208.197.173:2580/channel/n43cb2a45/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-55160" tvg-logo="https://dl.dropboxusercontent.com/s/xig0qqu1s6nju7i/azatut.png",Azatutyun TV
+http://188.208.197.173:2580/channel/1a480484/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-51206" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/aa/abn_us.png",ABN (ArmNews 24)
+http://188.208.197.173:2580/channel/n7f632cb6/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",5TV Plus
+http://188.208.197.173:2580/channel/e6fad8c/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-491" tvg-logo="https://dl.dropboxusercontent.com/s/cz7kwmw0jkf278z/shant.png",Shant Gyumri
+http://188.208.197.173:2580/channel/n656bc248/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54499" tvg-logo="https://dl.dropboxusercontent.com/s/njiz4np6mxcucda/bazmoc.png",Bazmoc TV
+http://188.208.197.173:2580/channel/n7d1c15ed/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54498" tvg-logo="https://dl.dropboxusercontent.com/s/svsjvsjux6x30lr/hay.png",Hay TV
+http://188.208.197.173:2580/channel/n68c64ed5/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Armtoon
+http://188.208.197.173:2580/channel/n5cf4a13/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54510" tvg-logo="https://dl.dropboxusercontent.com/s/s5d7mukhecd45i0/shantserial.png",Shant Serial
+http://188.208.197.173:2580/channel/n520cdf15/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2461" tvg-logo="https://dl.dropboxusercontent.com/s/d2y5puhtzcptwae/shantkids.png",Shant Kids
+http://188.208.197.173:2580/channel/352daf24/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-488" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1 (Variant)
+http://188.208.197.173:2580/channel/n1078748e/index.m3u8?q=1763550651725
