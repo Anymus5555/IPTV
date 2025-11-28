@@ -436,7 +436,7 @@ http://188.208.197.173:2580/channel/16500290/index.m3u8?q=1763550651725
 http://188.208.197.173:2580/channel/29fc33f8/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-51784" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/dd/delta_tv_bg.png",Delta TV
 http://188.208.197.173:2580/channel/n2de3d52d/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения",Geghama TV
+#EXTINF:-1 group-title="Армения" tbg-logo="https://gisher.me/images1/armtv/main/geghama-tv.webp",Geghama TV
 http://188.208.197.173:2580/channel/1aaaa875/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения",Syuniq TV
 http://188.208.197.173:2580/channel/1172fe92/index.m3u8?q=1763550651725
