@@ -389,9 +389,9 @@ http://195.191.208.11:8087/udp/238.9.64.149:1234
 http://195.191.208.11:8087/udp/238.9.64.177:1234
 #EXTINF:-1 group-title="Спорт",Окко
 http://185.221.213.254:8080/Okko/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta 1 HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://stv.ee/wp-content/uploads/2023/10/RAW1bc5fe5e11333bbfdca077b9482ff552.png", Setanta 1 HD
 https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta 2 HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://sportuz.net/tv-channels/images/SetantaSport2.png", Setanta 2 HD
 https://vod.splay.uz/live_splay/original/Setanta2HD/playlist.m3u8
 
 
