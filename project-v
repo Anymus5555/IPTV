@@ -393,9 +393,9 @@ http://185.221.213.254:8080/Okko/index.m3u8
 https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://sportuz.net/tv-channels/images/SetantaSport2.png", Setanta 2 HD
 https://vod.splay.uz/live_splay/original/Setanta2HD/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 1
+#EXTINF:-1 group-title="Спорт"tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1
 http://ncdn-y1-w6.teamcloud.am/live/eds/Eurosport_1_HD/SAF-HLS/Eurosport_1_HD.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2
 http://ncdn-y1-w4.teamcloud.am/live/eds/Eurosport_2_HD/SAF-HLS/Eurosport_2_HD.m3u8
 
 
