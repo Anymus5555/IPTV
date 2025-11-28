@@ -423,15 +423,15 @@ https://fcluster02-am.fcloudns.com/channel3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJ
 
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8448" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kentron_tv_am.png",Kentron
 http://188.208.197.173:2580/channel/naf1d6d8/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения",FreeNews
+#EXTINF:-1 group-title="Армения" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Free-news-logo_new.jpg",FreeNews
 http://188.208.197.173:2580/channel/44c29e48/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения",NUR TV
+#EXTINF:-1 group-title="Армения" tvg-logo="https://www.aravot.am/wp-content/uploads/2021/10/Nur-TV.png",NUR TV
 http://188.208.197.173:2580/channel/n5f440fa0/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения",Boon TV
+#EXTINF:-1 group-title="Армения" tvg-logo="https://www.aliqmedia.am/wp-content/uploads/2022/07/boon-tv.jpg",Boon TV
 http://188.208.197.173:2580/channel/2a10b02d/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54829" tvg-logo="https://dl.dropboxusercontent.com/s/pj9csbtje3n08vs/newtv.png",New Armenia
 http://188.208.197.173:2580/channel/n3998b64c/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения",5TV
+#EXTINF:-1 group-title="Армения" tvg-logo="https://www.findin.am/wp-content/uploads/2023/01/5-TV-Channel-Findin.jpg",5TV
 http://188.208.197.173:2580/channel/53db3d0e/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-599" tvg-logo="https://dl.dropboxusercontent.com/s/8bz8sw56zjv45p7/21tv.png",Dar 21
 http://188.208.197.173:2580/channel/n6f9ce42d/index.m3u8?q=1763550651725
