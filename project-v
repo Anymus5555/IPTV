@@ -403,9 +403,9 @@ http://188.208.197.173:2580/channel/n31095db2/index.m3u8?q=1763550651725
 http://188.208.197.173:2580/channel/n344fbed7/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8021" tvg-logo="https://dl.dropboxusercontent.com/s/bjzdxn4xtitz6iw/atv.jpg",ATV
 http://188.208.197.173:2580/channel/53db6a1a/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://fasttv.am/svg/channels/fastsports.svg",Fast Sport
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/3f/45/a73f45a1-b4ad-6031-2d1b-b2b57014ade4/AppIcon-1x_U007epad-0-10-0-85-220-0.png/1200x630wa.png",Fast Sport
 http://188.208.197.173:2580/channel/n41a908c7/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://fasttv.am/svg/channels/fastsports1.svg",Fast Sport 1
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4hA-YN9Tfzs3zs-UZviwe2Wvit3xS0yf30w&s",Fast Sport 1
 http://188.208.197.173:2580/channel/3202541e/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://fasttv.am/svg/channels/fastsports2.svg",Fast Sport 2
 http://188.208.197.173:2580/channel/n7b89eef5/index.m3u8?q=1763550651725
