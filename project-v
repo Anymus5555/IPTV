@@ -273,6 +273,16 @@ http://195.191.208.11:8087/udp/224.0.90.90:1234
 http://195.191.208.11:8087/udp/238.9.64.176:1234
 #EXTINF:-1 group-title="Кино",FX HD
 http://195.191.208.11:8087/udp/238.2.48.178:1234
+#EXTINF:-1 group-title="Кино",TV4
+http://188.208.197.173/tv4/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://avatars.mds.yandex.net/i?id=0ac0bbde2c7439b7bba249f44317834e_l-5219173-images-thumbs&n=13",КиноЛаффка
+http://188.208.197.173/kinolafka/index.m3u8
+#EXTINF:-1 group-title="Кино",КиноЖелезо
+http://188.208.197.173/kinojelezo/index.m3u8
+#EXTINF:-1 group-title="Кино",Смотри Онлайн
+http://tvon.zapto.org/watch-online/index.m3u8
+#EXTINF:-1 group-title="Кино",Z MEDIA
+http://tvon.zapto.org/Zmedia/index.m3u8
 #EXTINF:-1 group-title="Кино",FX LIFE HD
 http://195.191.208.11:8087/udp/238.2.48.179:1234
 #EXTINF:-1 group-title="Кино",САПФИР
@@ -393,8 +403,6 @@ http://185.221.213.254:8080/Okko/index.m3u8
 https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://sportuz.net/tv-channels/images/SetantaSport2.png", Setanta 2 HD
 https://vod.splay.uz/live_splay/original/Setanta2HD/playlist.m3u8
-#EXTINF:-1 group-title="Спорт"tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png",Eurosport 1
-http://ncdn-y1-w6.teamcloud.am/live/eds/Eurosport_1_HD/SAF-HLS/Eurosport_1_HD.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2
 http://ncdn-y1-w4.teamcloud.am/live/eds/Eurosport_2_HD/SAF-HLS/Eurosport_2_HD.m3u8
 
@@ -473,4 +481,7 @@ http://188.208.197.173:2580/channel/n5cf4a13/index.m3u8?q=1763550651725
 http://188.208.197.173:2580/channel/n520cdf15/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-2461" tvg-logo="https://dl.dropboxusercontent.com/s/d2y5puhtzcptwae/shantkids.png",Shant Kids
 http://188.208.197.173:2580/channel/352daf24/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Լայմ Gold
+http://188.208.197.173:2101/limegold/index.m3u8
+
 
