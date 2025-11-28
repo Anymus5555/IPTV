@@ -198,9 +198,11 @@ http://195.191.208.11:8087/udp/238.9.0.42:1234
 #EXTINF:-1 group-title="Познавательный",Авто Плюс
 http://195.191.208.11:8087/udp/238.9.64.29:1234
 #EXTINF:-1 group-title="Кино",TV1000 HD
-http://195.191.208.11:8087/udp/238.2.49.232:1234
+http://188.208.197.173/viju/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 action
-http://195.191.208.11:8087/udp/238.9.64.83:1234
+hhttp://188.208.197.173/viju-action/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1765343569&md5=BSDKtEomNOn06dHRlc-slQ
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://195.191.208.11:8087/udp/238.9.0.81:1234
 #EXTINF:-1 group-title="Кино",VIP Comedy HD
@@ -401,11 +403,11 @@ http://188.208.197.173:2580/channel/n31095db2/index.m3u8?q=1763550651725
 http://188.208.197.173:2580/channel/n344fbed7/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8021" tvg-logo="https://dl.dropboxusercontent.com/s/bjzdxn4xtitz6iw/atv.jpg",ATV
 http://188.208.197.173:2580/channel/53db6a1a/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fast_and_fun_box_hd.png",Fast Sport
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://fasttv.am/svg/channels/fastsports.svg",Fast Sport
 http://188.208.197.173:2580/channel/n41a908c7/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fast_and_fun_box_hd.png",Fast Sport 1
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://fasttv.am/svg/channels/fastsports1.svg",Fast Sport 1
 http://188.208.197.173:2580/channel/3202541e/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fast_and_fun_box_hd.png",Fast Sport 1
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://fasttv.am/svg/channels/fastsports2.svg",Fast Sport 2
 http://188.208.197.173:2580/channel/n7b89eef5/index.m3u8?q=1763550651725
 
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8448" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kentron_tv_am.png",Kentron
