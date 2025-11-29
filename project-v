@@ -404,7 +404,7 @@ https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://sportuz.net/tv-channels/images/SetantaSport2.png", Setanta 2 HD
 https://vod.splay.uz/live_splay/original/Setanta2HD/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2
-http://ncdn-y1-w4.teamcloud.am/live/eds/Eurosport_2_HD/SAF-HLS/Eurosport_2_HD.m3u8
+
 
 
 #EXTINF:-1 tvg-id="hlsproxy-488" group-title="Армения" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1
@@ -414,7 +414,7 @@ http://188.208.197.173:2580/channel/n1dec8e51/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-488" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1 News
 http://188.208.197.173:2580/channel/n6bd281f/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-488" tvg-logo="https://farm5.staticflickr.com/4307/36217447005_d28584aa32_z.jpg",Armenia Premium
-http://ncdn-y1-w5.teamcloud.am/live/eds/Premium1/SAF-HLS/Premium1.m3u8
+
 
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-487" tvg-logo="https://dl.dropboxusercontent.com/s/500w0rsb8ncw3kz/armenia.png",Armenia TV
 http://188.208.197.173:2580/channel/n31095db2/index.m3u8?q=1763550651725
