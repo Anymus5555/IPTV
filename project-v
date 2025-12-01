@@ -57,10 +57,8 @@ http://195.191.208.11:8087/udp/238.2.2.205:1234
 http://195.191.208.11:8087/udp/238.2.2.235:1234
 #EXTINF:-1 group-title="Россия",Звезда (+6)
 http://195.191.208.11:8087/udp/238.2.2.255:1234
-
 #EXTINF:-1 group-title="Россия",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
-
 #EXTINF:-1 group-title="Россия",Арсенал HD
 http://195.191.208.11:8087/udp/238.2.49.131:1234
 #EXTINF:-1 group-title="Россия",Пятый Канал
@@ -131,6 +129,7 @@ http://195.191.208.11:8087/udp/238.2.2.201:1234
 http://195.191.208.11:8087/udp/238.2.2.231:1234
 #EXTINF:-1 group-title="Россия",СТС (+6)
 http://195.191.208.11:8087/udp/238.2.2.251:1234
+
 #EXTINF:-1 group-title="Познавательный",Конный мир HD
 http://195.191.208.11:8087/udp/238.2.49.138:1234
 #EXTINF:-1 group-title="Познавательный",NATIONAL GEOGRAPHIC HD
@@ -193,6 +192,7 @@ http://195.191.208.11:8087/udp/238.2.1.79:1234
 http://195.191.208.11:8087/udp/238.2.1.129:1234
 #EXTINF:-1 group-title="Познавательный",Наука
 http://195.191.208.11:8087/udp/238.9.64.155:1234
+
 #EXTINF:-1 group-title="Россия",Суббота
 http://195.191.208.11:8087/udp/224.0.191.97:1234
 #EXTINF:-1 group-title="Россия",Перец
@@ -330,6 +330,7 @@ https://bigteisti2.streaming-elbrus.su:9304/start_air/video.m3u8
 https://bigteisti2.streaming-elbrus.su:9304/start_world/video.m3u8
 #EXTINF:-1 group-title="Кино",Киноджем 1 HD
 https://bigteisti2.streaming-elbrus.su:9304/KINOJAM1/video.m3u8
+
 #EXTINF:-1 group-title="Детские"",Капитан фантастика HD
 http://195.191.208.11:8087/udp/238.2.49.128:1234
 #EXTINF:-1 group-title="Детские",Карусель
@@ -465,11 +466,8 @@ http://188.208.197.173:2580/channel/n1611b18e/index.m3u8?q=1763550651725
 http://188.208.197.173:2580/channel/n1dec8e51/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-488" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1 News
 http://188.208.197.173:2580/channel/n6bd281f/index.m3u8?q=1763550651725
-
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-488" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1 USA
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
-
-
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-487" tvg-logo="https://dl.dropboxusercontent.com/s/500w0rsb8ncw3kz/armenia.png",Armenia TV
 http://188.208.197.173:2580/channel/n31095db2/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-491" tvg-logo="https://dl.dropboxusercontent.com/s/cz7kwmw0jkf278z/shant.png",Shant
@@ -482,7 +480,6 @@ http://188.208.197.173:2580/channel/n41a908c7/index.m3u8?q=1763550651725
 https://ncdn-y-vmedia-w2.teamcloud.am/channel2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE3NTkyMDc5NTIsIm5iZiI6MTc1OTIwNzk1MiwianRpIjoiaVFwYktOOGxJT2pwbDJRRSIsInN1YiI6IjUwMDExIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJuZXciOnRydWUsIm1vZGVsIjpudWxsLCJzeXN0ZW1fdmVyc2lvbiI6IjEwIiwic3lzdGVtX25hbWUiOiJXaW5kb3dzIiwiYnJhbmQiOm51bGwsImRldmljZV90eXBlIjoiYnJvd3NlciIsImRhdGEiOnsiZW5naW5lX25hbWUiOiJCbGluayIsImVuZ2luZV92ZXJzaW9uIjoiMTQwLjAuMC4wIiwiZnVsbF9icm93c2VyX3ZlcnNpb24iOiIxNDAuMC4wLjAiLCJicm93c2VyX25hbWUiOiJFZGdlIiwibW9iaWxlX21vZGVsIjoibm9uZSIsIm1vYmlsZV92ZW5kb3IiOiJub25lIn0sInR5cGUiOiJ3ZWIifX0.tIClDmf52hpCJNmS5M4NMnSITPSwwdqmyWZwi4uLDyQ
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://fasttv.am/svg/channels/fastsports2.svg",Fast Sport 2
 https://fcluster02-am.fcloudns.com/channel3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE3NTkyMDc5NTIsIm5iZiI6MTc1OTIwNzk1MiwianRpIjoiaVFwYktOOGxJT2pwbDJRRSIsInN1YiI6IjUwMDExIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJuZXciOnRydWUsIm1vZGVsIjpudWxsLCJzeXN0ZW1fdmVyc2lvbiI6IjEwIiwic3lzdGVtX25hbWUiOiJXaW5kb3dzIiwiYnJhbmQiOm51bGwsImRldmljZV90eXBlIjoiYnJvd3NlciIsImRhdGEiOnsiZW5naW5lX25hbWUiOiJCbGluayIsImVuZ2luZV92ZXJzaW9uIjoiMTQwLjAuMC4wIiwiZnVsbF9icm93c2VyX3ZlcnNpb24iOiIxNDAuMC4wLjAiLCJicm93c2VyX25hbWUiOiJFZGdlIiwibW9iaWxlX21vZGVsIjoibm9uZSIsIm1vYmlsZV92ZW5kb3IiOiJub25lIn0sInR5cGUiOiJ3ZWIifX0.tIClDmf52hpCJNmS5M4NMnSITPSwwdqmyWZwi4uLDyQ
-
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8448" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kentron_tv_am.png",Kentron
 http://188.208.197.173:2580/channel/naf1d6d8/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Free-news-logo_new.jpg",FreeNews
