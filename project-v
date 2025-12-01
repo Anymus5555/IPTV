@@ -201,6 +201,11 @@ http://195.191.208.11:8087/udp/238.2.1.228:1234
 http://195.191.208.11:8087/udp/238.9.0.42:1234
 #EXTINF:-1 group-title="Познавательный",Авто Плюс
 http://195.191.208.11:8087/udp/238.9.64.29:1234
+#EXTINF:-1 group-title="Познавательный",RTG HD
+http://217.21.34.160:38007/rtghd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Живая природа
+http://217.21.34.160:38007/zhivaya_priroda/index.m3u8
+
 #EXTINF:-1 group-title="Кино",TV1000 HD
 http://188.208.197.173/viju/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 action
@@ -263,6 +268,8 @@ http://195.191.208.11:8087/udp/224.0.191.128:1234
 http://195.191.208.11:8087/udp/238.9.64.96:1234
 #EXTINF:-1 group-title="Кино",TV XXI
 http://195.191.208.11:8087/udp/224.0.90.208:1234
+#EXTINF:-1 group-title="Кино",Amedia 1
+http://bigteisti2.cdn.lifeyosso.fun:56364/AMEDIA1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 2
 http://195.191.208.11:8087/udp/238.9.64.95:1234
 #EXTINF:-1 group-title="Кино",Amedia Hit
@@ -307,7 +314,23 @@ http://195.191.208.11:8087/udp/238.2.15.83:1234
 http://195.191.208.11:8087/udp/238.2.1.65:1234
 #EXTINF:-1 group-title="Кино",Ностальгия
 http://195.191.208.11:8087/udp/238.9.64.206:1234
-#EXTINF:-1 group-title="Кино",Капитан фантастика HD
+#EXTINF:-1 group-title="Кино",Filmbox
+https://bigteisti6.streaming-elbrus.su:5671/FilmBox/video.m3u8
+#EXTINF:-1 group-title="Кино",Filmbox Arthouse
+https://bigteisti6.streaming-elbrus.su:5671/FilmBox_Arthouse/video.m3u8
+#EXTINF:-1 group-title="Кино",FilmUADrama
+http://bigteisti6.cdn.lifeyosso.fun:56371/FilmUADrama/video.m3u8
+#EXTINF:-1 group-title="Кино",Star Cinema
+http://bigteisti8.cdn.lifeyosso.fun:4399/star_cinema_ru_hd/video.m3u8
+#EXTINF:-1 group-title="Кино",Star Family
+http://bigteisti8.cdn.lifeyosso.fun:4399/star_family_ru_hd/video.m3u8
+#EXTINF:-1 group-title="Кино",START Air
+https://bigteisti2.streaming-elbrus.su:9304/start_air/video.m3u8
+#EXTINF:-1 group-title="Кино",START World
+https://bigteisti2.streaming-elbrus.su:9304/start_world/video.m3u8
+#EXTINF:-1 group-title="Кино",Киноджем 1 HD
+https://bigteisti2.streaming-elbrus.su:9304/KINOJAM1/video.m3u8
+#EXTINF:-1 group-title="Детские"",Капитан фантастика HD
 http://195.191.208.11:8087/udp/238.2.49.128:1234
 #EXTINF:-1 group-title="Детские",Карусель
 http://195.191.208.11:8087/udp/238.9.64.40:1234
@@ -331,6 +354,13 @@ http://195.191.208.11:8087/udp/238.9.64.218:1234
 http://195.191.208.11:8087/udp/238.9.64.182:1234
 #EXTINF:-1 group-title="Детские",Мультимузыка
 http://195.191.208.11:8087/udp/238.9.64.156:1234
+#EXTINF:-1 group-title="Детские",Niki junior
+http://2.57.217.85:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Детские",Niki kids
+http://2.57.217.85:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Детские",HD kids
+http://2.57.217.85:8000/play/a05q/index.m3u8
+
 #EXTINF:-1 group-title="Музыка",BRIDGE TV
 http://195.191.208.11:8087/udp/224.0.191.103:1234
 #EXTINF:-1 group-title="Музыка",BRIDGE TV Hits
@@ -361,6 +391,19 @@ http://195.191.208.11:8087/udp/224.0.191.60:1234
 http://195.191.208.11:8087/udp/238.9.64.222:1234
 #EXTINF:-1 group-title="Музыка",MCM Top
 http://195.191.208.11:8087/udp/238.9.64.45:1234
+#EXTINF:-1 group-title="Музыка",AIVA HD
+http://bigteisti6.cdn.lifeyosso.fun:56371/aiva/video.m3u8
+#EXTINF:-1 group-title="Музыка",MTV 00s
+http://bigteisti2.cdn.lifeyosso.fun:32144/VH1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Russia
+http://bigteisti6.cdn.lifeyosso.fun:56371/MTV_Russia/video.m3u8
+#EXTINF:-1 group-title="Музыка",MTV 80s
+http://bigteisti6.cdn.lifeyosso.fun:56371/MTV80/video.m3u8
+#EXTINF:-1 group-title="Музыка",MTV 90s
+http://bigteisti6.cdn.lifeyosso.fun:56371/MTV90/video.m3u8
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://195.26.83.96:7029/play/9
+
 #EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
 http://195.191.208.11:8087/udp/238.2.48.145:1234
 #EXTINF:-1 group-title="Спорт",Матч ТВ
@@ -408,7 +451,14 @@ https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://sportuz.net/tv-channels/images/SetantaSport2.png", Setanta 2 HD
 https://vod.splay.uz/live_splay/original/Setanta2HD/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2
-
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://185.78.112.57:8077/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+http://185.78.112.57:8077/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
+http://185.78.112.57:8077/ViasatSportHD/index.m3u8
+#EXTINF:-1 group-title="Спорт",Беларусь 5 HD
+http://bigteisti2.cdn.lifeyosso.fun:32144/BELARUS5/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="hlsproxy-488" group-title="Армения" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1
