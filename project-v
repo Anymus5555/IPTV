@@ -57,6 +57,10 @@ http://195.191.208.11:8087/udp/238.2.2.205:1234
 http://195.191.208.11:8087/udp/238.2.2.235:1234
 #EXTINF:-1 group-title="Россия",Звезда (+6)
 http://195.191.208.11:8087/udp/238.2.2.255:1234
+
+#EXTINF:-1 group-title="Россия",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Россия",Арсенал HD
 http://195.191.208.11:8087/udp/238.2.49.131:1234
 #EXTINF:-1 group-title="Россия",Пятый Канал
@@ -360,7 +364,7 @@ http://195.191.208.11:8087/udp/238.9.64.45:1234
 #EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
 http://195.191.208.11:8087/udp/238.2.48.145:1234
 #EXTINF:-1 group-title="Спорт",Матч ТВ
-http://195.191.208.11:8087/udp/238.2.3.5:1234
+http://188.208.197.173/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! +2
 http://195.191.208.11:8087/udp/238.2.2.191:1234
 #EXTINF:-1 group-title="Спорт",Матч! +4
