@@ -555,5 +555,5 @@ http://188.208.197.173:2580/channel/1e7fbb30/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения",Radio Van
 http://188.208.197.173:2580/channel/2f5f5ed7/index.m3u8?q=1764241421478
 
-
-
+#EXTINF:-1 group-title="Армения",Aurora
+http://188.208.197.173/Aurora/index.m3u8
