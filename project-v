@@ -331,6 +331,8 @@ https://bigteisti2.streaming-elbrus.su:9304/start_world/video.m3u8
 #EXTINF:-1 group-title="Кино",Киноджем 1 HD
 https://bigteisti2.streaming-elbrus.su:9304/KINOJAM1/video.m3u8
 
+#EXTINF:-1 tvg-id="34246" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34246" group-title="Сити Эдем",Сити Эдем - Христианский
+http://188.208.197.173:2580/channel/n76647a0c/index.m3u8?q=1764241421478
 #EXTINF:-1 tvg-id="hlsproxy-54326" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34246" group-title="Сити Эдем" tvg-logo="https://dl.dropboxusercontent.com/s/tctntqqx51798k2/laguna.png",Сити Эдем Плей
 http://188.208.197.173:2580/channel/n281ac0a0/index.m3u8?q=1764241421478
 #EXTINF:-1 tvg-id="38398" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38398" group-title="Сити Эдем",Сити Эдем - КиноАРТ
