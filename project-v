@@ -211,7 +211,7 @@ http://188.208.197.173/viju/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 action
 hhttp://188.208.197.173/viju-action/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1765343569&md5=BSDKtEomNOn06dHRlc-slQ
+http://188.208.197.173/vijuromantica/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://195.191.208.11:8087/udp/238.9.0.81:1234
 #EXTINF:-1 group-title="Кино",VIP Comedy HD
@@ -330,6 +330,49 @@ https://bigteisti2.streaming-elbrus.su:9304/start_air/video.m3u8
 https://bigteisti2.streaming-elbrus.su:9304/start_world/video.m3u8
 #EXTINF:-1 group-title="Кино",Киноджем 1 HD
 https://bigteisti2.streaming-elbrus.su:9304/KINOJAM1/video.m3u8
+
+#EXTINF:-1 tvg-id="hlsproxy-54326" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34246" group-title="Сити Эдем" tvg-logo="https://dl.dropboxusercontent.com/s/tctntqqx51798k2/laguna.png",Сити Эдем Плей
+http://188.208.197.173:2580/channel/n281ac0a0/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="38398" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38398" group-title="Сити Эдем",Сити Эдем - КиноАРТ
+http://188.208.197.173:2580/channel/n535bd880/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="38128" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38128" group-title="Сити Эдем",Сити Эдем - КиноСемья
+http://188.208.197.173:2580/channel/15324df9/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="34185" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34185" group-title="Сити Эдем",Сити Эдем - КиноКлассика
+http://188.208.197.173:2580/channel/n5ce3cef/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="45268" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=45268" group-title="Сити Эдем",Сити Эдем - КиноФантастика
+http://188.208.197.173:2580/channel/n406edb40/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="45269" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=45269" group-title="Сити Эдем",Сити Эдем - КиноДрама
+http://188.208.197.173:2580/channel/147fed66/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="34393" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34393" group-title="Сити Эдем",Сити Эдем - КиноАзия
+http://188.208.197.173:2580/channel/n181eda30/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="38354" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38354" group-title="Сити Эдем",Сити Эдем - КиноДок
+http://188.208.197.173:2580/channel/n535bc5c2/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="46209" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=46209" group-title="Сити Эдем",Сити Эдем - ТелеНовелла
+http://188.208.197.173:2580/channel/n3827ee34/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="34364" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34364" group-title="Сити Эдем",Сити Эдем - БирмаПлей
+http://188.208.197.173:2580/channel/7adcc13a/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="46421" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=46421" group-title="Сити Эдем",Сити Эдем - СиртакиТВ
+http://188.208.197.173:2580/channel/n369302ae/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="41333" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=41333" group-title="Сити Эдем",Сити Эдем - КиноЭкшен
+http://188.208.197.173:2580/channel/15ddd811/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="40783" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=40783" group-title="Сити Эдем",Сити Эдем - КиноМистика
+http://188.208.197.173:2580/channel/n7147d001/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="41331" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=41331" group-title="Сити Эдем",Сити Эдем - КиноКомедия
+http://188.208.197.173:2580/channel/2edc5fbc/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="41327" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=41327" group-title="Сити Эдем",Сити Эдем - КиноДетектив
+http://188.208.197.173:2580/channel/6b906a28/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="47410" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47410" group-title="Сити Эдем",Сити Эдем - Meditation Music
+http://188.208.197.173:2580/channel/n29c47ca/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="47400" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47400" group-title="Сити Эдем",Сити Эдем - Classic Music
+http://188.208.197.173:2580/channel/52cd0a64/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="47516" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47516" group-title="Сити Эдем",Сити Эдем - РецептыГурмана
+http://188.208.197.173:2580/channel/n6e9b397a/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="47515" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47515" group-title="Сити Эдем",Сити Эдем - АвтоГид
+http://188.208.197.173:2580/channel/n6e50b902/index.m3u8?q=1764241421478
+#EXTINF:-1 tvg-id="47519" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47519" group-title="Сити Эдем",Сити Эдем - МедЗдрав
+http://188.208.197.173:2580/channel/780199d/index.m3u8?q=1764241421478
+
+
 
 #EXTINF:-1 group-title="Детские"",Капитан фантастика HD
 http://195.191.208.11:8087/udp/238.2.49.128:1234
@@ -545,6 +588,8 @@ http://188.208.197.173:2580/channel/n7d1c15ed/index.m3u8?q=1763550651725
 http://188.208.197.173:2580/channel/n68c64ed5/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения",Armtoon
 http://188.208.197.173:2580/channel/n5cf4a13/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Լույս
+http://188.208.197.173:2580/channel/7421d6d8/index.m3u8?q=1764241421478
 
 #EXTINF:-1 group-title="Армения",Լայմ Gold
 http://188.208.197.173:2101/limegold/index.m3u8
