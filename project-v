@@ -521,6 +521,14 @@ http://188.208.197.173:2580/channel/n4559fce7/index.m3u8?q=1764241421478
 http://188.208.197.173:2580/channel/nf24b305/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Спорт", Футбол
 http://188.208.197.173:2580/channel/d20bb9b/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Спорт", Real Madrid TV
+http://188.208.197.173/real-madrid/index.m3u8
+#EXTINF:-1 group-title="Спорт", LB 1
+https://ayagan.hayuhi.online/hls/set1/playlist.m3u8?token=77616154dcc823216caa1a941013e005-0.8608857600802775-0.8747791977872021
+#EXTINF:-1 group-title="Спорт", LB 2
+https://ayagan.hayuhi.online/hls/fut1/playlist.m3u8?token=eab87815690e9e18ef734a2923f5e382-0.34509158999171374-0.7996125945007293
+#EXTINF:-1 group-title="Спорт", LB 3
+https://ayagan.hayuhi.online/hls/arenasport5/playlist.m3u8?token=d99af91fa80c0a3819498e104f35d2b5-0.7531897072397777-0.8665775405461353
 
 #EXTINF:-1 tvg-id="hlsproxy-488" group-title="Армения" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1
 http://188.208.197.173:2580/channel/n1611b18e/index.m3u8?q=1763550651725
