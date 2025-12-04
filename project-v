@@ -258,6 +258,8 @@ http://195.191.208.11:8087/udp/238.9.64.12:1234
 http://195.191.208.11:8087/udp/238.9.64.26:1234
 #EXTINF:-1 group-title="Кино",Кино ТВ HD
 http://195.191.208.11:8087/udp/238.2.49.125:1234
+#EXTINF:-1 group-title="Кино",Bolt
+http://188.208.197.173:2580/channel/n5d75a38f/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Россия",ТВ3
 http://188.208.197.173:2580/channel/n41c4ef6c/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Россия",ТВ3 (+2)
@@ -383,7 +385,7 @@ http://188.208.197.173:2580/channel/780199d/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Детские"",Капитан фантастика HD
 http://195.191.208.11:8087/udp/238.2.49.128:1234
 #EXTINF:-1 group-title="Детские",Карусель
-http://195.191.208.11:8087/udp/238.9.64.40:1234
+http://188.208.197.173:2580/channel/4c7296f4/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Детские",Карусель +2
 http://195.191.208.11:8087/udp/238.2.2.196:1234
 #EXTINF:-1 group-title="Детские",Карусель +4
@@ -410,6 +412,12 @@ http://2.57.217.85:8000/play/a08g/index.m3u8
 http://2.57.217.85:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Детские",HD kids
 http://2.57.217.85:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="Детские",СТС Дети
+http://188.208.197.173:2580/channel/19f28899/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Детские",Мульт
+http://188.208.197.173:2580/channel/nf79916c/index.m3u8?q=1764241421478
+
+
 
 #EXTINF:-1 group-title="Музыка",BRIDGE TV
 http://195.191.208.11:8087/udp/224.0.191.103:1234
