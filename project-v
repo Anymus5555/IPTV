@@ -141,11 +141,13 @@ http://195.191.208.11:8087/udp/238.2.1.106:1234
 #EXTINF:-1 group-title="Познавательный",TERRA
 http://195.191.208.11:8087/udp/238.9.64.31:1234
 #EXTINF:-1 group-title="Познавательный",Viasat Explore
-http://195.191.208.11:8087/udp/238.9.64.79:1234
+http://188.208.197.173/viasat-explore/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Viasat History
-http://195.191.208.11:8087/udp/238.9.64.78:1234
+http://188.208.197.173/visast-history/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Viasat Nature
-http://195.191.208.11:8087/udp/238.9.64.119:1234
+http://188.208.197.173/viasat-nature/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Da Vinci
+http://188.208.197.173/davinchi/index.m3u8
 #EXTINF:-1 group-title="Познавательный",HISTORY
 http://195.191.208.11:8087/udp/238.2.48.188:1234
 #EXTINF:-1 group-title="Познавательный",Моя Планета
@@ -214,6 +216,8 @@ hhttp://188.208.197.173/viju-action/index.m3u8
 http://188.208.197.173/vijuromantica/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://195.191.208.11:8087/udp/238.9.0.81:1234
+#EXTINF:-1 group-title="Кино",TV1000 Новелла
+http://188.208.197.173/viju-novella/index.m3u8
 #EXTINF:-1 group-title="Кино",VIP Comedy HD
 http://195.191.208.11:8087/udp/238.9.64.194:1234
 #EXTINF:-1 group-title="Кино",VIP Megahit HD
@@ -503,7 +507,12 @@ http://185.78.112.57:8077/Eurosport2HD/index.m3u8
 http://185.78.112.57:8077/ViasatSportHD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Беларусь 5 HD
 http://bigteisti2.cdn.lifeyosso.fun:32144/BELARUS5/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Спорт", Мир Баскетбола
+http://188.208.197.173:2580/channel/n4559fce7/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Спорт", Старт
+http://188.208.197.173:2580/channel/nf24b305/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Спорт", Футбол
+http://188.208.197.173:2580/channel/d20bb9b/index.m3u8?q=1764241421478
 
 #EXTINF:-1 tvg-id="hlsproxy-488" group-title="Армения" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1
 http://188.208.197.173:2580/channel/n1611b18e/index.m3u8?q=1763550651725
@@ -519,7 +528,6 @@ http://188.208.197.173:2580/channel/n3998b64c/index.m3u8?q=1763550651725
 http://188.208.197.173:2580/channel/4b4b8e0a/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-489" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/hh/h2_tv_am.png",H2
 http://188.208.197.173:2580/channel/n1611b18d/index.m3u8?q=1763550651725
-
 #EXTINF:-1 group-title="Армения" tvg-logo="https://www.findin.am/wp-content/uploads/2023/01/5-TV-Channel-Findin.jpg",5TV
 http://188.208.197.173:2580/channel/53db3d0e/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-logo="https://ovio.am/storage/uploads/channels/5-%D6%80%D5%A4-%D5%A1%D5%AC%D5%AB%D6%84-%D5%BA%D5%AC%D5%B5%D5%B8%D6%82%D5%BD_1.png_1629827591.png",5TV Plus
@@ -568,20 +576,16 @@ http://188.208.197.173:2580/channel/n547285b0/index.m3u8?q=1764241421478
 http://188.208.197.173:2580/channel/n2e1e87b1/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения",Միգ Հը
 http://188.208.197.173:2580/channel/n6365d42/index.m3u8?q=1764241421478
-
 #EXTINF:-1 group-title="Армения" tvg-logo="https://gisher.me/images1/armtv/main/geghama-tv.webp",Geghama TV
 http://188.208.197.173:2580/channel/1aaaa875/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-logo="https://ovio.am/storage/uploads/channels/wNlfVW3eWiCsR5O83n0Ja0BlPuJP3hxCvE0qm3WJ.png",Syuniq TV
 http://188.208.197.173:2580/channel/1172fe92/index.m3u8?q=1763550651725
-
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8101" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/yy/yerkir_media_tv_am.png",Yerkir Media
 http://188.208.197.173:2580/channel/n43cb2a45/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-55160" tvg-logo="https://dl.dropboxusercontent.com/s/xig0qqu1s6nju7i/azatut.png",Azatutyun TV
 http://188.208.197.173:2580/channel/1a480484/index.m3u8?q=1763550651725
-#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-51206" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/aa/abn_us.png",ABN (ArmNews 24)
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-51206" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/aa/abn_us.png",ABN
 http://188.208.197.173:2580/channel/n7f632cb6/index.m3u8?q=1763550651725
-
-
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8509" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ss/shoghakat_tv_am.png",Shoghakat
 http://188.208.197.173:2580/channel/n1dec8e51/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54499" tvg-logo="https://dl.dropboxusercontent.com/s/njiz4np6mxcucda/bazmoc.png",Bazmoc TV
@@ -592,7 +596,8 @@ http://188.208.197.173:2580/channel/n68c64ed5/index.m3u8?q=1763550651725
 http://188.208.197.173:2580/channel/n5cf4a13/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения",Լույս
 http://188.208.197.173:2580/channel/7421d6d8/index.m3u8?q=1764241421478
-
+#EXTINF:-1 group-title="Армения",Song TV AM 
+http://188.208.197.173:2580/channel/6c9e014/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения",Լայմ Gold
 http://188.208.197.173:2580/channel/77bd7aa4/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения",Fresh TV
