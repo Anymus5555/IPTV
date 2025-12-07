@@ -129,56 +129,6 @@ http://188.208.197.173:2580/channel/780199d/index.m3u8?q=1764241421478
 
 
 
-#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
-http://188.208.197.173/euro1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
-http://188.208.197.173/euro2/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч ТВ
-http://188.208.197.173:2580/channel/n105e9e40/index.m3u8?q=17642414214788
-#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1
-http://188.208.197.173/match1/index.m3u8
-#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2
-http://188.208.197.173/match2/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://195.191.208.11:8087/udp/238.2.49.73:1234
-#EXTINF:-1 group-title="Спорт",ЕХ Extreme
-http://195.191.208.11:8087/udp/238.9.64.53:1234
-#EXTINF:-1 group-title="Спорт",БОКС ТВ
-http://195.191.208.11:8087/udp/224.0.191.59:1234
-#EXTINF:-1 group-title="Спорт",MMA-TV.COM
-http://195.191.208.11:8087/udp/224.0.191.63:1234
-#EXTINF:-1 group-title="Спорт",Удар
-http://195.191.208.11:8087/udp/238.9.64.233:1234
-#EXTINF:-1 group-title="Спорт",Viasat Sport
-http://195.191.208.11:8087/udp/238.9.64.77:1234
-#EXTINF:-1 group-title="Спорт",KHL
-http://195.191.208.11:8087/udp/238.9.64.149:1234
-#EXTINF:-1 group-title="Спорт",KHL Prime HD
-http://195.191.208.11:8087/udp/238.9.64.177:1234
-#EXTINF:-1 group-title="Спорт",Окко
-http://185.221.213.254:8080/Okko/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://stv.ee/wp-content/uploads/2023/10/RAW1bc5fe5e11333bbfdca077b9482ff552.png", Setanta 1 HD
-http://188.208.197.173/setanta1/index.m3u8
-
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://sportuz.net/tv-channels/images/SetantaSport2.png", Setanta 2 HD
-http://188.208.197.173/setanta2/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2
-
-#EXTINF:-1 group-title="Спорт", Мир Баскетбола
-http://188.208.197.173:2580/channel/n4559fce7/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Спорт", Старт
-http://188.208.197.173:2580/channel/nf24b305/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Спорт", Футбол
-http://188.208.197.173:2580/channel/d20bb9b/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Спорт", Real Madrid TV
-http://188.208.197.173/real-madrid/index.m3u8
-#EXTINF:-1 group-title="Спорт", LB 1
-https://ayagan.hayuhi.online/hls/set1/playlist.m3u8?token=77616154dcc823216caa1a941013e005-0.8608857600802775-0.8747791977872021
-#EXTINF:-1 group-title="Спорт", LB 2
-https://ayagan.hayuhi.online/hls/fut1/playlist.m3u8?token=eab87815690e9e18ef734a2923f5e382-0.34509158999171374-0.7996125945007293
-#EXTINF:-1 group-title="Спорт", LB 3
-http://188.208.197.173:2580/channel/2237dee0/index.m3u8?q=1763550098511
-
 #EXTINF:-1 tvg-id="hlsproxy-488" group-title="Армения" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1
 http://188.208.197.173:2580/channel/n1611b18e/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-488" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",H1 News
@@ -210,9 +160,9 @@ http://188.208.197.173:2580/channel/53db6a1a/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/3f/45/a73f45a1-b4ad-6031-2d1b-b2b57014ade4/AppIcon-1x_U007epad-0-10-0-85-220-0.png/1200x630wa.png",Fast Sport
 http://188.208.197.173:2580/channel/n41a908c7/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4hA-YN9Tfzs3zs-UZviwe2Wvit3xS0yf30w&s",Fast Sport 1
-https://ncdn-y-vmedia-w2.teamcloud.am/channel2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE3NTkyMDc5NTIsIm5iZiI6MTc1OTIwNzk1MiwianRpIjoiaVFwYktOOGxJT2pwbDJRRSIsInN1YiI6IjUwMDExIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJuZXciOnRydWUsIm1vZGVsIjpudWxsLCJzeXN0ZW1fdmVyc2lvbiI6IjEwIiwic3lzdGVtX25hbWUiOiJXaW5kb3dzIiwiYnJhbmQiOm51bGwsImRldmljZV90eXBlIjoiYnJvd3NlciIsImRhdGEiOnsiZW5naW5lX25hbWUiOiJCbGluayIsImVuZ2luZV92ZXJzaW9uIjoiMTQwLjAuMC4wIiwiZnVsbF9icm93c2VyX3ZlcnNpb24iOiIxNDAuMC4wLjAiLCJicm93c2VyX25hbWUiOiJFZGdlIiwibW9iaWxlX21vZGVsIjoibm9uZSIsIm1vYmlsZV92ZW5kb3IiOiJub25lIn0sInR5cGUiOiJ3ZWIifX0.tIClDmf52hpCJNmS5M4NMnSITPSwwdqmyWZwi4uLDyQ
+http://188.208.197.173:2580/channel/3202541e/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://fasttv.am/svg/channels/fastsports2.svg",Fast Sport 2
-https://fcluster02-am.fcloudns.com/channel3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE3NTkyMDc5NTIsIm5iZiI6MTc1OTIwNzk1MiwianRpIjoiaVFwYktOOGxJT2pwbDJRRSIsInN1YiI6IjUwMDExIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJuZXciOnRydWUsIm1vZGVsIjpudWxsLCJzeXN0ZW1fdmVyc2lvbiI6IjEwIiwic3lzdGVtX25hbWUiOiJXaW5kb3dzIiwiYnJhbmQiOm51bGwsImRldmljZV90eXBlIjoiYnJvd3NlciIsImRhdGEiOnsiZW5naW5lX25hbWUiOiJCbGluayIsImVuZ2luZV92ZXJzaW9uIjoiMTQwLjAuMC4wIiwiZnVsbF9icm93c2VyX3ZlcnNpb24iOiIxNDAuMC4wLjAiLCJicm93c2VyX25hbWUiOiJFZGdlIiwibW9iaWxlX21vZGVsIjoibm9uZSIsIm1vYmlsZV92ZW5kb3IiOiJub25lIn0sInR5cGUiOiJ3ZWIifX0.tIClDmf52hpCJNmS5M4NMnSITPSwwdqmyWZwi4uLDyQ
+http://188.208.197.173:2580/channel/n7b89eef5/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8448" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kentron_tv_am.png",Kentron
 http://188.208.197.173:2580/channel/naf1d6d8/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Free-news-logo_new.jpg",FreeNews
