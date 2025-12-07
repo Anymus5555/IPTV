@@ -55,7 +55,18 @@ http://188.208.197.173:2580/channel/n568f02d4/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Кино",Amedia Premium
 http://188.208.197.173:2580/channel/1703c370/index.m3u8?q=1764241421478
 
-
+#EXTINF:-1 group-title="Кино",.black
+http://188.208.197.173/.black/index.m3u8
+#EXTINF:-1 group-title="Кино",.red
+http://188.208.197.173/.red/index.m3u8
+#EXTINF:-1 group-title="Кино",.sct-fi
+http://188.208.197.173/.sct-fi/index.m3u8
+#EXTINF:-1 group-title="Кино",vip-comedy
+http://188.208.197.173/vip-comedy/index.m3u8
+#EXTINF:-1 group-title="Кино",vip-megahit
+http://188.208.197.173/vip-megahit/index.m3u8
+#EXTINF:-1 group-title="Кино",vip-premiere
+http://188.208.197.173/vip-premiere/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
 http://188.208.197.173/viasat-explore/index.m3u8
