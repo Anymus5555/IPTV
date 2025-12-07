@@ -1295,3 +1295,9 @@ http://188.208.197.173:2580/channel/1e7fbb30/index.m3u8?q=1764241421478
 http://188.208.197.173:2580/channel/2f5f5ed7/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения",Velari TV
 http://188.208.197.173:2580/channel/367d58ea/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Армения",Artn
+https://streamer1.connectto.com/ARTN_mobile/playlist.m3u8
+#EXTINF:-1 group-title="Армения",Hybrid Film
+http://188.208.197.173:2580/channel/n67d593d5/index.m3u8?q=1764241421478
+
+
