@@ -86,221 +86,221 @@ http://188.137.252.17:6878/ace/manifest.m3u8?id=4326cb056ec172c0d9958cd445350457
 http://188.137.252.17:6878/ace/manifest.m3u8?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:-1  group-title="Познавательные",Dikaya Okhota HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=cd421b221ef7bae31a599542cd9c061fc66b30aa&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1  [RU]" group-title="educational",Dikaya Rybalka HD [RU]
+#EXTINF:-1  [RU]" group-title="Познавательные",Dikaya Rybalka HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1  group-title="educational",Discovery HD [RU]
+#EXTINF:-1  group-title="Познавательные",Discovery HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=09f099db0453cf7517e133533aadfd5136eca771&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1  group-title="educational",Eureka HD [RU]
+#EXTINF:-1  group-title="Познавательные",Eureka HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=65707378011c08c27dca1f0162d545f369756c5f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Fashion TV HD [RU]" group-title="educational",Fashion TV HD [RU]
+#EXTINF:-1 tvg-name="Fashion TV HD [RU]" group-title="Познавательные",Fashion TV HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="H2 HD [RU]" group-title="educational",H2 HD [RU]
+#EXTINF:-1 tvg-name="H2 HD [RU]" group-title="Познавательные",H2 HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HD Life [RU]" group-title="educational",HD Life [RU]
+#EXTINF:-1 tvg-name="HD Life [RU]" group-title="Познавательные",HD Life [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=74a1634a8fe44e5058c865d4de63cde90b14f107&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="History HD [RU]" group-title="educational",History HD [RU]
+#EXTINF:-1 tvg-name="History HD [RU]" group-title="Познавательные",History HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Nat Geo Wild HD [RU]" group-title="educational",Nat Geo Wild HD [RU]
+#EXTINF:-1 tvg-name="Nat Geo Wild HD [RU]" group-title="Познавательные",Nat Geo Wild HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="National Geographic HD [RU]" group-title="educational",National Geographic HD [RU]
+#EXTINF:-1 tvg-name="National Geographic HD [RU]" group-title="Познавательные",National Geographic HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=3a08c5a973e162429910f441bf8aa45b24d667e0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Travel Channel HD [RU]" group-title="educational",Travel Channel HD [RU]
+#EXTINF:-1 tvg-name="Travel Channel HD [RU]" group-title="Познавательные",Travel Channel HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=48566a80593d54be5543583173fd520ce675d5b2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Travel+Adventure HD [RU]" group-title="educational",Travel+Adventure HD [RU]
+#EXTINF:-1 tvg-name="Travel+Adventure HD [RU]" group-title="Познавательные",Travel+Adventure HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat Explore [RU]" group-title="educational",Viasat Explore [RU]
+#EXTINF:-1 tvg-name="Viasat Explore [RU]" group-title="Познавательные",Viasat Explore [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=192ca66e1e39bec710e286780c49bcc432258636&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat History [RU]" group-title="educational",Viasat History [RU]
+#EXTINF:-1 tvg-name="Viasat History [RU]" group-title="Познавательные",Viasat History [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat Nature [RU]" group-title="educational",Viasat Nature [RU]
+#EXTINF:-1 tvg-name="Viasat Nature [RU]" group-title="Познавательные",Viasat Nature [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=2128074a1ebba9d320b148d25001b356f1057dda&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat Nature/History HD [RU]" group-title="educational",Viasat Nature/History HD [RU]
+#EXTINF:-1 tvg-name="Viasat Nature/History HD [RU]" group-title="Познавательные",Viasat Nature/History HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Авто 24 [RU]" group-title="educational",Авто 24 [RU]
+#EXTINF:-1 tvg-name="Авто 24 [RU]" group-title="Познавательные",Авто 24 [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=7e515477cf191b1e4e33c7151c7cf84925f16780&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Авто Плюс [RU]" group-title="educational",Авто Плюс [RU]
+#EXTINF:-1 tvg-name="Авто Плюс [RU]" group-title="Познавательные",Авто Плюс [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="В мире животных [RU]" group-title="educational",В мире животных [RU]
+#EXTINF:-1 tvg-name="В мире животных [RU]" group-title="Познавательные",В мире животных [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=30ed25e99233ae63f7e10787c8806f74f52a437c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Глазами туриста HD [RU]" group-title="educational",Глазами туриста HD [RU]
+#EXTINF:-1 tvg-name="Глазами туриста HD [RU]" group-title="Познавательные",Глазами туриста HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Диалоги о рыбалке [RU]" group-title="educational",Диалоги о рыбалке [RU]
+#EXTINF:-1 tvg-name="Диалоги о рыбалке [RU]" group-title="Познавательные",Диалоги о рыбалке [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Дикий [RU]" group-title="educational",Дикий [RU]
+#EXTINF:-1 tvg-name="Дикий [RU]" group-title="Познавательные",Дикий [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=c60f8614f11e0f11338e25567a92f5fb84eb4832&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Доктор [RU]" group-title="educational",Доктор [RU]
+#EXTINF:-1 tvg-name="Доктор [RU]" group-title="Познавательные",Доктор [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Драйв [RU]" group-title="educational",Драйв [RU]
+#EXTINF:-1 tvg-name="Драйв [RU]" group-title="Познавательные",Драйв [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Еда Премиум HD [RU]" group-title="educational",Еда Премиум HD [RU]
+#EXTINF:-1 tvg-name="Еда Премиум HD [RU]" group-title="Познавательные",Еда Премиум HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Живая планета [RU]" group-title="educational",Живая планета [RU]
+#EXTINF:-1 tvg-name="Живая планета [RU]" group-title="Познавательные",Живая планета [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Загородная жизнь [RU]" group-title="educational",Загородная жизнь [RU]
+#EXTINF:-1 tvg-name="Загородная жизнь [RU]" group-title="Познавательные",Загородная жизнь [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Здоровое ТВ [RU]" group-title="educational",Здоровое ТВ [RU]
+#EXTINF:-1 tvg-name="Здоровое ТВ [RU]" group-title="Познавательные",Здоровое ТВ [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мир Вокруг HD [RU]" group-title="educational",Мир Вокруг HD [RU]
+#EXTINF:-1 tvg-name="Мир Вокруг HD [RU]" group-title="Познавательные",Мир Вокруг HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Моя планета HD [RU]" group-title="educational",Моя планета HD [RU]
+#EXTINF:-1 tvg-name="Моя планета HD [RU]" group-title="Познавательные",Моя планета HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=bc956bc36a6384474f1b613638c79291e0ee3c14&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мужской [RU]" group-title="educational",Мужской [RU]
+#EXTINF:-1 tvg-name="Мужской [RU]" group-title="Познавательные",Мужской [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=6f333af96362664dd566c585601d7c522c9b09e1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="НАНО [RU]" group-title="educational",НАНО [RU]
+#EXTINF:-1 tvg-name="НАНО [RU]" group-title="Познавательные",НАНО [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=f57378901dec9cb1d110f3893f355becb6cae39d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="НТВ Стиль [RU]" group-title="educational",НТВ Стиль [RU]
+#EXTINF:-1 tvg-name="НТВ Стиль [RU]" group-title="Познавательные",НТВ Стиль [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Наука 2.0 [RU]" group-title="educational",Наука 2.0 [RU]
+#EXTINF:-1 tvg-name="Наука 2.0 [RU]" group-title="Познавательные",Наука 2.0 [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Оружие [RU]" group-title="educational",Оружие [RU]
+#EXTINF:-1 tvg-name="Оружие [RU]" group-title="Познавательные",Оружие [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Охотник и Рыболов HD [RU]" group-title="educational",Охотник и Рыболов HD [RU]
+#EXTINF:-1 tvg-name="Охотник и Рыболов HD [RU]" group-title="Познавательные",Охотник и Рыболов HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Поехали! [RU]" group-title="educational",Поехали! [RU]
+#EXTINF:-1 tvg-name="Поехали! [RU]" group-title="Познавательные",Поехали! [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=c5841f89c3ae2e6745948308be283a904bf96adb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Приключения HD [RU]" group-title="educational",Приключения HD [RU]
+#EXTINF:-1 tvg-name="Приключения HD [RU]" group-title="Познавательные",Приключения HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Сов. Секретно [RU]" group-title="educational",Сов. Секретно [RU]
+#EXTINF:-1 tvg-name="Сов. Секретно [RU]" group-title="Познавательные",Сов. Секретно [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Усадьба [RU]" group-title="educational",Усадьба [RU]
+#EXTINF:-1 tvg-name="Усадьба [RU]" group-title="Познавательные",Усадьба [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="2x2 [RU]" group-title="kids",2x2 [RU]
+#EXTINF:-1 tvg-name="2x2 [RU]" group-title="Детские",2x2 [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ae0290d2b26b326c76a6842c1f62b643e29a6801&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Ani [RU]" group-title="kids",Ani [RU]
+#EXTINF:-1 tvg-name="Ani [RU]" group-title="Детские",Ani [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kids 4K [RU]" group-title="kids",BCU Kids 4K [RU]
+#EXTINF:-1 tvg-name="BCU Kids 4K [RU]" group-title="Детские",BCU Kids 4K [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kids HD [RU]" group-title="kids",BCU Kids HD [RU]
+#EXTINF:-1 tvg-name="BCU Kids HD [RU]" group-title="Детские",BCU Kids HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=535b288408b7c671bb1d5c292dd64beadf556ab9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kids+ HD [RU]" group-title="kids",BCU Kids+ HD [RU]
+#EXTINF:-1 tvg-name="BCU Kids+ HD [RU]" group-title="Детские",BCU Kids+ HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Мультсериал [RU]" group-title="kids",BCU Мультсериал [RU]
+#EXTINF:-1 tvg-name="BCU Мультсериал [RU]" group-title="Детские",BCU Мультсериал [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=8bff31504247530c1be06395c11c38ecd1895964&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Boomerang [RU]" group-title="kids",Boomerang [RU]
+#EXTINF:-1 tvg-name="Boomerang [RU]" group-title="Детские",Boomerang [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Cartoon Network [RU]" group-title="kids",Cartoon Network [RU]
+#EXTINF:-1 tvg-name="Cartoon Network [RU]" group-title="Детские",Cartoon Network [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=6578fed493fdf327038e74d9d967888d3dbb9c2d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Disney [RU]" group-title="kids",Disney [RU]
+#EXTINF:-1 tvg-name="Disney [RU]" group-title="Детские",Disney [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FAN [RU]" group-title="kids",FAN [RU]
+#EXTINF:-1 tvg-name="FAN [RU]" group-title="Детские",FAN [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Gulli Girl [RU]" group-title="kids",Gulli Girl [RU]
+#EXTINF:-1 tvg-name="Gulli Girl [RU]" group-title="Детские",Gulli Girl [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TiJi [RU]" group-title="kids",TiJi [RU]
+#EXTINF:-1 tvg-name="TiJi [RU]" group-title="Детские",TiJi [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="В гостях у сказки [RU]" group-title="kids",В гостях у сказки [RU]
+#EXTINF:-1 tvg-name="В гостях у сказки [RU]" group-title="Детские",В гостях у сказки [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Капитан Фантастика HD [RU]" group-title="kids",Капитан Фантастика HD [RU]
+#EXTINF:-1 tvg-name="Капитан Фантастика HD [RU]" group-title="Детские",Капитан Фантастика HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Карусель [RU]" group-title="kids",Карусель [RU]
+#EXTINF:-1 tvg-name="Карусель [RU]" group-title="Детские",Карусель [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=c008e67929d47855b43f7a9af7305a6c32504132&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Малыш [RU]" group-title="kids",Малыш [RU]
+#EXTINF:-1 tvg-name="Малыш [RU]" group-title="Детские",Малыш [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мульт HD [RU]" group-title="kids",Мульт HD [RU]
+#EXTINF:-1 tvg-name="Мульт HD [RU]" group-title="Детские",Мульт HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=83392085bd6971ff98e8884913a51c3313126f7f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мультиландия [RU]" group-title="kids",Мультиландия [RU]
+#EXTINF:-1 tvg-name="Мультиландия [RU]" group-title="Детские",Мультиландия [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мультимузыка [RU]" group-title="kids",Мультимузыка [RU]
+#EXTINF:-1 tvg-name="Мультимузыка [RU]" group-title="Детские",Мультимузыка [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="О! [RU]" group-title="kids",О! [RU]
+#EXTINF:-1 tvg-name="О! [RU]" group-title="Детские",О! [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=f629f91eaeee18118080c0211516469495af04f2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Рыжий [RU]" group-title="kids",Рыжий [RU]
+#EXTINF:-1 tvg-name="Рыжий [RU]" group-title="Детские",Рыжий [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=0ef17cf868ef54b443dd41516803276779b76aac&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="СТС Kids [RU]" group-title="kids",СТС Kids [RU]
+#EXTINF:-1 tvg-name="СТС Kids [RU]" group-title="Детские",СТС Kids [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Уникум [RU]" group-title="kids",Уникум [RU]
+#EXTINF:-1 tvg-name="Уникум [RU]" group-title="Детские",Уникум [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name=".black [RU]" group-title="movies",.black [RU]
+#EXTINF:-1 tvg-name=".black [RU]" group-title="Кино",.black [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name=".red [RU]" group-title="movies",.red [RU]
+#EXTINF:-1 tvg-name=".red [RU]" group-title="Кино",.red [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=e5546c985741ec758b39030c59ade2f3a311a06e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name=".sci-fi [RU]" group-title="movies",.sci-fi [RU]
+#EXTINF:-1 tvg-name=".sci-fi [RU]" group-title="Кино",.sci-fi [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Amedia 1 [RU]" group-title="movies",Amedia 1 [RU]
+#EXTINF:-1 tvg-name="Amedia 1 [RU]" group-title="Кино",Amedia 1 [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Amedia 2 [RU]" group-title="movies",Amedia 2 [RU]
+#EXTINF:-1 tvg-name="Amedia 2 [RU]" group-title="Кино",Amedia 2 [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Amedia Hit [RU]" group-title="movies",Amedia Hit [RU]
+#EXTINF:-1 tvg-name="Amedia Hit [RU]" group-title="Кино",Amedia Hit [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Amedia premium HD [RU]" group-title="movies",Amedia premium HD [RU]
+#EXTINF:-1 tvg-name="Amedia premium HD [RU]" group-title="Кино",Amedia premium HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5988dc4ef60bf2f77939026578ac80771f2938c2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Action HD [RU]" group-title="movies",BCU Action HD [RU]
+#EXTINF:-1 tvg-name="BCU Action HD [RU]" group-title="Кино",BCU Action HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=3c679a39456838ea8abc77b288c95df2b7a3f45d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Catastrophe HD [RU]" group-title="movies",BCU Catastrophe HD [RU]
+#EXTINF:-1 tvg-name="BCU Catastrophe HD [RU]" group-title="Кино",BCU Catastrophe HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=07d24566226c5851b9c3a3235e3451854d6baeac&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Cinema HD [RU]" group-title="movies",BCU Cinema HD [RU]
+#EXTINF:-1 tvg-name="BCU Cinema HD [RU]" group-title="Кино",BCU Cinema HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ed699504c5010cab9046530306960e998a92f5e6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Cinema+ HD [RU]" group-title="movies",BCU Cinema+ HD [RU]
+#EXTINF:-1 tvg-name="BCU Cinema+ HD [RU]" group-title="Кино",BCU Cinema+ HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=4d6232def7e751c47eb44a017021055e8362b54a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Comedy HD [RU]" group-title="movies",BCU Comedy HD [RU]
+#EXTINF:-1 tvg-name="BCU Comedy HD [RU]" group-title="Кино",BCU Comedy HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5c878afe25deb6a7f1cfe198df39d5a073af4134&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Cosmo HD [RU]" group-title="movies",BCU Cosmo HD [RU]
+#EXTINF:-1 tvg-name="BCU Cosmo HD [RU]" group-title="Кино",BCU Cosmo HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Criminal HD [RU]" group-title="movies",BCU Criminal HD [RU]
+#EXTINF:-1 tvg-name="BCU Criminal HD [RU]" group-title="Кино",BCU Criminal HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ddb42884acd341255390cda62387b5a42d8c2180&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Fantastic HD [RU]" group-title="movies",BCU Fantastic HD [RU]
+#EXTINF:-1 tvg-name="BCU Fantastic HD [RU]" group-title="Кино",BCU Fantastic HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Filmystic HD [RU]" group-title="movies",BCU Filmystic HD [RU]
+#EXTINF:-1 tvg-name="BCU Filmystic HD [RU]" group-title="Кино",BCU Filmystic HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU History HD [RU]" group-title="movies",BCU History HD [RU]
+#EXTINF:-1 tvg-name="BCU History HD [RU]" group-title="Кино",BCU History HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=21fcd8e73936b64435d07832c2d8382609f48d6d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kinorating HD [RU]" group-title="movies",BCU Kinorating HD [RU]
+#EXTINF:-1 tvg-name="BCU Kinorating HD [RU]" group-title="Кино",BCU Kinorating HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kinozakaz HD [RU]" group-title="movies",BCU Kinozakaz HD [RU]
+#EXTINF:-1 tvg-name="BCU Kinozakaz HD [RU]" group-title="Кино",BCU Kinozakaz HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=9cd5a5ee3d83b36cd5dd36dbc912e37531df482b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Marvel HD [RU]" group-title="movies",BCU Marvel HD [RU]
+#EXTINF:-1 tvg-name="BCU Marvel HD [RU]" group-title="Кино",BCU Marvel HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Premiere HD [RU]" group-title="movies",BCU Premiere HD [RU]
+#EXTINF:-1 tvg-name="BCU Premiere HD [RU]" group-title="Кино",BCU Premiere HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Reality HD [RU]" group-title="movies",BCU Reality HD [RU]
+#EXTINF:-1 tvg-name="BCU Reality HD [RU]" group-title="Кино",BCU Reality HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=22da1ac893c3daf4035261c84e828c8020648187&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Ruserial HD [RU]" group-title="movies",BCU Ruserial HD [RU]
+#EXTINF:-1 tvg-name="BCU Ruserial HD [RU]" group-title="Кино",BCU Ruserial HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=49552fcef0397a9f48f7520247ee414a085f61e2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Russian HD [RU]" group-title="movies",BCU Russian HD [RU]
+#EXTINF:-1 tvg-name="BCU Russian HD [RU]" group-title="Кино",BCU Russian HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5e38456d774827e7312b7eabdde388532a3dfec9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Stars HD [RU]" group-title="movies",BCU Stars HD [RU]
+#EXTINF:-1 tvg-name="BCU Stars HD [RU]" group-title="Кино",BCU Stars HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=05fe94b726e99b1dd548013bd281980f9f27b617&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Survival HD [RU]" group-title="movies",BCU Survival HD [RU]
+#EXTINF:-1 tvg-name="BCU Survival HD [RU]" group-title="Кино",BCU Survival HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU TruMotion HD [RU]" group-title="movies",BCU TruMotion HD [RU]
+#EXTINF:-1 tvg-name="BCU TruMotion HD [RU]" group-title="Кино",BCU TruMotion HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Ultra 4K [RU]" group-title="movies",BCU Ultra 4K [RU]
+#EXTINF:-1 tvg-name="BCU Ultra 4K [RU]" group-title="Кино",BCU Ultra 4K [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=6c82a952053419ef358907fc2fc52151626be0b7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU VHS HD [RU]" group-title="movies",BCU VHS HD [RU]
+#EXTINF:-1 tvg-name="BCU VHS HD [RU]" group-title="Кино",BCU VHS HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5752b846dab618e12a0a1541ad6573a81ae1265d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Кинозал Premiere 1 HD [RU]" group-title="movies",BCU Кинозал Premiere 1 HD [RU]
+#EXTINF:-1 tvg-name="BCU Кинозал Premiere 1 HD [RU]" group-title="Кино",BCU Кинозал Premiere 1 HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=122b81e6c37b49a37c3b1984efaf5626371d5df5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Кинозал Premiere 2 HD [RU]" group-title="movies",BCU Кинозал Premiere 2 HD [RU]
+#EXTINF:-1 tvg-name="BCU Кинозал Premiere 2 HD [RU]" group-title="Кино",BCU Кинозал Premiere 2 HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Кинозал Premiere 3 HD [RU]" group-title="movies",BCU Кинозал Premiere 3 HD [RU]
+#EXTINF:-1 tvg-name="BCU Кинозал Premiere 3 HD [RU]" group-title="Кино",BCU Кинозал Premiere 3 HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ffa797e65b8307a13b2805284e28295884c7e7e1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Кинозал СССР HD [RU]" group-title="movies",BCU Кинозал СССР HD [RU]
+#EXTINF:-1 tvg-name="BCU Кинозал СССР HD [RU]" group-title="Кино",BCU Кинозал СССР HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=59623cb797c031a5aa4922eb219851547cb346b0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Романтика HD [RU]" group-title="movies",BCU Романтика HD [RU]
+#EXTINF:-1 tvg-name="BCU Романтика HD [RU]" group-title="Кино",BCU Романтика HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=62f68471bab075eb96e5db4559e7994427db111b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Сваты HD [RU]" group-title="movies",BCU Сваты HD [RU]
+#EXTINF:-1 tvg-name="BCU Сваты HD [RU]" group-title="Кино",BCU Сваты HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Bollywood HD [RU]" group-title="movies",Bollywood HD [RU]
+#EXTINF:-1 tvg-name="Bollywood HD [RU]" group-title="Кино",Bollywood HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CineMan Top [RU]" group-title="movies",CineMan Top [RU]
+#EXTINF:-1 tvg-name="CineMan Top [RU]" group-title="Кино",CineMan Top [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=21f0299cce733ec3a481135553de468440b3630f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CineMan [RU]" group-title="movies",CineMan [RU]
+#EXTINF:-1 tvg-name="CineMan [RU]" group-title="Кино",CineMan [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=00d0649880b17050d8a9ed559fc824f98fd578be&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CineMan РуКино [RU]" group-title="movies",CineMan РуКино [RU]
+#EXTINF:-1 tvg-name="CineMan РуКино [RU]" group-title="Кино",CineMan РуКино [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Cinema (Космос ТВ) [RU]" group-title="movies",Cinema (Космос ТВ) [RU]
+#EXTINF:-1 tvg-name="Cinema (Космос ТВ) [RU]" group-title="Кино",Cinema (Космос ТВ) [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=3814b39d024f50efefb0a30cccf33bac16842328&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FOX HD [RU]" group-title="movies",FOX HD [RU]
+#EXTINF:-1 tvg-name="FOX HD [RU]" group-title="Кино",FOX HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=df94afd23701839b3fdcdf669c73f2e3d656126e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Fox Life HD [RU]" group-title="movies",Fox Life HD [RU]
+#EXTINF:-1 tvg-name="Fox Life HD [RU]" group-title="Кино",Fox Life HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Hollywood HD [RU]" group-title="movies",Hollywood HD [RU]
+#EXTINF:-1 tvg-name="Hollywood HD [RU]" group-title="Кино",Hollywood HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:-1 tvg-name="Paramount Comedy Russia [RU]" group-title="movies",Paramount Comedy Russia [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=5680521f0e507f2c6f55f3de8dd79351615116c5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV1000 Action [RU]" group-title="movies",TV1000 Action [RU]
+#EXTINF:-1 tvg-name="TV1000 Action [RU]" group-title="Кино",TV1000 Action [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV1000 World Kino [RU]" group-title="movies",TV1000 World Kino [RU]
+#EXTINF:-1 tvg-name="TV1000 World Kino [RU]" group-title="Кино",TV1000 World Kino [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:-1 tvg-name="TV1000 [RU]" group-title="movies",TV1000 [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
