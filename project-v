@@ -80,17 +80,17 @@ http://188.208.197.173/viasat-nature/index.m3u8
 http://188.208.197.173/davinchi/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Animal Planet HD [RU]" group-title="educational",Animal Planet HD [RU]
+#EXTINF:-1  group-title="Познавательные",Animal Planet HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=4326cb056ec172c0d9958cd44535045723b66068&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Da Vinci [RU]" group-title="educational",Da Vinci [RU]
+#EXTINF:-1  group-title="Познавательные",Da Vinci [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Dikaya Okhota HD [RU]" group-title="educational",Dikaya Okhota HD [RU]
+#EXTINF:-1  group-title="Познавательные",Dikaya Okhota HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=cd421b221ef7bae31a599542cd9c061fc66b30aa&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Dikaya Rybalka HD [RU]" group-title="educational",Dikaya Rybalka HD [RU]
+#EXTINF:-1  [RU]" group-title="educational",Dikaya Rybalka HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Discovery HD [RU]" group-title="educational",Discovery HD [RU]
+#EXTINF:-1  group-title="educational",Discovery HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=09f099db0453cf7517e133533aadfd5136eca771&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eureka HD [RU]" group-title="educational",Eureka HD [RU]
+#EXTINF:-1  group-title="educational",Eureka HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=65707378011c08c27dca1f0162d545f369756c5f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:-1 tvg-name="Fashion TV HD [RU]" group-title="educational",Fashion TV HD [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
