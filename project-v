@@ -1139,12 +1139,11 @@ http://188.137.252.17:6878/ace/manifest.m3u8?id=4b7c5f21b435d79c823e47572655a9c1
 #EXTINF:-1 tvg-name="Матч! Страна [RU]" group-title="sport",Матч! Страна [RU]
 http://188.137.252.17:6878/ace/manifest.m3u8?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:-1 tvg-name="Матч! ТВ HD [RU]" group-title="sport",Матч! ТВ HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
+http://188.208.197.173:2101/match/index.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 1 ( original ) [RU]" group-title="sport",Матч! Футбол 1 ( original ) [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b28db77c5084da7993395d77df96c30bb134f0a9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
+http://188.208.197.173:2101/matchf1/index.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 2 ( original ) [RU]" group-title="sport",Матч! Футбол 2 ( original ) [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-
+http://188.208.197.173:2101/matchf2/index.m3u8
 
 
 
