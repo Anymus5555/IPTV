@@ -1144,6 +1144,8 @@ http://188.208.197.173:2101/match/index.m3u8
 http://188.208.197.173:2101/matchf1/index.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 2 ( original ) [RU]" group-title="sport",Матч! Футбол 2 ( original ) [RU]
 http://188.208.197.173:2101/matchf2/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 ( original ) [RU]" group-title="sport",Матч! Футбол 3 ( original ) [RU]
+http://185.57.68.33/110/index.m3u8
 
 
 
