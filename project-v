@@ -1,44 +1,394 @@
 #EXTM3U
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Россия" tvg-shift="+4" tvg-id="hlsproxy-366" tvg-logo="http://188.208.197.173:2580/logos/perviy-hd.png",Первый канал HD 
-http://188.208.197.173:2580/channel/n41e22b07/index.m3u8?q=1763547371251
-#EXTINF:-1 group-title="Россия",Россия 1 HD
-http://188.208.197.173:2580/channel/n653b07af/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",НТВ HD
-http://188.208.197.173:2580/channel/21da6585/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",ТНТ HD
-http://188.208.197.173:2580/channel/n3f602b30/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",РЕН ТВ
-http://188.208.197.173:2580/channel/7a504b3e/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",ТНТ 4
-http://188.208.197.173:2580/channel/53634734/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",Пятница
-http://188.208.197.173:2580/channel/n51d76e20/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",ТВ 3
-http://188.208.197.173:2580/channel/n41c4ef6c/index.m3u8?q=17642414214788
-#EXTINF:-1 group-title="Россия",2x2
-http://188.208.197.173:2580/channel/70752bf1/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",Ю
-http://188.208.197.173:2580/channel/3ab902f3/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",МИР
-http://188.208.197.173:2580/channel/708455a9/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",МИР 24
-http://188.208.197.173:2580/channel/n481323e7/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",ОТР
-http://188.208.197.173:2580/channel/70845a61/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",Домашний
-http://188.208.197.173:2580/channel/2ead2f1b/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",Звезда
-http://188.208.197.173:2580/channel/n7981c060/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",Звезда Плюс
-http://188.208.197.173:2580/channel/6e4b732f/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",ТВ Ц
-http://188.208.197.173:2580/channel/n62d57a31/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",СТС
-http://188.208.197.173:2580/channel/n62d57c07/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",Спас
-http://188.208.197.173:2580/channel/8266e16/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Россия",5 Канал
-http://188.208.197.173:2580/channel/4a287dd2/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="РОССИЯ" , Первый HD
+http://50.7.28.226/8150/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , ТНТ HD
+http://50.7.28.226/8311/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , НТВ HD
+http://50.7.28.226/8156/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , НТВ-Мир
+http://50.7.28.226/8011/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , НТВ
+http://50.7.28.226/8298/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , ТНТ4
+http://50.7.28.226/8058/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , Россия 1 HD
+http://50.7.28.226/8152/index.m3u8
+
+#EXTINF:-1 group-title="РОССИЯ",РОССИЯ 24
+http://31.131.141.195:8000/play/1070/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Travel+Adventure
+http://50.7.28.226/8170/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Travel Channel HD
+http://50.7.28.226/8315/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Viasat History
+http://50.7.28.226/9017/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , История 
+http://50.7.28.226/8082/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Discovery HD
+http://50.7.28.226/8748/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , History HD
+http://50.7.28.226/8356/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Точка РФ
+http://50.7.28.226/8175/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Galaxy
+http://50.7.28.226/8337/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Глазами туриста
+http://50.7.28.226/8904/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , National Geographic
+http://50.7.28.226/8080/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Top Secret
+http://50.7.28.226/8073/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Travelxp
+http://50.7.28.226/8680/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Дикая рыбалка HD
+http://50.7.28.226/8316/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Охота и рыбалка
+http://50.7.28.226/8065/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Оружие
+http://50.7.28.226/8206/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Наука 2.0
+http://50.7.28.226/8104/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Наша Сибирь HD
+http://50.7.28.226/8677/index.m3u8
+#EXTINF:-1 group-title="Познавательные" , Первый космический HD
+
+#EXTINF:-1 group-title="Познавательные" , RTG HD
+http://50.7.28.226/8151/index.m3u8
+#EXTINF:-1 group-title="Кино" , СТС Love 
+http://50.7.28.226/8174/index.m3u8
+#EXTINF:-1 group-title="Кино" , Bollywood 
+http://50.7.28.226/8240/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , Среда 
+http://50.7.28.226/8295/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , Спас
+http://50.7.28.226/8301/index.m3u8
+
+
+#EXTINF:-1 group-title="Кино" , Shot TV
+http://50.7.28.226/8358/index.m3u8
+#EXTINF:-1 group-title="Кино" , Docu Box
+http://50.7.28.226/8528/index.m3u8
+#EXTINF:-1 group-title="Кино" , Fan HD
+http://50.7.28.226/8386/index.m3u8
+#EXTINF:-1 group-title="Кино" , Fox
+http://50.7.28.226/8168/index.m3u8
+#EXTINF:-1 group-title="Кино" , Gold Line Детектив HD
+http://50.7.28.226/8573/index.m3u8
+#EXTINF:-1 group-title="Кино" , Кинеко
+http://50.7.28.226/8370/index.m3u8
+#EXTINF:-1 group-title="Кино" , Fan HD
+http://50.7.28.226/8386/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box СССР 4K
+http://50.7.28.226/8445/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Apocalypse HD
+http://50.7.28.226/8441/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Autotrend HD
+http://50.7.28.226/8440/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Fantasy HD
+http://50.7.28.226/8430/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Lo-Fi HD
+http://50.7.28.226/8446/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Mayday HD
+http://50.7.28.226/8434/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Ultrastars 4k
+http://50.7.28.226/8444/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Spy HD
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Travel HD
+http://50.7.28.226/8416/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Zombie HD
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Stories HD
+http://50.7.28.226/8429/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Gangster HD
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 group-title="Кино" , Box Serial HD
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 group-title="Кино" , BCU Action HD
+http://50.7.28.226/8478/index.m3u8
+#EXTINF:-1 group-title="Кино" , BCU Kids HD
+http://50.7.28.226/8458/index.m3u8
+#EXTINF:-1 group-title="Кино" , BCU Premiere HD
+http://50.7.28.226/8475/index.m3u8
+#EXTINF:-1 group-title="Кино" , BCU Russian HD
+http://50.7.28.226/8457/index.m3u8
+#EXTINF:-1 group-title="Кино" , BCU Kids+
+http://50.7.28.226/8454/index.m3u8
+#EXTINF:-1 group-title="Кино" , BCU Kinorating
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 group-title="Кино" , BCU Catastrophe HD 
+http://50.7.28.226/8877/index.m3u8
+#EXTINF:-1 group-title="Кино" , BCU Romantic HD
+http://50.7.28.226/8884/index.m3u8
+#EXTINF:-1 group-title="Кино" , BCU Сваты
+http://50.7.28.226/8889/index.m3u8
+#EXTINF:-1 group-title="Кино" , Продвижение 
+http://50.7.28.226/8665/index.m3u8
+#EXTINF:-1 group-title="Кино" , Наше Мужское HD
+http://50.7.28.226/8740/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Honey
+http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Драма HD
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Макромир
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Newfilm 3
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Relax
+http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Celebrity HD
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Newfilm 1 HD
+http://50.7.28.226/8741/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM NewFilm RU HD
+http://50.7.28.226/8706/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Rock HD
+http://50.7.28.226/8679/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM UFO HD
+http://50.7.28.226/8410/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Боевик HD
+http://50.7.28.226/8411/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Катастрофа HD
+http://50.7.28.226/8746/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Комедия HD
+http://50.7.28.226/8708/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Комедия Classic HD
+http://50.7.28.226/8744/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Кунг-Фу HD
+http://50.7.28.226/8559/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Мегамир HD
+http://50.7.28.226/8770/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Нуар HD
+http://50.7.28.226/8733/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Роскино HD
+http://50.7.28.226/8709/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Супергерои HD
+http://50.7.28.226/8710/index.m3u8
+#EXTINF:-1 group-title="Кино" , MM Ужасы HD
+http://50.7.28.226/8725/index.m3u8
+#EXTINF:-1 group-title="Кино" , CineMan VHS
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1 group-title="Кино" , CineMan Симпсоны 
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1 group-title="Кино" , Cinema 
+http://50.7.28.226/8949/index.m3u8
+#EXTINF:-1 group-title="Кино" , CineMan Thriller
+http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1 group-title="Кино" , CineMan MiniSeries
+http://50.7.28.226/8961/index.m3u8
+
+#EXTINF:-1 group-title="Кино" , CineMan РуКино
+http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1 group-title="Кино" , Романтичное HD
+http://50.7.28.226/8948/index.m3u8
+#EXTINF:-1 group-title="Кино" , Viasat Kino
+http://50.7.28.226/9020/index.m3u8
+#EXTINF:-1 group-title="Кино" , Домашний
+http://50.7.28.226/9204/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , ICTV
+http://50.7.28.226/8092/index.m3u8
+#EXTINF:-1 group-title="Кино" , Новий Канал
+http://50.7.28.226/8130/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , СТБ
+http://50.7.28.226/8090/index.m3u8
+#EXTINF:-1 group-title="Кино" , Дом кино 
+http://50.7.28.226/8136/index.m3u8
+#EXTINF:-1 group-title="Кино" , Киномикс
+http://50.7.28.226/8040/index.m3u8
+#EXTINF:-1 group-title="Кино" , Кинопремьера HD
+http://50.7.28.226/8199/index.m3u8
+#EXTINF:-1 group-title="Кино" , Киноужас HD
+http://50.7.28.226/8357/index.m3u8
+#EXTINF:-1 group-title="Кино" , Родное кино
+http://50.7.28.226/8096/index.m3u8
+#EXTINF:-1 group-title="Кино" , VIP Serial
+http://50.7.28.226/9222/index.m3u8
+#EXTINF:-1 group-title="Кино" , Твоё ТВ
+http://50.7.28.226/9236/index.m3u8
+#EXTINF:-1 group-title="Кино" , Твоё ТВ Юмор
+http://50.7.28.226/9246/index.m3u8
+#EXTINF:-1 group-title="Кино" , Бигуди 
+http://50.7.28.226/9328/index.m3u8
+
+#EXTINF:-1 group-title="РОССИЯ" ,2x2
+http://50.7.28.226/8045/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,5 канал
+http://50.7.28.226/8093/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Amedia 1
+http://50.7.28.226/8035/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Bolywood HD
+http://50.7.28.226/8240/index.m3u8
+#EXTINF:-1 group-title="Кино" ,RTVI
+http://50.7.28.226/8118/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Shot TV
+http://50.7.28.226/8358/index.m3u8
+#EXTINF:-1 group-title="Кино" ,TV XXI
+http://50.7.28.226/8213/index.m3u8
+#EXTINF:-1 group-title="Кино" ,TV1000
+http://50.7.28.226/8048/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Авто плюс
+http://50.7.28.226/8095/index.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Вопросы и ответы
+http://50.7.28.226/8053/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Время
+http://50.7.28.226/8012/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Дом кино
+http://50.7.28.226/8136/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Домашний
+http://50.7.28.226/8124/index.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Еда
+http://50.7.28.226/8140/index.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Жара
+http://50.7.28.226/8361/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Звезда
+http://50.7.28.226/8037/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Индия
+http://50.7.28.226/8155/index.m3u8
+
+#EXTINF:-1 group-title="Кино" ,Кино ТВ HD
+http://50.7.28.226/8207/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Конный мир
+http://50.7.28.226/8326/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Красная линия
+http://50.7.28.226/8390/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Мосфильм. Золотая коллекция HD
+http://50.7.28.226/8707/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Наше любимое HD
+http://50.7.28.226/8310/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,ОТР
+http://50.7.28.226/8146/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Планета РТР
+http://50.7.28.226/8121/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Победа
+http://50.7.28.226/8391/index.m3u8
+
+#EXTINF:-1 group-title="РОССИЯ" ,Пятница
+http://50.7.28.226/8066/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Пятый канал
+http://50.7.28.226/8009/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,РБК
+http://50.7.28.226/8197/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Русский бестселлер
+http://50.7.28.226/8162/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Русский детектив
+http://50.7.28.226/8161/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Русский роман
+http://50.7.28.226/8010/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Сарафан
+http://50.7.28.226/8020/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Союз
+http://50.7.28.226/8401/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Спас
+http://50.7.28.226/8301/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Среда HD
+http://50.7.28.226/8295/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,СТС
+http://50.7.28.226/8005/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,ТВ3
+http://50.7.28.226/8114/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,ТВЦ
+http://50.7.28.226/8006/index.m3u8
+
+#EXTINF:-1 group-title="РОССИЯ" ,Успех
+http://50.7.28.226/8164/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Центральное телевидение
+http://50.7.28.226/8575/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" ,Че
+http://50.7.28.226/8008/index.m3u8
+#EXTINF:-1 group-title="Музыка" , MCM Top HD
+http://50.7.28.226/8351/index.m3u8
+#EXTINF:-1 group-title="Музыка" , Mezzo
+http://50.7.28.226/8031/index.m3u8
+#EXTINF:-1 group-title="Музыка" , МузТВ
+http://50.7.28.226/8190/index.m3u8
+#EXTINF:-1 group-title="Музыка ", Музыка первого
+http://50.7.28.226/8135/index.m3u8
+#EXTINF:-1 group-title="Музыка" , ТНТ Music
+http://50.7.28.226/8350/index.m3u8
+#EXTINF:-1 group-title="Музыка" , MTV 80s
+http://50.7.28.226/8137/index.m3u8
+#EXTINF:-1 group-title="Музыка" , М2 HD UA
+http://50.7.28.226/8336/index.m3u8
+#EXTINF:-1 group-title="Музыка" , Bridge TV
+http://50.7.28.226/8527/index.m3u8
+#EXTINF:-1 group-title="Музыка" , Bridge TV Classic
+http://50.7.28.226/8450/index.m3u8
+#EXTINF:-1 group-title="Музыка" , Bridge TV Hits
+http://50.7.28.226/9202/index.m3u8
+#EXTINF:-1 group-title="Музыка" , Bridge TV Rock
+http://50.7.28.226/9229/index.m3u8
+#EXTINF:-1 group-title="Музыка" , Bridge TV Фрэш
+http://50.7.28.226/9230/index.m3u8
+#EXTINF:-1 group-title="Музыка" , Bridge TV Этно
+http://50.7.28.226/9231/index.m3u8
+#EXTINF:-1 group-title="Музыка" , Russian Music Box
+http://50.7.28.226/8189/index.m3u8
+#EXTINF:-1 group-title="Детские" , Лапки Live
+http://50.7.28.226/8551/index.m3u8
+#EXTINF:-1 group-title="Музыка" , Мульт
+http://50.7.28.226/8223/index.m3u8
+#EXTINF:-1 group-title="Детские" , Киномульт
+http://50.7.28.226/8576/index.m3u8
+#EXTINF:-1 group-title="Детские" , Карусель
+http://50.7.28.226/8057/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ" , О!
+http://50.7.28.226/8664/index.m3u8
+#EXTINF:-1 group-title="Кино" , Bolt
+http://50.7.28.226/9329/index.m3u8
+#EXTINF:-1 group-title="Детские" , Солнце
+http://50.7.28.226/8054/index.m3u8
+#EXTINF:-1 group-title="Детские" , Мульт
+http://50.7.28.226/8157/index.m3u8
+#EXTINF:-1 group-title="Детские" , Лёва HD
+http://50.7.28.226/8375/index.m3u8
+#EXTINF:-1 group-title="Детские" , Рыжий
+http://50.7.28.226/9224/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч HD
+http://50.7.28.226/8179/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч Боец
+http://50.7.28.226/8671/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://50.7.28.226/8016/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Матч! Арена
+http://50.7.28.226/8018/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Планета
+http://50.7.28.226/8549/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+http://50.7.28.226/8236/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+http://50.7.28.226/8237/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+http://50.7.28.226/8029/index.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+http://50.7.28.226/8015/index.m3u8
+#EXTINF:-1 group-title="Спорт",Sport 1 HD
+http://50.7.28.226/8705/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sport 1 HD
+http://50.7.28.226/8379/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
+http://50.7.28.226/8676/index.m3u8
+#EXTINF:-1 group-title="Спорт",Беларусь 5 HD
+http://50.7.28.226/8694/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://50.7.28.226/8013/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+http://50.7.28.226/8014/index.m3u8
+#EXTINF:-1 group-title="Спорт", KHL Prime
+http://50.7.28.226/8297/index.m3u8
+#EXTINF:-1 group-title="Спорт", KHL
+http://50.7.28.226/8025/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч ТВ
+http://50.7.28.226/8179/index.m3u8
+#EXTINF:-1 group-title="Спорт", Окко Футбол HD
+http://50.7.28.226/9170/index.m3u8
+#EXTINF:-1 group-title="Спорт", Окко Спорт 2 HD
+http://50.7.28.226/9183/index.m3u8
+#EXTINF:-1 group-title="Спорт", ТВ Спорт 
+http://50.7.28.226/9187/index.m3u8
+#EXTINF:-1 group-title="Спорт", Волейбол 
+http://50.7.28.226/9192/index.m3u8
+#EXTINF:-1 group-title="Спорт", NBA HD
+http://50.7.28.226/8061/index.m3u8
 
 #EXTINF:-1 group-title="Кино",TV1000 HD
 http://188.208.197.173/viju/index.m3u8
@@ -69,1064 +419,7 @@ http://188.208.197.173/viasat-nature/index.m3u8
 http://188.208.197.173/davinchi/index.m3u8
 
 
-#EXTINF:-1  group-title="Познавательные",Animal Planet HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4326cb056ec172c0d9958cd44535045723b66068&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1  group-title="Познавательные",Da Vinci [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1  group-title="Познавательные",Dikaya Okhota HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=cd421b221ef7bae31a599542cd9c061fc66b30aa&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1  [RU]" group-title="Познавательные",Dikaya Rybalka HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1  group-title="Познавательные",Discovery HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=09f099db0453cf7517e133533aadfd5136eca771&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1  group-title="Познавательные",Eureka HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=65707378011c08c27dca1f0162d545f369756c5f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Fashion TV HD [RU]" group-title="Познавательные",Fashion TV HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="H2 HD [RU]" group-title="Познавательные",H2 HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HD Life [RU]" group-title="Познавательные",HD Life [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=74a1634a8fe44e5058c865d4de63cde90b14f107&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="History HD [RU]" group-title="Познавательные",History HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Nat Geo Wild HD [RU]" group-title="Познавательные",Nat Geo Wild HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="National Geographic HD [RU]" group-title="Познавательные",National Geographic HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3a08c5a973e162429910f441bf8aa45b24d667e0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Travel Channel HD [RU]" group-title="Познавательные",Travel Channel HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=48566a80593d54be5543583173fd520ce675d5b2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Travel+Adventure HD [RU]" group-title="Познавательные",Travel+Adventure HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat Explore [RU]" group-title="Познавательные",Viasat Explore [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=192ca66e1e39bec710e286780c49bcc432258636&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat History [RU]" group-title="Познавательные",Viasat History [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat Nature [RU]" group-title="Познавательные",Viasat Nature [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2128074a1ebba9d320b148d25001b356f1057dda&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat Nature/History HD [RU]" group-title="Познавательные",Viasat Nature/History HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Авто 24 [RU]" group-title="Познавательные",Авто 24 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7e515477cf191b1e4e33c7151c7cf84925f16780&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Авто Плюс [RU]" group-title="Познавательные",Авто Плюс [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="В мире животных [RU]" group-title="Познавательные",В мире животных [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=30ed25e99233ae63f7e10787c8806f74f52a437c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Глазами туриста HD [RU]" group-title="Познавательные",Глазами туриста HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Диалоги о рыбалке [RU]" group-title="Познавательные",Диалоги о рыбалке [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Дикий [RU]" group-title="Познавательные",Дикий [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c60f8614f11e0f11338e25567a92f5fb84eb4832&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Доктор [RU]" group-title="Познавательные",Доктор [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Драйв [RU]" group-title="Познавательные",Драйв [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Еда Премиум HD [RU]" group-title="Познавательные",Еда Премиум HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Живая планета [RU]" group-title="Познавательные",Живая планета [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Загородная жизнь [RU]" group-title="Познавательные",Загородная жизнь [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Здоровое ТВ [RU]" group-title="Познавательные",Здоровое ТВ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мир Вокруг HD [RU]" group-title="Познавательные",Мир Вокруг HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Моя планета HD [RU]" group-title="Познавательные",Моя планета HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=bc956bc36a6384474f1b613638c79291e0ee3c14&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мужской [RU]" group-title="Познавательные",Мужской [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6f333af96362664dd566c585601d7c522c9b09e1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="НАНО [RU]" group-title="Познавательные",НАНО [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f57378901dec9cb1d110f3893f355becb6cae39d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="НТВ Стиль [RU]" group-title="Познавательные",НТВ Стиль [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Наука 2.0 [RU]" group-title="Познавательные",Наука 2.0 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Оружие [RU]" group-title="Познавательные",Оружие [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Охотник и Рыболов HD [RU]" group-title="Познавательные",Охотник и Рыболов HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Поехали! [RU]" group-title="Познавательные",Поехали! [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c5841f89c3ae2e6745948308be283a904bf96adb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Приключения HD [RU]" group-title="Познавательные",Приключения HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Сов. Секретно [RU]" group-title="Познавательные",Сов. Секретно [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Усадьба [RU]" group-title="Познавательные",Усадьба [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="2x2 [RU]" group-title="Детские",2x2 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ae0290d2b26b326c76a6842c1f62b643e29a6801&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Ani [RU]" group-title="Детские",Ani [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kids 4K [RU]" group-title="Детские",BCU Kids 4K [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kids HD [RU]" group-title="Детские",BCU Kids HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=535b288408b7c671bb1d5c292dd64beadf556ab9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kids+ HD [RU]" group-title="Детские",BCU Kids+ HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Мультсериал [RU]" group-title="Детские",BCU Мультсериал [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8bff31504247530c1be06395c11c38ecd1895964&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Boomerang [RU]" group-title="Детские",Boomerang [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Cartoon Network [RU]" group-title="Детские",Cartoon Network [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6578fed493fdf327038e74d9d967888d3dbb9c2d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Disney [RU]" group-title="Детские",Disney [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FAN [RU]" group-title="Детские",FAN [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Gulli Girl [RU]" group-title="Детские",Gulli Girl [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TiJi [RU]" group-title="Детские",TiJi [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="В гостях у сказки [RU]" group-title="Детские",В гостях у сказки [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Капитан Фантастика HD [RU]" group-title="Детские",Капитан Фантастика HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Карусель [RU]" group-title="Детские",Карусель [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c008e67929d47855b43f7a9af7305a6c32504132&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Малыш [RU]" group-title="Детские",Малыш [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мульт HD [RU]" group-title="Детские",Мульт HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=83392085bd6971ff98e8884913a51c3313126f7f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мультиландия [RU]" group-title="Детские",Мультиландия [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мультимузыка [RU]" group-title="Детские",Мультимузыка [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="О! [RU]" group-title="Детские",О! [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f629f91eaeee18118080c0211516469495af04f2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Рыжий [RU]" group-title="Детские",Рыжий [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0ef17cf868ef54b443dd41516803276779b76aac&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="СТС Kids [RU]" group-title="Детские",СТС Kids [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Уникум [RU]" group-title="Детские",Уникум [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name=".black [RU]" group-title="Кино",.black [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name=".red [RU]" group-title="Кино",.red [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e5546c985741ec758b39030c59ade2f3a311a06e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name=".sci-fi [RU]" group-title="Кино",.sci-fi [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Amedia 1 [RU]" group-title="Кино",Amedia 1 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Amedia 2 [RU]" group-title="Кино",Amedia 2 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Amedia Hit [RU]" group-title="Кино",Amedia Hit [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Amedia premium HD [RU]" group-title="Кино",Amedia premium HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5988dc4ef60bf2f77939026578ac80771f2938c2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Action HD [RU]" group-title="Кино",BCU Action HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3c679a39456838ea8abc77b288c95df2b7a3f45d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Catastrophe HD [RU]" group-title="Кино",BCU Catastrophe HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=07d24566226c5851b9c3a3235e3451854d6baeac&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Cinema HD [RU]" group-title="Кино",BCU Cinema HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ed699504c5010cab9046530306960e998a92f5e6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Cinema+ HD [RU]" group-title="Кино",BCU Cinema+ HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4d6232def7e751c47eb44a017021055e8362b54a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Comedy HD [RU]" group-title="Кино",BCU Comedy HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5c878afe25deb6a7f1cfe198df39d5a073af4134&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Cosmo HD [RU]" group-title="Кино",BCU Cosmo HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Criminal HD [RU]" group-title="Кино",BCU Criminal HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ddb42884acd341255390cda62387b5a42d8c2180&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Fantastic HD [RU]" group-title="Кино",BCU Fantastic HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Filmystic HD [RU]" group-title="Кино",BCU Filmystic HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU History HD [RU]" group-title="Кино",BCU History HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=21fcd8e73936b64435d07832c2d8382609f48d6d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kinorating HD [RU]" group-title="Кино",BCU Kinorating HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Kinozakaz HD [RU]" group-title="Кино",BCU Kinozakaz HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9cd5a5ee3d83b36cd5dd36dbc912e37531df482b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Marvel HD [RU]" group-title="Кино",BCU Marvel HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Premiere HD [RU]" group-title="Кино",BCU Premiere HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Reality HD [RU]" group-title="Кино",BCU Reality HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=22da1ac893c3daf4035261c84e828c8020648187&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Ruserial HD [RU]" group-title="Кино",BCU Ruserial HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=49552fcef0397a9f48f7520247ee414a085f61e2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Russian HD [RU]" group-title="Кино",BCU Russian HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5e38456d774827e7312b7eabdde388532a3dfec9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Stars HD [RU]" group-title="Кино",BCU Stars HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=05fe94b726e99b1dd548013bd281980f9f27b617&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Survival HD [RU]" group-title="Кино",BCU Survival HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU TruMotion HD [RU]" group-title="Кино",BCU TruMotion HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Ultra 4K [RU]" group-title="Кино",BCU Ultra 4K [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6c82a952053419ef358907fc2fc52151626be0b7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU VHS HD [RU]" group-title="Кино",BCU VHS HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5752b846dab618e12a0a1541ad6573a81ae1265d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Кинозал Premiere 1 HD [RU]" group-title="Кино",BCU Кинозал Premiere 1 HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=122b81e6c37b49a37c3b1984efaf5626371d5df5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Кинозал Premiere 2 HD [RU]" group-title="Кино",BCU Кинозал Premiere 2 HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Кинозал Premiere 3 HD [RU]" group-title="Кино",BCU Кинозал Premiere 3 HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ffa797e65b8307a13b2805284e28295884c7e7e1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Кинозал СССР HD [RU]" group-title="Кино",BCU Кинозал СССР HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=59623cb797c031a5aa4922eb219851547cb346b0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Романтика HD [RU]" group-title="Кино",BCU Романтика HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=62f68471bab075eb96e5db4559e7994427db111b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Сваты HD [RU]" group-title="Кино",BCU Сваты HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Bollywood HD [RU]" group-title="Кино",Bollywood HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CineMan Top [RU]" group-title="Кино",CineMan Top [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=21f0299cce733ec3a481135553de468440b3630f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CineMan [RU]" group-title="Кино",CineMan [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=00d0649880b17050d8a9ed559fc824f98fd578be&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CineMan РуКино [RU]" group-title="Кино",CineMan РуКино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Cinema (Космос ТВ) [RU]" group-title="Кино",Cinema (Космос ТВ) [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3814b39d024f50efefb0a30cccf33bac16842328&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FOX HD [RU]" group-title="Кино",FOX HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=df94afd23701839b3fdcdf669c73f2e3d656126e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Fox Life HD [RU]" group-title="Кино",Fox Life HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Hollywood HD [RU]" group-title="Кино",Hollywood HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Paramount Comedy Russia [RU]" group-title="movies",Paramount Comedy Russia [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5680521f0e507f2c6f55f3de8dd79351615116c5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV1000 Action [RU]" group-title="Кино",TV1000 Action [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV1000 World Kino [RU]" group-title="Кино",TV1000 World Kino [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV1000 [RU]" group-title="movies",TV1000 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV1000 Русское кино [RU]" group-title="movies",TV1000 Русское кино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=af4baf7f76a3057eeea815c90747860e9fec488a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="VIP Comedy [RU]" group-title="movies",VIP Comedy [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8c7b8be6682d84e033352724243719378c3e1540&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="VIP Megahit [RU]" group-title="movies",VIP Megahit [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="VIP Premiere [RU]" group-title="movies",VIP Premiere [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="VIP Serial [RU]" group-title="movies",VIP Serial [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d13dd140058b7a528959e2b709aca4111b7cc076&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Арсенал HD [RU]" group-title="movies",Арсенал HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7cf9a5935adc526cab260a6a561af7d6fe34f640&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Блокбастер HD [RU]" group-title="movies",Блокбастер HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6019512392cd7316a5362e275966779bf9011fee&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Дом кино [RU]" group-title="movies",Дом кино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4403739564a9b19055786e9844ea48147b3f930b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Дом кино премиум HD [RU]" group-title="movies",Дом кино премиум HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c2877f4320f2029a59f2121525280c539fb1b9e9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Дорама [RU]" group-title="movies",Дорама [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Душевное [RU]" group-title="movies",Душевное [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=82cc7621069b4095f002b43a669b40c2b5342afc&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Еврокино [RU]" group-title="movies",Еврокино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=cda16e6d488958942dcd9cd96284c0910dc29cce&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ИНДИЙСКОЕ КИНО [RU]" group-title="movies",ИНДИЙСКОЕ КИНО [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Иллюзион+ [RU]" group-title="movies",Иллюзион+ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="КИНО ТВ [RU]" group-title="movies",КИНО ТВ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="КИНОСВИДАНИЕ [RU]" group-title="movies",КИНОСВИДАНИЕ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f5302ed56cf6af61378b2527524398558d9cddde&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="КИНОСЕРИЯ [RU]" group-title="movies",КИНОСЕРИЯ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Камеди HD [RU]" group-title="movies",Камеди HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="КиноСат [RU]" group-title="movies",КиноСат [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b2314014f5b3c51ed75dc5066260b5134fa4d5a6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Киноджем 1 HD [RU]" group-title="movies",Киноджем 1 HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Кинозал 1 [RU]" group-title="movies",Кинозал 1 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6c6849a17243f967d0c6f04323af9dfde161c3f2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Кинокомедия [RU]" group-title="movies",Кинокомедия [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Киномикс [RU]" group-title="movies",Киномикс [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3dba401ca5f2508ddfa955333e233d40d7f3572e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Кинопоказ HD [RU]" group-title="movies",Кинопоказ HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=682b445d50584498d63230dd10d05c793779ad9d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Кинопремьера HD [RU]" group-title="movies",Кинопремьера HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Киносемья [RU]" group-title="movies",Киносемья [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e177586ae336f410e95e784348e4a1f7a82e0952&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Киноужас [RU]" group-title="movies",Киноужас [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Кинохит [RU]" group-title="movies",Кинохит [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Комедийное HD [RU]" group-title="movies",Комедийное HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Любимое кино [RU]" group-title="movies",Любимое кино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ed833df0a763fa26f180acac44634eb4c3918d86&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мосфильм [RU]" group-title="movies",Мосфильм [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=50c13be1307994322057222dbbeefd22622e333d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Мужское кино [RU]" group-title="movies",Мужское кино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="НСТ [RU]" group-title="movies",НСТ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=038d0b88c99d988b0b91af57ef142f563a90d200&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="НТВ Сериал [RU]" group-title="movies",НТВ Сериал [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4419e27b1f86679b2741e2f0d096922b05c00993&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="НТВ ХИТ [RU]" group-title="movies",НТВ ХИТ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Наш Кинопоказ HD [RU]" group-title="movies",Наш Кинопоказ HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Наше Мужское HD [RU]" group-title="movies",Наше Мужское HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Наше крутое HD [RU]" group-title="movies",Наше крутое HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Наше любимое HD [RU]" group-title="movies",Наше любимое HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Наше новое кино [RU]" group-title="movies",Наше новое кино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Ностальгия [RU]" group-title="movies",Ностальгия [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="О!Кино [RU]" group-title="movies",О!Кино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=79fc325adef8b1977b790c8435ff868cb6f75794&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Остросюжетное HD [RU]" group-title="movies",Остросюжетное HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Премиальное HD [RU]" group-title="movies",Премиальное HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4bf6e4511111ef5f8946c75ff85d3591a809f131&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Про Любовь HD [RU]" group-title="movies",Про Любовь HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=300552f346d9fe2dfd405f48fbafe084a95da563&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Родное кино [RU]" group-title="movies",Родное кино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b46c879a624e1d0aa8eeb18300cda7413657e80a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Романтичное [RU]" group-title="movies",Романтичное [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=19bf6faf7257fb5db419008750d80ab4b693981e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Русская комедия [RU]" group-title="movies",Русская комедия [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Русский Бестселлер [RU]" group-title="movies",Русский Бестселлер [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Русский Детектив [RU]" group-title="movies",Русский Детектив [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0028b93215ac25fb20fac7938a5697cf835a4a36&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Русский иллюзион [RU]" group-title="movies",Русский иллюзион [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9f476ff8038d54604d17b15e25e57a041372cde1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Страшное HD [RU]" group-title="movies",Страшное HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ТВ XXI [RU]" group-title="movies",ТВ XXI [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6af72b6047bed580ad57c036ce635dd93233abb6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Феникс Плюс Кино [RU]" group-title="movies",Феникс Плюс Кино [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Хит HD [RU]" group-title="movies",Хит HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Шокирующее HD [RU]" group-title="movies",Шокирующее HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="1HD [RU]" group-title="music",1HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Bridge HD [RU]" group-title="music",Bridge HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=32c2ea9b766da382ee892dae57871b3dd1e8641b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Bridge TV Русский хит [RU]" group-title="music",Bridge TV Русский хит [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=eb3add8d104fa237e14343f3236a932595023c9a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="C Music TV [RU]" group-title="music",C Music TV [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=635159bee85b23dd079e505fe5842b34eb124203&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Europa Plus TV [RU]" group-title="music",Europa Plus TV [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=755483260c00e095f825286bc8b3562966814022&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="MTV Live HD [RU]" group-title="music",MTV Live HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5a08cc63a0aef61f2f659efae6f7b9c2b584c0b2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="MusicBox RU [RU]" group-title="music",MusicBox RU [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a5149234466b95643eec346ffbd24bc71c64e3d6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RU.TV [RU]" group-title="music",RU.TV [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2302f4b9327232b91a434658c24a506c88bc55f0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="VIVA HD [RU]" group-title="music",VIVA HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=aaf3060a96b04f621643e031eb61137722981595&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="iConcerts [RU]" group-title="music",iConcerts [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f0757d4131090cf4b0652e9a427c350c651e597a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Жара [RU]" group-title="music",Жара [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0f777acf2def9b2c0ae254041796fbae5ba60501&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Ля-минор [RU]" group-title="music",Ля-минор [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="МУЗ [RU]" group-title="music",МУЗ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=38cf205218182050f0df6c7d8321e5e651286e91&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Музыка Первого [RU]" group-title="music",Музыка Первого [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ТНТ-Music [RU]" group-title="music",ТНТ-Music [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=347126177d806d4578b249807200e71db6470b63&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Шансон ТВ [RU]" group-title="music",Шансон ТВ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=71506b08243e6b12e0e6e69c8582622a38009637&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="13 Ulica [PL]" group-title="regional",13 Ulica [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4c9739e99e64298098bd735392b8da7735e16843&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="13th Street HD [DE]" group-title="regional",13th Street HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e5214fbee923eea9dbf94b3ec7277f51cf74ee70&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="3sat HD [DE]" group-title="regional",3sat HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d52b8a34de386a2371de539afb31495e78cc5304&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ATV [DE]" group-title="regional",ATV [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7d50d90895f44e97039eca21ae6bc17172acc9ef&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="AXN Black [PL]" group-title="regional",AXN Black [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e42f59f2288a75332fc56a1a0c15f0435f893f76&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="AXN HD [DE]" group-title="regional",AXN HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f835867c82063fc133d84cf37e89e6545e6e3ad4&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="AXN White [PL]" group-title="regional",AXN White [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=595a79d2a7ea11d033bf09c0515f870d419e4a4d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="AXN [PL]" group-title="regional",AXN [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9c72c5a37a3adb76942bc530fbb9ed951bd98fde&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="AXNSpinHD [PL]" group-title="regional",AXNSpinHD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3e247f41a97526034710d315e2ea5c0a80088e62&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Active Family [PL]" group-title="regional",Active Family [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=552b300fe6a9d641982791b3e1a09f33a04ada29&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Adventure [PL]" group-title="regional",Adventure [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b42612f5449f34193c9ae2fc8b442cd40f196b60&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Ale Kino+ HD [PL]" group-title="regional",Ale Kino+ HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=872360e74223d809523e7b32ad78b2b857bea31b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Animal Planet HD [PL]" group-title="regional",Animal Planet HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f0606ea7c732bdc8c04b7624d89be04aed70d92b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Anixe HD [DE]" group-title="regional",Anixe HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8638ff6c4b98625233842d362ad43eea1e7bbacb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BBC Earth HD [PL]" group-title="regional",BBC Earth HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=59f05ddddf845c24d72c9b27ec45b02e3778c016&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BBC HD [PL]" group-title="regional",BBC HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=68822500e44ec333c33877c9f602ea47a4791106&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BCU Premiere Ultra 4K [RU]" group-title="regional",BCU Premiere Ultra 4K [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BILD HD [DE]" group-title="regional",BILD HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=598900f86da2a7b2f9b17972b2070e8de4bf4e19&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BR Fernsehen HD [DE]" group-title="regional",BR Fernsehen HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=55b69cac18cbeb14c00705d06bc3396f7f6b7070&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Boomerang [DE]" group-title="regional",Boomerang [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0011f12a7bfa97f90bd1eab99631f0d492e5f94b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CANAL+ 1 [PL]" group-title="regional",CANAL+ 1 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9def614ad2e9dab30a710ecb6868b4ed3746ca4e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CANAL+ Sport 3 [PL]" group-title="regional",CANAL+ Sport 3 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3e87464ed8c42ed14464461ea08860a3040a8944&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CANAL+ Sport 4 [PL]" group-title="regional",CANAL+ Sport 4 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=04448c3ca0b7518819491e468adbabc8a2551bd7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CBS Reality [PL]" group-title="regional",CBS Reality [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=de5d8d00d7a2483bba9d5a04ee9957047a20022d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="CLASSICA [DE]" group-title="regional",CLASSICA [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0dc1a5dc724bbe0b3b3e9c4c5c5f5041e1a0c772&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Canal + [PL]" group-title="regional",Canal + [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7a2c53a15cbd5b694759bb107dd099db6f84808d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Canal+ Dokument HD [PL]" group-title="regional",Canal+ Dokument HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=87798426e972b483210644ced2a6bc1ce4ceb5ba&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Canal+ Family HD [PL]" group-title="regional",Canal+ Family HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1613812c13e27c7748272e2a156ad88da3e0657d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Canal+ Film HD [PL]" group-title="regional",Canal+ Film HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a663f007059f573e641386a1e8d5a0b8e7c92831&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Canal+ Now [PL]" group-title="regional",Canal+ Now [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ca70d3784d73e30be88432e62a8817c7184332c6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Canal+ Seriale HD [PL]" group-title="regional",Canal+ Seriale HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=84d0d6e3ac8bdf8bc37406b647c8ddd1e5905eff&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Canal+ Sport 2 HD [PL]" group-title="regional",Canal+ Sport 2 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Canal+ Sport [PL]" group-title="regional",Canal+ Sport [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Cartoon Network [DE]" group-title="regional",Cartoon Network [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2c4fd2b35d296135d8c52ee9eaa6ab5beae405b5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Cinemax 2 [PL]" group-title="regional",Cinemax 2 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5cc11fdb007856a52f131a63a5baee1b15908046&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Cinemax HD [PL]" group-title="regional",Cinemax HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=624ba2d277ec55c7d742acd687dadc6e69a8fea9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Comedy Central HD [PL]" group-title="regional",Comedy Central HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4e8e2b6006b6a877f18c6d53631c79b073d0b023&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Comedy Central Polska [PL]" group-title="regional",Comedy Central Polska [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=90a3bf8ec3584007de4183143883aae24c3f356c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Crime + Investigation [DE]" group-title="regional",Crime + Investigation [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3e42a89d66c2afff75ca7641a52f92a61e5f5250&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Crime and Investigation [PL]" group-title="regional",Crime and Investigation [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=39b0143a80547ee7e3848d6afe1d171773e99032&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="DAZN 1 Bar HD [DE]" group-title="regional",DAZN 1 Bar HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="DAZN 2 Bar HD [DE]" group-title="regional",DAZN 2 Bar HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="DELUXE MUSIC HD [DE]" group-title="regional",DELUXE MUSIC HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=da8c0764bea30d7fe2321383292bb33ff04a5ede&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL [DE]" group-title="regional",DISCOVERY CHANNEL [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f40d450991da3daa22b7a5007603a139def6d951&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="DMAX HD [DE]" group-title="regional",DMAX HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ff3ec08b3af26c5c545c45e82cda6f4382780512&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Das Erste HD [DE]" group-title="regional",Das Erste HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c33404e81c7499e9c962e8a672c6cb4d534e431c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Discovery Historia [PL]" group-title="regional",Discovery Historia [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f4a8fd751bea74c099b556e2eb1869462753b331&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Discovery Life [PL]" group-title="regional",Discovery Life [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=662cf7c13c77a8790b745aed9f8d921a7055d85a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Discovery Science [PL]" group-title="regional",Discovery Science [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1e74c2c028af55e4581dc410f95900d6b2cc3e50&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Discovery Turbo Xtra [PL]" group-title="regional",Discovery Turbo Xtra [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5f99334cac446b0d080c3474a86651a24ca12537&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Discovery [PL]" group-title="regional",Discovery [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=54f740398543ea683c38dfff3414e20763c3fb06&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Disney HD [DE]" group-title="regional",Disney HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ba06199060bece6beb9abba7007d4fd7844342e2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Domo TV [PL]" group-title="regional",Domo TV [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=71450bfa8ab37a60f4e8d57dba6f8913f95d9f49&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="E! Entertainment [PL]" group-title="regional",E! Entertainment [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=11e78bcf4b82c303aec76bfc7c623008ae19d653&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="E! [DE]" group-title="regional",E! [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=70cd3b5f96fb8d415099263226309aab3c616459&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 1 4k [PL]" group-title="regional",Eleven Sports 1 4k [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 1 HD [PL]" group-title="regional",Eleven Sports 1 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 2 HD [PL]" group-title="regional",Eleven Sports 2 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 3 HD [PL]" group-title="regional",Eleven Sports 3 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 4 HD [PL]" group-title="regional",Eleven Sports 4 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="EuroNews [RU]" group-title="regional",EuroNews [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=837edb9f5dab770965ddbd1b1f9f1ef55305d10d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport 1 HD [DE]" group-title="regional",Eurosport 1 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport 2 HD [DE]" group-title="regional",Eurosport 2 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport 2 HD [PL]" group-title="regional",Eurosport 2 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport [PL]" group-title="regional",Eurosport [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=314eb626864faf52e01624361bd6906b5406127f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport360 HD 1 [DE]" group-title="regional",Eurosport360 HD 1 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport360 HD 2 [DE]" group-title="regional",Eurosport360 HD 2 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=57f95543ac41656d473b1a27123fc413388a728c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport360 HD 3 [DE]" group-title="regional",Eurosport360 HD 3 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7adbca42657ace1fe228142d351d0896974bbe0c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport360 HD 4 [DE]" group-title="regional",Eurosport360 HD 4 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport360 HD 5 [DE]" group-title="regional",Eurosport360 HD 5 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=148921c4dda96df445e253d6f26c4d092bf85809&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport360 HD 6 [DE]" group-title="regional",Eurosport360 HD 6 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=005ac522315699bd93bbf743329eb2f3c347dc3f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport360 HD 7 [DE]" group-title="regional",Eurosport360 HD 7 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b18657f64507cc859cd7edef1aef90feb053e791&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport360 HD 8 [DE]" group-title="regional",Eurosport360 HD 8 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8f4f572005ca2557743474087aa622693ba9b5fe&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Extreme Sports [PL]" group-title="regional",Extreme Sports [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=73ff07648e367efebd94636047b07625f664a082&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FOX HD [PL]" group-title="regional",FOX HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ade7437d52002e864f851c4de016923dcd6d2548&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FightBox [PL]" group-title="regional",FightBox [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d9e5e213121f3ea7fbcb216b48c306cd935b017a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Fightklub HD [PL]" group-title="regional",Fightklub HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b73da828421018c98905ed05934b77ea35aa1b29&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FilmBox Action [PL]" group-title="regional",FilmBox Action [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5fee627f59a1fbf3a57945d05c2c985e2bf3d1ad&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FilmBox Extra [PL]" group-title="regional",FilmBox Extra [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b705d80b16ee6704e80a091262eda988d1ae6210&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FilmBox Family [PL]" group-title="regional",FilmBox Family [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b6ef631061f326f90fe587bebeadfab27e97a98e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FilmBox Premium [PL]" group-title="regional",FilmBox Premium [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f01c5b27feef8fba4875d279e04eb2c40520eb2a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Filmbox Arthouse [PL]" group-title="regional",Filmbox Arthouse [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1e6732ec143d2e07d5d0fb654fa03b7d045100a4&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Food Network [PL]" group-title="regional",Food Network [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d9478ccbf3a02a7b93777bc25fff389fcda93d7f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Fox Comedy [PL]" group-title="regional",Fox Comedy [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8fb7f8107213a9020f298c8d0068ea86d0713d01&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Golf Channel [PL]" group-title="regional",Golf Channel [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d4acffe8f08b7728d3b489ab5ca37398a5636689&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="H2 [PL]" group-title="regional",H2 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=301a5cc048dc683e4f4a54d8bc786452d9925264&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HBO 2 HD [PL]" group-title="regional",HBO 2 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a17f77bbe25cb90f1b7b138ae718b6ae8997000c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HBO 3 HD [PL]" group-title="regional",HBO 3 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e2de327f6e9ea10cd76b52ddd5e03a63c0e1241d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HBO HD [PL]" group-title="regional",HBO HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=bb497b248bb728dbe27f731f084e06462c05a04c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HGTV [DE]" group-title="regional",HGTV [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a9b9a780684a361339c14b43c58cb1c511dc4d9e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HGTV [PL]" group-title="regional",HGTV [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9b4590ba1f27532eba6d53383e89dace8e8d6ba3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HISTORY HD [DE]" group-title="regional",HISTORY HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1f187d3fe31f3203cc6b5e4f5b4e423bb8c96ccb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HISTORY [PL]" group-title="regional",HISTORY [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=84011e46b216b893a770662f8d2ab096f0e90941&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HR HD [DE]" group-title="regional",HR HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8385abc4f836cc502de197789426ba1d7eba089b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="HSE24 [DE]" group-title="regional",HSE24 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=82500d4980c5de415ac20bc3fccc74435108f312&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Heimatkanal [DE]" group-title="regional",Heimatkanal [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=062258a94106b737b3f938ac1c53e193d674b0c3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Insight UHD [RU]" group-title="regional",Insight UHD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="JUKEBOX [DE]" group-title="regional",JUKEBOX [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b4b6a6a7d42a995fd6d3a3ac576f5987016954f3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="JimJam [PL]" group-title="regional",JimJam [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=84182cef3cbf5683df3dbf5050fe405e8c45fecf&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="KABEL EINS CLASSICS [DE]" group-title="regional",KABEL EINS CLASSICS [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5cc17edcbf6ada7b83c3be3e146a7738a8f44b42&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="KABEL EINS DOKU [DE]" group-title="regional",KABEL EINS DOKU [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a6ec87fb4e5373035603be4ddebe1733df35d840&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="KIKA HD [DE]" group-title="regional",KIKA HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a9bcce53543a2574e3b3d2869e52d61b0dc1944b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="KINOWELT TV [DE]" group-title="regional",KINOWELT TV [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=80d1cd89eab70d595ef742db18752bb1dd44c80d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Kabel Eins HD [DE]" group-title="regional",Kabel Eins HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=289cefc556796bf721502f331804ea775b779153&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Kino Polska Muzyka [PL]" group-title="regional",Kino Polska Muzyka [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3466e6dcfa82634fa89ee298fa6d7d420420218d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Kino Polska [PL]" group-title="regional",Kino Polska [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=efc4c4da6ba777391a4c66f923c82afb557b4ccb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Kino TV [PL]" group-title="regional",Kino TV [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=11a2c753c81ff6b0aa656d70b80d082267ffd4a5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Kuchnia+ HD [PL]" group-title="regional",Kuchnia+ HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8d278076dffc428cfd78d95a4ed3e988886d3a44&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Love Nature 4K [RU]" group-title="regional",Love Nature 4K [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a54d3ec9d49487cb1e9102c74f341fec4cebd189&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="MDR HD [DE]" group-title="regional",MDR HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0e8dc460b1f03ff33ab4ad004ddc666f237ecbe3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="MTV 90s [PL]" group-title="regional",MTV 90s [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="MTV Live HD [PL]" group-title="regional",MTV Live HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d8dde4a3b7964a19f144c5ac4c516933831ce782&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="MTV Music Polska [PL]" group-title="regional",MTV Music Polska [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a287c95095dd80b0182d71e414669b314ba805d1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 1 HD [DE]" group-title="regional",Magenta Sport 1 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=501141c649a2b78c4965cbf3257224181cc55072&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 10 HD [DE]" group-title="regional",Magenta Sport 10 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 11 HD [DE]" group-title="regional",Magenta Sport 11 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 2 HD [DE]" group-title="regional",Magenta Sport 2 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 3 HD [DE]" group-title="regional",Magenta Sport 3 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 4 HD [DE]" group-title="regional",Magenta Sport 4 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1fb794b1503c5955b75ea0106ee6360b80d78849&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 5 HD [DE]" group-title="regional",Magenta Sport 5 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=428b92f3c71cd3cbf66ef6193808b39d16a52730&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 6 HD [DE]" group-title="regional",Magenta Sport 6 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 7 HD [DE]" group-title="regional",Magenta Sport 7 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ac839cda9709255c21a98af455731f037e77a9e4&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 8 HD [DE]" group-title="regional",Magenta Sport 8 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=11c5823d4196a90b509f03df1fe78e13cfbbb175&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Magenta Sport 9 HD [DE]" group-title="regional",Magenta Sport 9 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=86495fe134ff065d5217497babe6be33f81d37d1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="MiniMini HD [PL]" group-title="regional",MiniMini HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=129235c39ba091c684f6ad8cb17dc576b373aa9f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Motorvision TV [DE]" group-title="regional",Motorvision TV [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=acd7e3ae185a376e6596e60a414bebbf3321b37f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Motowizja [PL]" group-title="regional",Motowizja [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8ef4e74336a0114d6def70de9d15cc4817d2f350&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="N24 DOKU [DE]" group-title="regional",N24 DOKU [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=fe26522084777de964511c79dbf87c2d8383403c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="NDR HD [DE]" group-title="regional",NDR HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=bb98d9459ee9234482f3f445028965fd43656e7f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="NITRO [DE]" group-title="regional",NITRO [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=089f1b59317a99c1ce10259c4897714028752ae7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Nat Geo Wild HD [PL]" group-title="regional",Nat Geo Wild HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=67ad6e798f206193a5b8f456a622460d9c7d2e29&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Nat Geo Wild [DE]" group-title="regional",Nat Geo Wild [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=394354a04edd738876b8b2ecab15d4765d33b37f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Nat Geographic HD [DE]" group-title="regional",Nat Geographic HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=45f110711ddffc71167cb09c8c7992689694f5d6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="National Geographic HD [PL]" group-title="regional",National Geographic HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=08fc2ddc0b95776368901b22a506fa22a8ff9fe2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Nick Jr [PL]" group-title="regional",Nick Jr [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ed59ef5b2f7fab3d6970fa295cdd1be6e78973de&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Nick Jr. [DE]" group-title="regional",Nick Jr. [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f4a0f154bced3325981b2453bb2456ad24e9ed40&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="NickToons [DE]" group-title="regional",NickToons [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8930a64ed631e26e335fc85b546f04ac678f38bf&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Nickelodeon Polska [PL]" group-title="regional",Nickelodeon Polska [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0fd40ce6398cac3bb93b4d816fac56f522e83500&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Nicktoons [PL]" group-title="regional",Nicktoons [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=527226df82c94cefb086c52ac6bcc65aa1378856&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Novelas+ [PL]" group-title="regional",Novelas+ [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=33573870fa2b467bf688271d757308aace995afc&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ORF 1 HD [DE]" group-title="regional",ORF 1 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c9d6412050226de0968cea19a383b50dc1966363&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ORF 2 HD [DE]" group-title="regional",ORF 2 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f5d3ea421c4c067b5c90161a8ae4d93482fb9edd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ORF III [DE]" group-title="regional",ORF III [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=41ac7892b8fde95d5110d83d7324044145c7f86a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ORF SPORT+ HD [DE]" group-title="regional",ORF SPORT+ HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="One [DE]" group-title="regional",One [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=aefc08723a06f1be68a1588ba9b8d9e69b2352ca&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Paramount Channel HD [PL]" group-title="regional",Paramount Channel HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c9249bb68bf6219d56eb5a3f8c77ce580be60432&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Planete+ HD [PL]" group-title="regional",Planete+ HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=fb52df0ccbbfd4303fcf2da4112eedee27f6b21b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat 2 HD [PL]" group-title="regional",Polsat 2 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=66cb91c24b61280ba514c72e8ef2a1432b20d2b3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Cafe HD [PL]" group-title="regional",Polsat Cafe HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2f2d8e87194a2fbc9aabd651f42e71a73cb2ee28&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Doku [PL]" group-title="regional",Polsat Doku [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5e1ea07a7a918764a2e6b656c1674b65a59179d1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Film HD [PL]" group-title="regional",Polsat Film HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a26244a56ab7cfe5398d295a29f5ecb0f736c035&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat HD [PL]" group-title="regional",Polsat HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c1293ef063e72781be0d93c84d12ec1efbcc961d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Music [PL]" group-title="regional",Polsat Music [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f67af123e7b9dd22da6c4de215f40de4d03cdbb2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat News 2 [PL]" group-title="regional",Polsat News 2 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ae630952304c8a9d2ecb9b854d0f4df233a13bbd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat News HD [PL]" group-title="regional",Polsat News HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c6214ad7d6d38c44916fb1a6fd5a3b6758a720b4&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Play HD [PL]" group-title="regional",Polsat Play HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e4d2c55abda527189c123a2d0eb5c303c2aeca41&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat RODZINA [PL]" group-title="regional",Polsat RODZINA [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=75c5da2cca394543d98c96c62f2d7ddf427dff06&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Sport Extra [PL]" group-title="regional",Polsat Sport Extra [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Sport Fight [PL]" group-title="regional",Polsat Sport Fight [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9e7fe279f421b734a8af9e68320955fd16f80b4b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Sport Premium 1 [PL]" group-title="regional",Polsat Sport Premium 1 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4ce55db7e578ff52a6e526cf610e477464b8a99f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Sport Premium 2 [PL]" group-title="regional",Polsat Sport Premium 2 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3147c586346aee00c005d1caa55204d38678c95f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Polsat Sport [PL]" group-title="regional",Polsat Sport [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ProSieben HD [DE]" group-title="regional",ProSieben HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0f40f5793250117fbc0dc7a824cdcd531a8de41c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ProSieben Maxx HD [DE]" group-title="regional",ProSieben Maxx HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=40d73c46051360ce2ba7b329725440dc74d485f2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL 2 HD [DE]" group-title="regional",RTL 2 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ece97e99e4272351c3656922509b138c760858de&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL Crime [DE]" group-title="regional",RTL Crime [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ce203f49c4daacdf27df5825beeea4613c0404fa&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL HD [DE]" group-title="regional",RTL HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=bc9610c2cb92a71a5c17f357d66719fa1c054ced&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL Living [DE]" group-title="regional",RTL Living [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2b5eeabe7f7495f83608b15686cc83765e2dcc38&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL Passion [DE]" group-title="regional",RTL Passion [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=34c1fa7c1f94f22c9afc0bb79e563bbb4f87a450&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL UP [DE]" group-title="regional",RTL UP [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e22dbfca8357e8026d2a273c610f14c2645e955a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 1 [DE]" group-title="regional",RTL+ SPORT EVENT 1 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 10 [DE]" group-title="regional",RTL+ SPORT EVENT 10 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e6cce13cb4005ec3c7d77db47865385927a7ab7e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 2 [DE]" group-title="regional",RTL+ SPORT EVENT 2 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 3 [DE]" group-title="regional",RTL+ SPORT EVENT 3 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 4 [DE]" group-title="regional",RTL+ SPORT EVENT 4 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 5 [DE]" group-title="regional",RTL+ SPORT EVENT 5 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 6 [DE]" group-title="regional",RTL+ SPORT EVENT 6 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 7 [DE]" group-title="regional",RTL+ SPORT EVENT 7 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=eec3f8107e008cec3679f76e078deeefd1348a3e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 8 [DE]" group-title="regional",RTL+ SPORT EVENT 8 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ce4ae0c3491acd4272340029139ba25642e2516b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 9 [DE]" group-title="regional",RTL+ SPORT EVENT 9 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a435581e6cba56972e48cf4519d1b2af735eec2f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Romance TV [DE]" group-title="regional",Romance TV [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ef3fd5fc5d6d15b2875fc5c3204710dd848ffcc6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Russian Extreme Ultra [RU]" group-title="regional",Russian Extreme Ultra [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="SAT1 GOLD [DE]" group-title="regional",SAT1 GOLD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=80db6eb9c3c0da5ddf03e2912e502a1ff8927f8b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="SIXX HD [DE]" group-title="regional",SIXX HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=80ccf9375ef9b8a71d77d21e3bfca7a794eca1fb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="SPORT1 [DE]" group-title="regional",SPORT1 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1950633a3723cb52b17c764125decc04445bd5ff&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="SPORT1+ [DE]" group-title="regional",SPORT1+ [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="SWR Fernsehen RP HD [DE]" group-title="regional",SWR Fernsehen RP HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ba1aeed7c013ad626d6791a1fff928a4223cb266&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sat.1 HD [DE]" group-title="regional",Sat.1 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=58616a92d5b871848dd6e66321da89062140c024&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sat1 Emotions [DE]" group-title="regional",Sat1 Emotions [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=93fa4963d0f2bdfec1f7a7e5be6333f0d2716b97&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="SciFi [PL]" group-title="regional",SciFi [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=157443fee859b0ff3ff14eaf9e1868a928a1e329&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Servus TV [DE]" group-title="regional",Servus TV [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky 1 [DE]" group-title="regional",Sky 1 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=88c50cf8bf78a18d89c9efb3805d5a12e04c31b9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Atlantic HD [DE]" group-title="regional",Sky Atlantic HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=02458900124e0b55dabfa346f4397e0296b4facd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Bundesliga 1 HD [DE]" group-title="regional",Sky Bundesliga 1 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Cinema Action HD [DE]" group-title="regional",Sky Cinema Action HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8f3b3a4b42b8ad785eab4c426d0ce7bb891f4398&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Cinema Classics [DE]" group-title="regional",Sky Cinema Classics [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=38ae2c654cc4727c33e6fbab63850edef4f7e636&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Cinema Family [DE]" group-title="regional",Sky Cinema Family [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e0fa0d9e3345ba8e88758b53bb6d6cdc157e073d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Cinema Premieren HD [DE]" group-title="regional",Sky Cinema Premieren HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3306fb30138814e54a46cd8dc1ef1c864e8b3b53&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Cinema Special HD [DE]" group-title="regional",Sky Cinema Special HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=dd70fe2057d698d528f627c578733814b74557c5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Crime HD [DE]" group-title="regional",Sky Crime HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4f9e3ee8fdba697aefe9be9e2238f229ba9f4db3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Documentaries HD [DE]" group-title="regional",Sky Documentaries HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b7f02e90a06047dff0a8470db1327a9c43f715aa&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Krimi HD [DE]" group-title="regional",Sky Krimi HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a1724b063c0c7dcf32803dbd3a545dc3ee0b9289&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Nature HD [DE]" group-title="regional",Sky Nature HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4753b8da0e2bf2cc7983d738358d26f001e23297&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Replay [DE]" group-title="regional",Sky Replay [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4ae012c5af256b2868dea7f921a1a9319e5e465c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Sport 1 HD [DE]" group-title="regional",Sky Sport 1 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7c12288663069a12aff58f3f62e8ea47ab78c65d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Sport 2 HD [DE]" group-title="regional",Sky Sport 2 HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=fc9f1f580da8f641a5991d44b399982a3a069f69&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Sport F1 [DE]" group-title="regional",Sky Sport F1 [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Sport News [DE]" group-title="regional",Sky Sport News [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Spiegel Geschichte HD [DE]" group-title="regional",Spiegel Geschichte HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=74612cfcc8fedbb06381deaf79edbcee971cadd3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sport Digital [DE]" group-title="regional",Sport Digital [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sport Klub [PL]" group-title="regional",Sport Klub [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sundance Channel HD [PL]" group-title="regional",Sundance Channel HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9cda9d87c7a5cc9370080d17ab1d5711745b6202&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Super Polsat HD [PL]" group-title="regional",Super Polsat HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=08c50b100359024b6e334b82452747ee12feb7b2&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Super RTL HD [DE]" group-title="regional",Super RTL HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f4529e3b6c56d925c52172202170bd6558674606&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Syfy HD [DE]" group-title="regional",Syfy HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=46d79efe06df3307fec2ed5e760128619119eb11&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TLC [DE]" group-title="regional",TLC [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c6eaef7628f5837e2b4e34d0d0e3a50510967c90&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TLC [PL]" group-title="regional",TLC [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=853648b45310628232e72b93aa9def60d18e0e1a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TNT [PL]" group-title="regional",TNT [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d0842346aad155a78f94dffe7d4ca313c33882a4&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TOGGO PLUS [DE]" group-title="regional",TOGGO PLUS [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=96efcc0185c54003ef34c915f6896b92fee9f07a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TTV [PL]" group-title="regional",TTV [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1680930cfa77a0b262ab116702278c05c52a5d27&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV 6 [PL]" group-title="regional",TV 6 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=2cce15d162684894f043da9bb6631ee9081f6af0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV Puls 2 [PL]" group-title="regional",TV Puls 2 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a28e1f7e87ba7ca186f4ecaeab959c698fe1d759&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV Puls [PL]" group-title="regional",TV Puls [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=350406cf5abc907f820e55f7dd576317609a3a87&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TV4 HD [PL]" group-title="regional",TV4 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=35ff81559d433f7ba8dbcee7b8ddb61082e88b83&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVN 24 BiS [PL]" group-title="regional",TVN 24 BiS [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=02aa440de4e830af786d76f90c4695015130c9ab&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVN 24 [PL]" group-title="regional",TVN 24 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b40887a75fbb511f95a43c33b24e058b3050143d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVN 7 [PL]" group-title="regional",TVN 7 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6e7d38341a3c8b7bed8ef0792cbae4bedd77834d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVN Fabula [PL]" group-title="regional",TVN Fabula [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=584961f4e6fd89e1a07253a1848c867203215857&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVN Style [PL]" group-title="regional",TVN Style [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f0736374096137942d6befa8577390d6c40a4d0d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVN Turbo [PL]" group-title="regional",TVN Turbo [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7231e7cafb290ee9190178678a4cda75603af9cf&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVN [PL]" group-title="regional",TVN [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=87ea602f75b96aebc06bdc96b135e21756706702&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP 1 HD [PL]" group-title="regional",TVP 1 HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d31d828052a432246e59e7d0d640bd55a64f1859&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP 2 [PL]" group-title="regional",TVP 2 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=dad9d9e595bcfd251469ed58d380e53bfb46bb18&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP ABC [PL]" group-title="regional",TVP ABC [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=fa070b8e13fd3a8a863b2e18dcc85ede6a6c3b0a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP HD [PL]" group-title="regional",TVP HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0273a9a25ecde79d7bda2dafb897c7ca86afcaf0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP Historia [PL]" group-title="regional",TVP Historia [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a392b5865031ec8bbdd6120b3418879b0b035f08&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP Rozrywka [PL]" group-title="regional",TVP Rozrywka [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=89a38a74e88c5f468e05812253d64ac197d643bb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP Seriale [PL]" group-title="regional",TVP Seriale [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=402b7a3f0e4900cc74cf2f3c7bd4c2cba581cbd0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP Sport HD [PL]" group-title="regional",TVP Sport HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP-Info [PL]" group-title="regional",TVP-Info [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=54c5166475563784a367313ffd231402eeedadcd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP-Kultura [PL]" group-title="regional",TVP-Kultura [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d585b59b042293dd37494daf7cee7eb647ad0bab&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="TVP3 [PL]" group-title="regional",TVP3 [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=38efc26a90d79b2d8c70024ab13631829292764c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Teletoon+ HD [PL]" group-title="regional",Teletoon+ HD [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7a8cf88f62f612d7741d5bae2d2be94573f1ca1b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Travel Channel [PL]" group-title="regional",Travel Channel [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=70a711891dcdf1aaf7a39788a55bc5f82505eea8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Ultra HD Cinema [RU]" group-title="regional",Ultra HD Cinema [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Universal TV HD [DE]" group-title="regional",Universal TV HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7f8a688bbe9367c1ecbe733116a6aefb1bd22bb6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="VIVA/Comedy [DE]" group-title="regional",VIVA/Comedy [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0c4264b1fdd37437a16ec96f0fa6579e8dccf369&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="VOX HD [DE]" group-title="regional",VOX HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=85abb9490b27b56d5ceb3c554a47ccb3af60ceb6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="VOXup [DE]" group-title="regional",VOXup [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=edb7eea337e2b6d6aee8838a3936a7451dfaccfd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat Explorer [PL]" group-title="regional",Viasat Explorer [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=de32b979b7d44350a0444f20c70352b4ece06ed4&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat History [PL]" group-title="regional",Viasat History [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b7a2ebb4e71055893ebf7f08fcb8ec797564ae52&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Viasat Nature [PL]" group-title="regional",Viasat Nature [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f7b79c29364ac6d235554eb57967e732af05be64&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="WDR HD Aachen [DE]" group-title="regional",WDR HD Aachen [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=eba141d913e4a32251b490273c9cfc48d76e1802&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="WELT [DE]" group-title="regional",WELT [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e16d2e6743d96f34350711f10780080a002ed63e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="WP [PL]" group-title="regional",WP [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=443c632ed7952434279c77fead90b5124ea1610a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Waldwerk [DE]" group-title="regional",Waldwerk [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0f9a44fbf18f7f50006d8348d6e2f0194f104a51&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Warner TV Comedy [DE]" group-title="regional",Warner TV Comedy [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=bc7f0ab4e6dc638ac1e91e9004ad8957462d3b46&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Warner TV Film [DE]" group-title="regional",Warner TV Film [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9bad87acde411667363c9a5708077a76c578a6de&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Warner TV Serie [DE]" group-title="regional",Warner TV Serie [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6f8beb8b4f5e4b9166b6208a6b0a2faa12085555&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ZDF HD [DE]" group-title="regional",ZDF HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c71fb593810ce837545e8d8b384e50a42c35a316&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ZDF INFO [DE]" group-title="regional",ZDF INFO [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=fcfb2b67793235ff4ff265f541a34a237a01d299&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ZDF NEO [DE]" group-title="regional",ZDF NEO [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b39c136256356dd88f812114587f0ed3b7846e7f&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="arte HD [DE]" group-title="regional",arte HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=101c4c7e056242758b112382c4e314472795ae37&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="beIN SPORTS HABER [TR]" group-title="regional",beIN SPORTS HABER [TR]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="beIN SPORTS HD 1 [TR]" group-title="regional",beIN SPORTS HD 1 [TR]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=118416583faa3fb4f03800173429b6b844b43a52&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="beIN SPORTS HD 2 [TR]" group-title="regional",beIN SPORTS HD 2 [TR]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=48bee10b883f17c7186d60f1e8022dca0ba41a05&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="beIN SPORTS HD 3 [TR]" group-title="regional",beIN SPORTS HD 3 [TR]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ed81c333815247536edfcdb2755147e8c4144d62&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="beIN SPORTS HD 4 [TR]" group-title="regional",beIN SPORTS HD 4 [TR]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="n-tv HD [DE]" group-title="regional",n-tv HD [DE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b69ee17ee716edaabd5dd32934c71be4d23736a8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="nSport+ [PL]" group-title="regional",nSport+ [PL]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Дождь [RU]" group-title="regional",Дождь [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Домашний [RU]" group-title="regional",Домашний [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="КИНО UHD [RU]" group-title="regional",КИНО UHD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=038b448c810cad19a2a9e615d94696a23141e379&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Кто есть кто [RU]" group-title="regional",Кто есть кто [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=16201468d380dafc1921287db09289dc83d688c0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Кухня ТВ [RU]" group-title="regional",Кухня ТВ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Наша сибирь 4K [RU]" group-title="regional",Наша сибирь 4K [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Пятница [RU]" group-title="regional",Пятница [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="СТС Love [RU]" group-title="regional",СТС Love [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d586953ebbdb28493eecd8d8e8527557a231201d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="СТС [RU]" group-title="regional",СТС [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5e06a45d6939341fb7427189245380086c1d63c7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Суббота! [RU]" group-title="regional",Суббота! [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=14002498165f0a7aaaea284ebb9965f078eb0f69&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ТВ 3 [RU]" group-title="regional",ТВ 3 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ТНТ (+7) [RU]" group-title="regional",ТНТ (+7) [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e8c4dc3309c32e58d0235919620180e9eea9d291&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ТНТ HD [RU]" group-title="regional",ТНТ HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=caa3dad746d80a887e8a259f1c7c2eead749094b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ТНТ4 [RU]" group-title="regional",ТНТ4 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=da27959a3e9ee97647df5aadd056021099e2d845&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="AMAZON PRIME VIDEO 6 HD [BE]" group-title="sport",AMAZON PRIME VIDEO 6 HD [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=26e31f091414fb036917a255b4adaf12b2f3da5b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BT Sport / ESPN [UK]" group-title="sport",BT Sport / ESPN [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=fc5089d8e1519872fdf951779ccbca913acc9bce&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BT Sport 1 [UK]" group-title="sport",BT Sport 1 [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BT Sport 2 [UK]" group-title="sport",BT Sport 2 [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BT Sport 3 [UK]" group-title="sport",BT Sport 3 [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5f966c123759de46dff29c379266b7a403452033&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BeIN Sports 1 [BE]" group-title="sport",BeIN Sports 1 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BeIN Sports 2 [BE]" group-title="sport",BeIN Sports 2 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=edb507e38394d614c9ff55805c9d354ae13210bc&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="BeIN Sports 3 [BE]" group-title="sport",BeIN Sports 3 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="DAZN1" group-title="sport",DAZN1
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="DAZN2" group-title="sport",DAZN2
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="DAZN3" group-title="sport",DAZN3
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="DAZN4" group-title="sport",DAZN4
-http://188.137.252.17:6878/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ESPN 2 [BE]" group-title="sport",ESPN 2 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ESPN 4 [BE]" group-title="sport",ESPN 4 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ESPN HD [US]" group-title="sport",ESPN HD [US]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ESPN [BE]" group-title="sport",ESPN [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="ESPN2 [US]" group-title="sport",ESPN2 [US]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8394&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 1 [BE]" group-title="sport",Eleven Sports 1 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 2 [BE]" group-title="sport",Eleven Sports 2 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 3 [BE]" group-title="sport",Eleven Sports 3 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 4 [BE]" group-title="sport",Eleven Sports 4 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=0f32c0131a2d9444996410801f4e18b04384db98&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 5 [BE]" group-title="sport",Eleven Sports 5 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eleven Sports 6 [BE]" group-title="sport",Eleven Sports 6 [BE]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport 1 HD [RU]" group-title="sport",Eurosport 1 HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Eurosport 2 HD [RU]" group-title="sport",Eurosport 2 HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FOX Sports 1 HD [US]" group-title="sport",FOX Sports 1 HD [US]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c9c062941fbecb16ce29437f346ea7177d720898&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FOX Sports 2 HD [US]" group-title="sport",FOX Sports 2 HD [US]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=cba8d369eac629b577750edb90370cd1c5fb03b7&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Fast&Funbox HD [RU]" group-title="sport",Fast&Funbox HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=c811cde690d467a2e45d3c263c4f0960a3933d18&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="FightBox HD [RU]" group-title="sport",FightBox HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=49b734a5a3365674480089264be00ae28fabb640&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="M-1 Global [RU]" group-title="sport",M-1 Global [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a7e4499c869037073c97deb47a50d1e7090b1c04&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="M. Deportes HD" group-title="sport",M. Deportes HD
-http://188.137.252.17:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="M. Golf HD" group-title="sport",M. Golf HD
-http://188.137.252.17:6878/ace/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="M. LaLiga" group-title="sport",M. LaLiga
-http://188.137.252.17:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="M. Liga de Campeones" group-title="sport",M. Liga de Campeones
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="NBA TV [US]" group-title="sport",NBA TV [US]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Premier Sports 1 [UK]" group-title="sport",Premier Sports 1 [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Premier Sports 2 [UK]" group-title="sport",Premier Sports 2 [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Setanta Live 1 [RU]" group-title="sport",Setanta Live 1 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Setanta Live 2 [RU]" group-title="sport",Setanta Live 2 [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Sports Arena [UK]" group-title="sport",Sky Sports Arena [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Sports Cricket [UK]" group-title="sport",Sky Sports Cricket [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Sports Football [UK]" group-title="sport",Sky Sports Football [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Sky Sports Main Event [UK]" group-title="sport",Sky Sports Main Event [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="SkySP PL [UK]" group-title="sport",SkySP PL [UK]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="SuperTennis HD" group-title="sport",SuperTennis HD
-http://188.137.252.17:6878/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Tennis Channel HD" group-title="sport",Tennis Channel HD
-http://188.137.252.17:6878/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="UFC HD [RU]" group-title="sport",UFC HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="VIASAT SPORT HD [RU]" group-title="sport",VIASAT SPORT HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=dec96c86080c26ddf667ea90adfb513a40007a0b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Ziggo Sport" group-title="sport",Ziggo Sport
-http://188.137.252.17:6878/ace/manifest.m3u8?id=fcd7621df513f600652b4813d5d8fd1daed60058&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Ziggo Sport 2" group-title="sport",Ziggo Sport 2
-http://188.137.252.17:6878/ace/manifest.m3u8?id=868a6187d6aeec65ded84bd777814c9f7b7a9027&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Ziggo Sport 6" group-title="sport",Ziggo Sport 6
-http://188.137.252.17:6878/ace/manifest.m3u8?id=9231f38e71a85ad24b4c11a5e360992e30c916ed&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Бокс ТВ [RU]" group-title="sport",Бокс ТВ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="КХЛ HD [RU]" group-title="sport",КХЛ HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="КХЛ ТВ [RU]" group-title="sport",КХЛ ТВ [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Конный мир HD [RU]" group-title="sport",Конный мир HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=96951e5de62a3e7095a1ed8a191817c8935e7017&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="МАТЧ! Планета [RU]" group-title="sport",МАТЧ! Планета [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=106c8656fca0ca91a696110467788d202d7111af&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Матч! Арена HD [RU]" group-title="sport",Матч! Арена HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Матч! Боец [RU]" group-title="sport",Матч! Боец [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Матч! Игра HD [RU]" group-title="sport",Матч! Игра HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Матч! Премьер HD [RU]" group-title="sport",Матч! Премьер HD [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
-#EXTINF:-1 tvg-name="Матч! Страна [RU]" group-title="sport",Матч! Страна [RU]
-http://188.137.252.17:6878/ace/manifest.m3u8?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&hlc=1&transcode_audio=1&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
+
 #EXTINF:-1 tvg-name="Матч! ТВ HD [RU]" group-title="sport",Матч! ТВ HD [RU]
 http://188.208.197.173:2101/match/index.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 1 ( original ) [RU]" group-title="sport",Матч! Футбол 1 ( original ) [RU]
