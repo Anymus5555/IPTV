@@ -499,6 +499,8 @@ http://188.208.197.173:2580/channel/n6bd281f/index.m3u8?q=1763550651725
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-487" tvg-logo="https://dl.dropboxusercontent.com/s/500w0rsb8ncw3kz/armenia.png",Armenia TV
 http://188.208.197.173:2580/channel/n31095db2/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения",Armenia P
+http://188.208.197.173:2580/channel/n5cecb522/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54829" tvg-logo="https://dl.dropboxusercontent.com/s/pj9csbtje3n08vs/newtv.png",New Armenia
 http://188.208.197.173:2580/channel/n3998b64c/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения",US Armenia
