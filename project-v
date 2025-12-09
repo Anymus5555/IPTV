@@ -259,7 +259,7 @@ http://50.7.28.226/8310/index.m3u8
 http://50.7.28.226/8146/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ" ,Планета РТР
 http://50.7.28.226/8121/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,Победа
+#EXTINF:-1 group-title="РОССИЯ" ,Победа
 http://50.7.28.226/8391/index.m3u8
 
 #EXTINF:-1 group-title="РОССИЯ" ,Пятница
@@ -419,14 +419,21 @@ http://188.208.197.173/viasat-nature/index.m3u8
 http://188.208.197.173/davinchi/index.m3u8
 
 
-
+EXTINF:-1 group-title="Спорт",KHL
+http://185.223.125.136:8005/kxl?token=test
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://185.223.125.136:8005/eurosport?token=test
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+http://185.223.125.136:8005/eurosport2?token=test
+#EXTINF:-1 group-title="Спорт",Футбол
+http://185.223.125.136:8005/football?token=test
 #EXTINF:-1 tvg-name="Матч! ТВ HD [RU]" group-title="sport",Матч! ТВ HD [RU]
 http://188.208.197.173:2101/match/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 1 ( original ) [RU]" group-title="sport",Матч! Футбол 1 ( original ) [RU]
+#EXTINF:-1 tvg-name="Матч! Футбол 1 ( original ) [RU]" group-title="Спорт",Матч! Футбол 1 ( original ) [RU]
 http://188.208.197.173:2101/matchf1/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2 ( original ) [RU]" group-title="sport",Матч! Футбол 2 ( original ) [RU]
+#EXTINF:-1 tvg-name="Матч! Футбол 2 ( original ) [RU]" group-title="Спорт",Матч! Футбол 2 ( original ) [RU]
 http://188.208.197.173:2101/matchf2/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 3 ( original ) [RU]" group-title="sport",Матч! Футбол 3 ( original ) [RU]
+#EXTINF:-1 tvg-name="Матч! Футбол 3 ( original ) [RU]" group-title="Спорт",Матч! Футбол 3 ( original ) [RU]
 http://185.57.68.33/110/index.m3u8
 
 
