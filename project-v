@@ -396,6 +396,8 @@ http://188.208.197.173/viju/index.m3u8
 http://188.208.197.173/viju-action/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 romantica
 http://188.208.197.173/vijuromantica/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 Русское
+http://217.154.10.99:2020/channel/13d5ff15/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 group-title="Кино",Amedia 1
 http://188.208.197.173:2580/channel/n73d376e8/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Кино",Amedia 2
@@ -437,6 +439,10 @@ http://188.208.197.173:2101/matchf2/index.m3u8
 http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 group-title="Спорт",Окко Спорт
 http://188.208.197.173:2580/channel/n4116a1bd/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Спорт",Окко Футбол
+http://217.154.10.99:2020/channel/9a1c6e1/index.m3u8?q=618051a4e8fb85be64d971b12222208c
+#EXTINF:-1 group-title="Спорт",Окко Чемпионат
+http://217.154.10.99:2020/channel/1980173a/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 
 
 
