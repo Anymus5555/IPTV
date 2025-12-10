@@ -39,6 +39,18 @@ http://31.131.141.195:8000/play/2070/index.m3u8
 http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 #EXTINF:-1 group-title="РОССИЯ",Пятница
 http://45.145.32.13:20440/piatnica/index.m3u8?token=test
+#EXTINF:-1 group-title="Лига Чемпионов",1
+http://188.208.197.173:2580/channel/34f0819a/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Лига Чемпионов",2
+http://188.208.197.173:2580/channel/77216760/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Лига Чемпионов",3
+http://188.208.197.173:2580/channel/2237bdd1/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Лига Чемпионов",4
+http://188.208.197.173:2580/channel/2237bdd2/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Лига Чемпионов",5
+http://188.208.197.173:2580/channel/2237bdd3/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Лига Чемпионов",6
+http://188.208.197.173:2580/channel/2237bdd4/index.m3u8?q=1764241421478
 
 #EXTINF:-1 group-title="познавательные",Travel+Adventure
 http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
