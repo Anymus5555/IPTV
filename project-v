@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="РОССИЯ" , Первый HD
-https://edge02-alm.beetv.kz/bpk-token/3an@0o5aw3m52dywtmy3tmpce4bm1zw1hqnh0qrfwaca/bpk-tv/000001227/tve/index.m3u8?bkm-query
+http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ" , ТНТ HD
 http://50.7.28.226/8311/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ" , НТВ HD
