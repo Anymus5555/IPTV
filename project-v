@@ -15,7 +15,7 @@ http://50.7.28.226/8058/index.m3u8
 http://50.7.28.226/8152/index.m3u8
 
 #EXTINF:-1 group-title="РОССИЯ",РОССИЯ 24
-http://31.131.141.195:8000/play/1070/index.m3u8
+https://edge03-alm.beetv.kz/bpk-token/3an@orgk12ry1inth0qqd05k1nuwzdlur0gpozvp1bda/bpk-tv/000000198/tve/index.m3u8?bkm-query
 #EXTINF:-1 group-title="Познавательные" , Travel+Adventure
 http://50.7.28.226/8170/index.m3u8
 #EXTINF:-1 group-title="Познавательные" , Travel Channel HD
