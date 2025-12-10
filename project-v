@@ -35,6 +35,8 @@ http://31.131.141.195:8000/play/a003/index.m3u8
 http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Звезда
 http://31.131.141.195:8000/play/2070/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Звезда Плюс
+http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 #EXTINF:-1 group-title="РОССИЯ",Пятница
 http://45.145.32.13:20440/piatnica/index.m3u8?token=test
 
@@ -122,6 +124,178 @@ http://188.208.197.173/viasat-nature/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Da Vinci
 http://188.208.197.173/davinchi/index.m3u8
 
+#EXTINF:-1 group-title="Кино",BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:-1 group-title="Кино",BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4k Концерт
+http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4k Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Gamefilm
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1 group-title="Кино",Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
+#EXTINF:-1 group-title="Кино",НСТ
+http://hls127.freeott.top:8080/HCTV/mono.m3u8
+#EXTINF:-1 group-title="Кино",Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://178.212.71.253:8000/play/99/index.m3u8
+#EXTINF:-1 group-title="Кино", Дом кино премиум
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+
+#EXTINF:-1 group-title="Кино",НСТ
+http://178.212.71.253:8000/play/100/index.m3u8
+#EXTINF:-1 group-title="Кино", CTC love
+http://178.212.71.253:8000/play/104/index.m3u8
+
+#EXTINF:-1 group-title="РОССИЯ",Соловьев Live
+http://178.212.71.253:8000/play/111/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Бестселер
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:-1 group-title="Кино",Мужское Кино
+http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья
+http://178.212.71.253:8000/play/127/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание
+http://178.212.71.253:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс
+http://178.212.71.253:8000/play/70/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
+http://178.212.71.253:8000/play/123/index.m3u8
+#EXTINF:-1 group-title="Кино",Наше Новое Кино
+http://178.212.71.253:8000/play/128/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
+http://178.212.71.253:8000/play/125/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинокомедия
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1 group-title="Кино",Родное Кино
+http://178.212.71.253:8000/play/136/index.m3u8
+#EXTINF:-1 group-title="Кино",Ностальгия
+http://178.212.71.253:8000/play/131/index.m3u8
+#EXTINF:-1 group-title="Кино",Кто Есть Кто
+http://178.212.71.253:8000/play/132/index.m3u8
+#EXTINF:-1 group-title="Кино",Киноужас
+http://178.212.71.253:8000/play/133/index.m3u8
+
+#EXTINF:-1 group-title="Кино", BCU Kinorating
+http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
+#EXTINF:-1 group-title="Кино", BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
+#EXTINF:-1 group-title="Кино",MM Скорость HD
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Боевик
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Драмы
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K КиноФраншизы
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Приключения
+http://hls127.freeott.top:8080/Clarity4K_Priklucheniya/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Семейный
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Р сериалы
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4k Deep House
+http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Walt Disney
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K World Music 
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Звериный мир
+http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Мультимир
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Путешествие
+http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Action HD
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Comedy HD
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Drama HD
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Fiction HD
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Fresh HD
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Jackie Chan HD
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Mix HD
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Anime HD
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Cartoon HD
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Fresh UA HD
+http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="Кино",КИНОСЕРИЯ
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="Кино",КИНОПОКАЗ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="Кино",Кухня ТВ
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 group-title="Кино",Хит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="Кино",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="Кино",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="Кино",НСТ
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 group-title="Кино",Про Любовь HD
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 2
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="Кино", Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="Кино",VIP Megahit
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="Кино",Индия
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="Кино",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+
+
+
+
+
 
 EXTINF:-1 group-title="Спорт",KHL
 http://185.223.125.136:8005/kxl?token=test
@@ -132,9 +306,34 @@ http://185.223.125.136:8005/eurosport2?token=test
 #EXTINF:-1 group-title="Спорт",Футбол
 http://185.223.125.136:8005/football?token=test
 #EXTINF:-1 tvg-name="Матч! ТВ HD [RU]" group-title="Спорт",Матч! ТВ HD [RU]
-http://188.208.197.173:2101/match/index.m3u8
+http://188.208.197.173:2101/match/index.m3u8 
 
-#EXTINF:-1 tvg-name="Матч! Футбол 3 ( original ) [RU]" group-title="Спорт",Матч! Футбол 3 ( original ) [RU]
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт",Матч! Боец
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+http://45.145.32.13:20440/match_igra/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Спорт",Мир баскетбола
+http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт",Extreme sports
+http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
+
+
+#EXTINF:-1  group-title="Спорт",Матч! Футбол 3 
 http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 group-title="Спорт",Окко Спорт
 http://188.208.197.173:2580/channel/n4116a1bd/index.m3u8?q=1764241421478
