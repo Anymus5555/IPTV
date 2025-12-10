@@ -587,7 +587,7 @@ http://188.208.197.173:2580/channel/7421d6d8/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения",Song TV AM 
 http://188.208.197.173:2580/channel/6c9e014/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения",Լայմ Gold
-http://188.208.197.173:2580/channel/77bd7aa4/index.m3u8?q=1764241421478
+http://188.208.197.173:2101/golda/index.m3u8
 #EXTINF:-1 group-title="Армения",Fresh TV
 http://188.208.197.173:2580/channel/4c91bd17/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения",Ֆիթնես ՀԸ
