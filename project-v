@@ -1,393 +1,98 @@
 #EXTM3U
-#EXTINF:-1 group-title="РОССИЯ" , Первый HD
+#EXTINF:-1 group-title="РОССИЯ" , Первый 
 http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , ТНТ HD
-http://50.7.28.226/8311/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , НТВ HD
-http://50.7.28.226/8156/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , НТВ-Мир
-http://50.7.28.226/8011/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , НТВ
-http://50.7.28.226/8298/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , ТНТ4
-http://50.7.28.226/8058/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , Россия 1 HD
-http://50.7.28.226/8152/index.m3u8
-
+#EXTINF:-1 group-title="РОССИЯ",Рен ТВ
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Россия 1
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",ТНТ
+http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Россия К
+http://31.131.141.195:8000/play/1060/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",РОССИЯ 24
-https://edge03-alm.beetv.kz/bpk-token/3an@orgk12ry1inth0qqd05k1nuwzdlur0gpozvp1bda/bpk-tv/000000198/tve/index.m3u8?bkm-query
-#EXTINF:-1 group-title="Познавательные" , Travel+Adventure
-http://50.7.28.226/8170/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Travel Channel HD
-http://50.7.28.226/8315/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Viasat History
-https://edge01-alm.beetv.kz/bpk-token/3an@bm0hdqeti5macm4rjwjubupgajat4zaeb21ddnca/bpk-tv/000001000/tve/index.m3u8?bkm-query
-#EXTINF:-1 group-title="Познавательные" , История 
-http://50.7.28.226/8082/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Discovery HD
-https://edge03-alm.beetv.kz/bpk-token/3an@mycieroekareky1uvfjpjfqicvdwacjumqrnemaa/bpk-tv/000001496/tve/index.m3u8?bkm-query
-#EXTINF:-1 group-title="Познавательные" , History HD
-https://edge01-alm.beetv.kz/bpk-token/3an@bm0hdqeti5macm4rjwjubupgajat4zaeb21ddnca/bpk-tv/000001000/tve/index.m3u8?bkm-query
-#EXTINF:-1 group-title="Познавательные" , Точка РФ
-http://50.7.28.226/8175/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Galaxy
-http://50.7.28.226/8337/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Глазами туриста
-https://edge05-alm.beetv.kz/bpk-token/3an@zk5jtmgk2hnszekue4hfm4tgzmw0p0etzkqc1mca/bpk-tv/000001414/tve/index.m3u8?bkm-query#EXTINF:-1 group-title="Познавательные" , National Geographic
-http://50.7.28.226/8080/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Top Secret
-http://50.7.28.226/8073/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Travelxp
-http://50.7.28.226/8680/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Дикая рыбалка HD
-http://50.7.28.226/8316/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Охота и рыбалка
-http://50.7.28.226/8065/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Оружие
-http://50.7.28.226/8206/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Наука 2.0
-http://50.7.28.226/8104/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Наша Сибирь HD
-http://50.7.28.226/8677/index.m3u8
-#EXTINF:-1 group-title="Познавательные" , Первый космический HD
+http://31.131.141.195:8000/play/1070/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Пятый канал
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",ОТР
+http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",ТВЦ
+http://31.131.141.195:8000/play/1100/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Спас
+http://31.131.141.195:8000/play/2020/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",СТС
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Пятница
+http://31.131.141.195:8000/play/2060/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Домашний
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",ТВ3
+http://31.131.141.195:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Мир
+http://31.131.141.195:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Оплот 2
+http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Звезда
+http://31.131.141.195:8000/play/2070/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ",Пятница
+http://45.145.32.13:20440/piatnica/index.m3u8?token=test
 
-#EXTINF:-1 group-title="Познавательные" , RTG HD
-http://50.7.28.226/8151/index.m3u8
-#EXTINF:-1 group-title="Кино" , СТС Love 
-http://50.7.28.226/8174/index.m3u8
-#EXTINF:-1 group-title="Кино" , Bollywood 
-http://50.7.28.226/8240/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , Среда 
-http://50.7.28.226/8295/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , Спас
-http://50.7.28.226/8301/index.m3u8
+#EXTINF:-1 group-title="познавательные",Travel+Adventure
+http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
+#EXTINF:-1 group-title="познавательные",Viasat Explore
+http://45.145.32.13:20440/viasat_explore/index.m3u8?token=test
+#EXTINF:-1 group-title="познавательные",Viasat History
+http://45.145.32.13:20440/viasat_history/index.m3u8?token=test
+#EXTINF:-1 group-title="познавательные",Viasat Nature
+http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
+#EXTINF:-1 group-title="познавательные",Big Planet
+http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
+#EXTINF:-1 group-title="познавательные",Galaxy
+http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
+#EXTINF:-1 group-title="познавательные",Точка РФ
+http://45.145.32.13:20440/hdl/index.m3u8?token=test
+#EXTINF:-1 group-title="познавательные",Terra
+http://2.57.217.85:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="познавательные",Моя Планета
+http://2.57.217.85:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="познавательные",Наука 2.0
+http://2.57.217.85:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="познавательные", Живая планета
+http://95.66.188.74/Zhivaya_Planeta/mono.m3u8
+#EXTINF:-1 group-title="познавательные", Поехали!
+http://95.66.188.74/Poehali/mono.m3u8
+#EXTINF:-1 group-title="познавательные", Моя планета HD
+http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
+#EXTINF:-1 group-title="познавательные",Тайны Галактики
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1 group-title="познавательные",RTG TV
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:-1 group-title="познавательные",Загородная жизнь
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 group-title="познавательные",Охота и Рыбалка
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:-1 group-title="познавательные",Живая Планета
+http://178.212.71.253:8000/play/114/index.m3u8
+#EXTINF:-1 group-title="познавательные",Большая азия
+http://178.212.71.253:8000/play/83/index.m3u8
+#EXTINF:-1 group-title="познавательные",Техно 24
+http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:-1 group-title="познавательные",Авто плюс
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 group-title="познавательные",Усадьба
+http://178.212.71.253:8000/play/91/index.m3u8
+#EXTINF:-1 group-title="познавательные",Драйв
+http://178.212.71.253:8000/play/92/index.m3u8
+#EXTINF:-1 group-title="познавательные",Здоровое ТВ
+http://178.212.71.253:8000/play/94/index.m3u8
+#EXTINF:-1 group-title="познавательные",Домашние животные
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF:-1 group-title="познавательные",Психология 21
+http://178.212.71.253:8000/play/96/index.m3u8
+#EXTINF:-1 group-title="познавательные",Вопросы и ответы
+http://178.212.71.253:8000/play/97/index.m3u8
 
-
-#EXTINF:-1 group-title="Кино" , Shot TV
-http://50.7.28.226/8358/index.m3u8
-#EXTINF:-1 group-title="Кино" , Docu Box
-http://50.7.28.226/8528/index.m3u8
-#EXTINF:-1 group-title="Кино" , Fan HD
-http://50.7.28.226/8386/index.m3u8
-#EXTINF:-1 group-title="Кино" , Fox
-http://50.7.28.226/8168/index.m3u8
-#EXTINF:-1 group-title="Кино" , Gold Line Детектив HD
-http://50.7.28.226/8573/index.m3u8
-#EXTINF:-1 group-title="Кино" , Кинеко
-http://50.7.28.226/8370/index.m3u8
-#EXTINF:-1 group-title="Кино" , Fan HD
-http://50.7.28.226/8386/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box СССР 4K
-http://50.7.28.226/8445/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Apocalypse HD
-http://50.7.28.226/8441/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Autotrend HD
-http://50.7.28.226/8440/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Fantasy HD
-http://50.7.28.226/8430/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Lo-Fi HD
-http://50.7.28.226/8446/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Mayday HD
-http://50.7.28.226/8434/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Ultrastars 4k
-http://50.7.28.226/8444/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Spy HD
-http://50.7.28.226/8354/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Travel HD
-http://50.7.28.226/8416/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Zombie HD
-http://50.7.28.226/8418/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Stories HD
-http://50.7.28.226/8429/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Gangster HD
-http://50.7.28.226/8985/index.m3u8
-#EXTINF:-1 group-title="Кино" , Box Serial HD
-http://50.7.28.226/8988/index.m3u8
-#EXTINF:-1 group-title="Кино" , BCU Action HD
-http://50.7.28.226/8478/index.m3u8
-#EXTINF:-1 group-title="Кино" , BCU Kids HD
-http://50.7.28.226/8458/index.m3u8
-#EXTINF:-1 group-title="Кино" , BCU Premiere HD
-http://50.7.28.226/8475/index.m3u8
-#EXTINF:-1 group-title="Кино" , BCU Russian HD
-http://50.7.28.226/8457/index.m3u8
-#EXTINF:-1 group-title="Кино" , BCU Kids+
-http://50.7.28.226/8454/index.m3u8
-#EXTINF:-1 group-title="Кино" , BCU Kinorating
-http://50.7.28.226/8455/index.m3u8
-#EXTINF:-1 group-title="Кино" , BCU Catastrophe HD 
-http://50.7.28.226/8877/index.m3u8
-#EXTINF:-1 group-title="Кино" , BCU Romantic HD
-http://50.7.28.226/8884/index.m3u8
-#EXTINF:-1 group-title="Кино" , BCU Сваты
-http://50.7.28.226/8889/index.m3u8
-#EXTINF:-1 group-title="Кино" , Продвижение 
-http://50.7.28.226/8665/index.m3u8
-#EXTINF:-1 group-title="Кино" , Наше Мужское HD
-http://50.7.28.226/8740/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Honey
-http://50.7.28.226/8895/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Драма HD
-http://50.7.28.226/8634/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Макромир
-http://50.7.28.226/8636/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Newfilm 3
-http://50.7.28.226/8743/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Relax
-http://50.7.28.226/8793/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Celebrity HD
-http://50.7.28.226/8991/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Newfilm 1 HD
-http://50.7.28.226/8741/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM NewFilm RU HD
-http://50.7.28.226/8706/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Rock HD
-http://50.7.28.226/8679/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM UFO HD
-http://50.7.28.226/8410/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Боевик HD
-http://50.7.28.226/8411/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Катастрофа HD
-http://50.7.28.226/8746/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Комедия HD
-http://50.7.28.226/8708/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Комедия Classic HD
-http://50.7.28.226/8744/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Кунг-Фу HD
-http://50.7.28.226/8559/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Мегамир HD
-http://50.7.28.226/8770/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Нуар HD
-http://50.7.28.226/8733/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Роскино HD
-http://50.7.28.226/8709/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Супергерои HD
-http://50.7.28.226/8710/index.m3u8
-#EXTINF:-1 group-title="Кино" , MM Ужасы HD
-http://50.7.28.226/8725/index.m3u8
-#EXTINF:-1 group-title="Кино" , CineMan VHS
-http://50.7.28.226/8807/index.m3u8
-#EXTINF:-1 group-title="Кино" , CineMan Симпсоны 
-http://50.7.28.226/8833/index.m3u8
-#EXTINF:-1 group-title="Кино" , Cinema 
-http://50.7.28.226/8949/index.m3u8
-#EXTINF:-1 group-title="Кино" , CineMan Thriller
-http://50.7.28.226/8954/index.m3u8
-#EXTINF:-1 group-title="Кино" , CineMan MiniSeries
-http://50.7.28.226/8961/index.m3u8
-
-#EXTINF:-1 group-title="Кино" , CineMan РуКино
-http://50.7.28.226/8871/index.m3u8
-#EXTINF:-1 group-title="Кино" , Романтичное HD
-http://50.7.28.226/8948/index.m3u8
-#EXTINF:-1 group-title="Кино" , Viasat Kino
-http://50.7.28.226/9020/index.m3u8
-#EXTINF:-1 group-title="Кино" , Домашний
-http://50.7.28.226/9204/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , ICTV
-http://50.7.28.226/8092/index.m3u8
-#EXTINF:-1 group-title="Кино" , Новий Канал
-http://50.7.28.226/8130/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , СТБ
-http://50.7.28.226/8090/index.m3u8
-#EXTINF:-1 group-title="Кино" , Дом кино 
-http://50.7.28.226/8136/index.m3u8
-#EXTINF:-1 group-title="Кино" , Киномикс
-http://50.7.28.226/8040/index.m3u8
-#EXTINF:-1 group-title="Кино" , Кинопремьера HD
-http://50.7.28.226/8199/index.m3u8
-#EXTINF:-1 group-title="Кино" , Киноужас HD
-http://50.7.28.226/8357/index.m3u8
-#EXTINF:-1 group-title="Кино" , Родное кино
-http://50.7.28.226/8096/index.m3u8
-#EXTINF:-1 group-title="Кино" , VIP Serial
-http://50.7.28.226/9222/index.m3u8
-#EXTINF:-1 group-title="Кино" , Твоё ТВ
-http://50.7.28.226/9236/index.m3u8
-#EXTINF:-1 group-title="Кино" , Твоё ТВ Юмор
-http://50.7.28.226/9246/index.m3u8
-#EXTINF:-1 group-title="Кино" , Бигуди 
-http://50.7.28.226/9328/index.m3u8
-
-#EXTINF:-1 group-title="РОССИЯ" ,2x2
-http://50.7.28.226/8045/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,5 канал
-http://50.7.28.226/8093/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Amedia 1
-http://50.7.28.226/8035/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Bolywood HD
-http://50.7.28.226/8240/index.m3u8
-#EXTINF:-1 group-title="Кино" ,RTVI
-http://50.7.28.226/8118/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Shot TV
-http://50.7.28.226/8358/index.m3u8
-#EXTINF:-1 group-title="Кино" ,TV XXI
-http://50.7.28.226/8213/index.m3u8
-#EXTINF:-1 group-title="Кино" ,TV1000
-http://50.7.28.226/8048/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Авто плюс
-http://50.7.28.226/8095/index.m3u8
-#EXTINF:-1 group-title="Познавательные" ,Вопросы и ответы
-http://50.7.28.226/8053/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Время
-http://50.7.28.226/8012/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Дом кино
-http://50.7.28.226/8136/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Домашний
-http://50.7.28.226/8124/index.m3u8
-#EXTINF:-1 group-title="Познавательные" ,Еда
-http://50.7.28.226/8140/index.m3u8
-#EXTINF:-1 group-title="Познавательные" ,Жара
-http://50.7.28.226/8361/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Звезда
-http://50.7.28.226/8037/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Индия
-http://50.7.28.226/8155/index.m3u8
-
-#EXTINF:-1 group-title="Кино" ,Кино ТВ HD
-http://50.7.28.226/8207/index.m3u8
-#EXTINF:-1 group-title="Спорт" ,Конный мир
-http://50.7.28.226/8326/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Красная линия
-http://50.7.28.226/8390/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Мосфильм. Золотая коллекция HD
-http://50.7.28.226/8707/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Наше любимое HD
-http://50.7.28.226/8310/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,ОТР
-http://50.7.28.226/8146/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Планета РТР
-http://50.7.28.226/8121/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Победа
-http://50.7.28.226/8391/index.m3u8
-
-#EXTINF:-1 group-title="РОССИЯ" ,Пятница
-http://50.7.28.226/8066/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Пятый канал
-http://50.7.28.226/8009/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,РБК
-http://50.7.28.226/8197/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Русский бестселлер
-http://50.7.28.226/8162/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Русский детектив
-http://50.7.28.226/8161/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Русский роман
-http://50.7.28.226/8010/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Сарафан
-http://50.7.28.226/8020/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Союз
-http://50.7.28.226/8401/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Спас
-http://50.7.28.226/8301/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Среда HD
-http://50.7.28.226/8295/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,СТС
-http://50.7.28.226/8005/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,ТВ3
-http://50.7.28.226/8114/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,ТВЦ
-http://50.7.28.226/8006/index.m3u8
-
-#EXTINF:-1 group-title="РОССИЯ" ,Успех
-http://50.7.28.226/8164/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Центральное телевидение
-http://50.7.28.226/8575/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" ,Че
-http://50.7.28.226/8008/index.m3u8
-#EXTINF:-1 group-title="Музыка" , MCM Top HD
-http://50.7.28.226/8351/index.m3u8
-#EXTINF:-1 group-title="Музыка" , Mezzo
-http://50.7.28.226/8031/index.m3u8
-#EXTINF:-1 group-title="Музыка" , МузТВ
-http://50.7.28.226/8190/index.m3u8
-#EXTINF:-1 group-title="Музыка ", Музыка первого
-http://50.7.28.226/8135/index.m3u8
-#EXTINF:-1 group-title="Музыка" , ТНТ Music
-http://50.7.28.226/8350/index.m3u8
-#EXTINF:-1 group-title="Музыка" , MTV 80s
-http://50.7.28.226/8137/index.m3u8
-#EXTINF:-1 group-title="Музыка" , М2 HD UA
-http://50.7.28.226/8336/index.m3u8
-#EXTINF:-1 group-title="Музыка" , Bridge TV
-http://50.7.28.226/8527/index.m3u8
-#EXTINF:-1 group-title="Музыка" , Bridge TV Classic
-http://50.7.28.226/8450/index.m3u8
-#EXTINF:-1 group-title="Музыка" , Bridge TV Hits
-http://50.7.28.226/9202/index.m3u8
-#EXTINF:-1 group-title="Музыка" , Bridge TV Rock
-http://50.7.28.226/9229/index.m3u8
-#EXTINF:-1 group-title="Музыка" , Bridge TV Фрэш
-http://50.7.28.226/9230/index.m3u8
-#EXTINF:-1 group-title="Музыка" , Bridge TV Этно
-http://50.7.28.226/9231/index.m3u8
-#EXTINF:-1 group-title="Музыка" , Russian Music Box
-http://50.7.28.226/8189/index.m3u8
-#EXTINF:-1 group-title="Детские" , Лапки Live
-http://50.7.28.226/8551/index.m3u8
-#EXTINF:-1 group-title="Музыка" , Мульт
-http://50.7.28.226/8223/index.m3u8
-#EXTINF:-1 group-title="Детские" , Киномульт
-http://50.7.28.226/8576/index.m3u8
-#EXTINF:-1 group-title="Детские" , Карусель
-http://50.7.28.226/8057/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ" , О!
-http://50.7.28.226/8664/index.m3u8
-#EXTINF:-1 group-title="Кино" , Bolt
-http://50.7.28.226/9329/index.m3u8
-#EXTINF:-1 group-title="Детские" , Солнце
-http://50.7.28.226/8054/index.m3u8
-#EXTINF:-1 group-title="Детские" , Мульт
-http://50.7.28.226/8157/index.m3u8
-#EXTINF:-1 group-title="Детские" , Лёва HD
-http://50.7.28.226/8375/index.m3u8
-#EXTINF:-1 group-title="Детские" , Рыжий
-http://50.7.28.226/9224/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч HD
-http://50.7.28.226/8179/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч Боец
-http://50.7.28.226/8671/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч ТВ
-http://50.7.28.226/8016/index.m3u8
-#EXTINF:-1 group-title="Спорт" ,Матч! Арена
-http://50.7.28.226/8018/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Планета
-http://50.7.28.226/8549/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://50.7.28.226/8236/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://50.7.28.226/8237/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
-http://50.7.28.226/8029/index.m3u8
-#EXTINF:-1 group-title="Спорт",Viasat Sport
-http://50.7.28.226/8015/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sport 1 HD
-http://50.7.28.226/8705/index.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sport 1 HD
-http://50.7.28.226/8379/index.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
-http://50.7.28.226/8676/index.m3u8
-#EXTINF:-1 group-title="Спорт",Беларусь 5 HD
-http://50.7.28.226/8694/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
-http://50.7.28.226/8013/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
-http://50.7.28.226/8014/index.m3u8
-#EXTINF:-1 group-title="Спорт", KHL Prime
-http://50.7.28.226/8297/index.m3u8
-#EXTINF:-1 group-title="Спорт", KHL
-http://50.7.28.226/8025/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч ТВ
-http://50.7.28.226/8179/index.m3u8
-#EXTINF:-1 group-title="Спорт", Окко Футбол HD
-http://50.7.28.226/9170/index.m3u8
-#EXTINF:-1 group-title="Спорт", Окко Спорт 2 HD
-http://50.7.28.226/9183/index.m3u8
-#EXTINF:-1 group-title="Спорт", ТВ Спорт 
-http://50.7.28.226/9187/index.m3u8
-#EXTINF:-1 group-title="Спорт", Волейбол 
-http://50.7.28.226/9192/index.m3u8
-#EXTINF:-1 group-title="Спорт", NBA HD
-http://50.7.28.226/8061/index.m3u8
 
 #EXTINF:-1 group-title="Кино",TV1000 HD
 http://188.208.197.173/viju/index.m3u8
@@ -406,8 +111,6 @@ http://188.208.197.173:2580/channel/n568f02d4/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Кино",Amedia Premium
 http://188.208.197.173:2580/channel/1703c370/index.m3u8?q=1764241421478
 
-#EXTINF:-1 group-title="Кино",.black
-http://188.208.197.173/.black/index.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
@@ -430,10 +133,7 @@ http://185.223.125.136:8005/eurosport2?token=test
 http://185.223.125.136:8005/football?token=test
 #EXTINF:-1 tvg-name="Матч! ТВ HD [RU]" group-title="Спорт",Матч! ТВ HD [RU]
 http://188.208.197.173:2101/match/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 1 ( original ) [RU]" group-title="Спорт",Матч! Футбол 1 ( original ) [RU]
-http://188.208.197.173:2101/matchf1/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2 ( original ) [RU]" group-title="Спорт",Матч! Футбол 2 ( original ) [RU]
-http://188.208.197.173:2101/matchf2/index.m3u8
+
 #EXTINF:-1 tvg-name="Матч! Футбол 3 ( original ) [RU]" group-title="Спорт",Матч! Футбол 3 ( original ) [RU]
 http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 group-title="Спорт",Окко Спорт
