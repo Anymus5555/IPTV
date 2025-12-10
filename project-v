@@ -521,6 +521,8 @@ http://188.208.197.173:2580/channel/53db3d0e/index.m3u8?q=1763550651725
 http://188.208.197.173:2580/channel/e6fad8c/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-491" tvg-logo="https://dl.dropboxusercontent.com/s/cz7kwmw0jkf278z/shant.png",Shant
 http://188.208.197.173:2580/channel/n344fbed7/index.m3u8?q=1763550651725
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-491" tvg-logo="https://dl.dropboxusercontent.com/s/cz7kwmw0jkf278z/shant.png",Shant Comedy
+http://188.208.197.173:2580/channel/n1d5d24d5/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54510" tvg-logo="https://dl.dropboxusercontent.com/s/s5d7mukhecd45i0/shantserial.png",Shant Serial
 http://188.208.197.173:2580/channel/n520cdf15/index.m3u8?q=1763550651725
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-2461" tvg-logo="https://dl.dropboxusercontent.com/s/d2y5puhtzcptwae/shantkids.png",Shant Kids
@@ -603,5 +605,9 @@ http://188.208.197.173:2580/channel/n67d593d5/index.m3u8?q=1764241421478
 http://188.208.197.173:2580/channel/n4116a1fb/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Армения",Kinoman ATV
 http://188.208.197.173:2580/channel/n4116a1dc/index.m3u8?q=1764241421478
+#EXTINF:-1 group-title="Армения",Arma TV
+http://188.208.197.173:2580/channel/272245c9/index.m3u8?q=1764241421478
+
+
 
 
