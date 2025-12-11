@@ -356,52 +356,50 @@ http://217.154.10.99:2020/channel/1980173a/index.m3u8?q=618051a4e8fb85be64d971b1
 
 
 
+#EXTINF:-1 tvg-id="34246" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34246" group-title="Сити Эдем",Сити Эдем - Христианский
+http://188.208.197.173:2580/channel/n76647a0c/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="hlsproxy-54326" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34246" group-title="Сити Эдем" tvg-logo="https://dl.dropboxusercontent.com/s/tctntqqx51798k2/laguna.png",Сити Эдем Плей
+http://188.208.197.173:2580/channel/n281ac0a0/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="38398" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38398" group-title="Сити Эдем",Сити Эдем - КиноАРТ
+http://188.208.197.173:2580/channel/n535bd880/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="38128" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38128" group-title="Сити Эдем",Сити Эдем - КиноСемья
+http://188.208.197.173:2580/channel/15324df9/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="34185" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34185" group-title="Сити Эдем",Сити Эдем - КиноКлассика
+http://188.208.197.173:2580/channel/n5ce3cef/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="45268" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=45268" group-title="Сити Эдем",Сити Эдем - КиноФантастика
+http://188.208.197.173:2580/channel/n406edb40/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="45269" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=45269" group-title="Сити Эдем",Сити Эдем - КиноДрама
+http://188.208.197.173:2580/channel/147fed66/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="34393" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34393" group-title="Сити Эдем",Сити Эдем - КиноАзия
+http://188.208.197.173:2580/channel/n181eda30/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="38354" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38354" group-title="Сити Эдем",Сити Эдем - КиноДок
+http://188.208.197.173:2580/channel/n535bc5c2/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="46209" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=46209" group-title="Сити Эдем",Сити Эдем - ТелеНовелла
+http://188.208.197.173:2580/channel/n3827ee34/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="34364" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34364" group-title="Сити Эдем",Сити Эдем - БирмаПлей
+http://188.208.197.173:2580/channel/7adcc13a/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="46421" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=46421" group-title="Сити Эдем",Сити Эдем - СиртакиТВ
+http://188.208.197.173:2580/channel/n369302ae/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="41333" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=41333" group-title="Сити Эдем",Сити Эдем - КиноЭкшен
+http://188.208.197.173:2580/channel/15ddd811/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="40783" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=40783" group-title="Сити Эдем",Сити Эдем - КиноМистика
+http://188.208.197.173:2580/channel/n7147d001/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="41331" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=41331" group-title="Сити Эдем",Сити Эдем - КиноКомедия
+http://188.208.197.173:2580/channel/2edc5fbc/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="41327" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=41327" group-title="Сити Эдем",Сити Эдем - КиноДетектив
+http://188.208.197.173:2580/channel/6b906a28/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="47410" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47410" group-title="Сити Эдем",Сити Эдем - Meditation Music
+http://188.208.197.173:2580/channel/n29c47ca/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="47400" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47400" group-title="Сити Эдем",Сити Эдем - Classic Music
+http://188.208.197.173:2580/channel/52cd0a64/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="47516" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47516" group-title="Сити Эдем",Сити Эдем - РецептыГурмана
+http://188.208.197.173:2580/channel/n6e9b397a/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="47515" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47515" group-title="Сити Эдем",Сити Эдем - АвтоГид
+http://188.208.197.173:2580/channel/n6e50b902/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-id="47519" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47519" group-title="Сити Эдем",Сити Эдем - МедЗдрав
+http://188.208.197.173:2580/channel/780199d/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 
 
-
-
-#EXTINF:-1 tvg-id="34246" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34246" group-title="Сити Эдем not stabile",Сити Эдем - Христианский
-http://188.208.197.173:2580/channel/n76647a0c/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="hlsproxy-54326" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34246" group-title="Сити Эдем not stabile" tvg-logo="https://dl.dropboxusercontent.com/s/tctntqqx51798k2/laguna.png",Сити Эдем Плей
-http://188.208.197.173:2580/channel/n281ac0a0/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="38398" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38398" group-title="Сити Эдем not stabile",Сити Эдем - КиноАРТ
-http://188.208.197.173:2580/channel/n535bd880/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="38128" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38128" group-title="Сити Эдем not stabile",Сити Эдем - КиноСемья
-http://188.208.197.173:2580/channel/15324df9/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="34185" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34185" group-title="Сити Эдем not stabile",Сити Эдем - КиноКлассика
-http://188.208.197.173:2580/channel/n5ce3cef/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="45268" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=45268" group-title="Сити Эдем not stabile",Сити Эдем - КиноФантастика
-http://188.208.197.173:2580/channel/n406edb40/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="45269" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=45269" group-title="Сити Эдем not stabile",Сити Эдем - КиноДрама
-http://188.208.197.173:2580/channel/147fed66/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="34393" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34393" group-title="Сити Эдем not stabile",Сити Эдем - КиноАзия
-http://188.208.197.173:2580/channel/n181eda30/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="38354" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=38354" group-title="Сити Эдем not stabile",Сити Эдем - КиноДок
-http://188.208.197.173:2580/channel/n535bc5c2/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="46209" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=46209" group-title="Сити Эдем not stabile",Сити Эдем - ТелеНовелла
-http://188.208.197.173:2580/channel/n3827ee34/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="34364" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=34364" group-title="Сити Эдем not stabile",Сити Эдем - БирмаПлей
-http://188.208.197.173:2580/channel/7adcc13a/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="46421" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=46421" group-title="Сити Эдем not stabile",Сити Эдем - СиртакиТВ
-http://188.208.197.173:2580/channel/n369302ae/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="41333" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=41333" group-title="Сити Эдем not stabile",Сити Эдем - КиноЭкшен
-http://188.208.197.173:2580/channel/15ddd811/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="40783" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=40783" group-title="Сити Эдем not stabile",Сити Эдем - КиноМистика
-http://188.208.197.173:2580/channel/n7147d001/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="41331" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=41331" group-title="Сити Эдем not stabile",Сити Эдем - КиноКомедия
-http://188.208.197.173:2580/channel/2edc5fbc/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="41327" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=41327" group-title="Сити Эдем not stabile",Сити Эдем - КиноДетектив
-http://188.208.197.173:2580/channel/6b906a28/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="47410" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47410" group-title="Сити Эдем not stabile",Сити Эдем - Meditation Music
-http://188.208.197.173:2580/channel/n29c47ca/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="47400" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47400" group-title="Сити Эдем not stabile",Сити Эдем - Classic Music
-http://188.208.197.173:2580/channel/52cd0a64/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="47516" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47516" group-title="Сити Эдем not stabile",Сити Эдем - РецептыГурмана
-http://188.208.197.173:2580/channel/n6e9b397a/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="47515" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47515" group-title="Сити Эдем not stabile",Сити Эдем - АвтоГид
-http://188.208.197.173:2580/channel/n6e50b902/index.m3u8?q=1764241421478
-#EXTINF:-1 tvg-id="47519" tvg-url="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=47519" group-title="Сити Эдем not stabile",Сити Эдем - МедЗдрав
-http://188.208.197.173:2580/channel/780199d/index.m3u8?q=1764241421478
 
 
 
@@ -475,14 +473,12 @@ http://188.208.197.173:2580/channel/n68c64ed5/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pb
 http://188.208.197.173:2580/channel/n5cf4a13/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54510" tvg-logo="https://dl.dropboxusercontent.com/s/s5d7mukhecd45i0/shantserial.png",Shant Serial
 http://188.208.197.173:2580/channel/n520cdf15/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2461" tvg-logo="https://dl.dropboxusercontent.com/s/d2y5puhtzcptwae/shantkids.png",Shant Kids
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-2461" tvg-logo="https://dl.dropboxusercontent.com/s/d2y5puhtzcptwae/shantkids.png",Shant Kids
 http://188.208.197.173:2580/channel/352daf24/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 
 #EXTINF:-1 group-title="Армения",Լայմ Gold
 http://188.208.197.173:2101/golda/index.m3u8
 
-#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-100307" tvg-logo="http://188.208.197.173:2580/logos/cineman.png",Cineman
-http://188.208.197.173:2580/channel/n689463e3/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения",Noyan tapan
 http://188.208.197.173:2580/channel/n70041ce8/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения",Hybrid Film
@@ -493,10 +489,6 @@ http://188.208.197.173:2580/channel/n67d02d85/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pb
 http://188.208.197.173:2580/channel/n34e5e3d1/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения",Velari
 http://188.208.197.173:2580/channel/367d58ea/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
-#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-52095" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_2.png",Fs2 FAST
-http://188.208.197.173:2580/channel/n3dd1b7db/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
-#EXTINF:-1 group-title="Армения 🇦🇲" tvg-id="hlsproxy-52093" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png",FS1 Fast
-http://188.208.197.173:2580/channel/23b28386/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 tvg-id="hlsproxy-51164" tvg-logo="https://cdn.epg.one/img2/2395.png" group-title="Армения",Նոր Հայաստան
 http://188.208.197.173:2580/channel/n55ad8672/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 tvg-id="AM: DeltaTV" tvg-logo="https://cdn.epg.one/img2/7866.png" group-title="Армения",Դելտա TV
@@ -527,8 +519,6 @@ http://188.208.197.173:2580/channel/n3f9f57bf/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pb
 http://188.208.197.173:2580/channel/n359832b4/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения",Radio Van 103.0 FM Yerevan
 http://188.208.197.173:2580/channel/2f5f5ed7/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3Cwn1Zx/SGN-04-13-2022-1649875763996.png" group-title="Армения" tvg-id="hlsproxy-54542",Song TV
-http://188.208.197.173:2580/channel/n6d75a5a1/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png" group-title="Армения" tvg-id="hlsproxy-20985",USArmenia TV
 http://188.208.197.173:2580/channel/4b4b8e0a/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png" group-title="Армения" tvg-id="hlsproxy-54875",Luys
