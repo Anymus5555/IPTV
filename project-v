@@ -453,13 +453,13 @@ http://188.208.197.173:2580/channel/1172fe92/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbi
 http://188.208.197.173:2580/channel/n1611b18d/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8101" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/yy/yerkir_media_tv_am.png",Yerkir Media
 http://188.208.197.173:2580/channel/n43cb2a45/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
-#EXTINF:-1 group-title="Новости" tvg-id="hlsproxy-55160" tvg-logo="https://dl.dropboxusercontent.com/s/xig0qqu1s6nju7i/azatut.png",Azatutyun TV
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-55160" tvg-logo="https://dl.dropboxusercontent.com/s/xig0qqu1s6nju7i/azatut.png",Azatutyun TV
 http://188.208.197.173:2580/channel/1a480484/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-51206" tvg-logo="http://188.208.197.173:2580/proxy/https://www.lyngsat-logo.com/logo/tv/aa/abn_us.png",ABN (ArmNews 24)
 http://188.208.197.173:2580/channel/n7f632cb6/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения",5TV Plus
 http://188.208.197.173:2580/channel/e6fad8c/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-491" tvg-logo="https://dl.dropboxusercontent.com/s/cz7kwmw0jkf278z/shant.png",Shant Gyumri
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-491" tvg-logo="https://dl.dropboxusercontent.com/s/cz7kwmw0jkf278z/shant.png",Shant Gyumri
 http://188.208.197.173:2580/channel/n656bc248/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54499" tvg-logo="https://dl.dropboxusercontent.com/s/njiz4np6mxcucda/bazmoc.png",Bazmoc TV
 http://188.208.197.173:2580/channel/n7d1c15ed/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
