@@ -421,6 +421,8 @@ http://188.208.197.173:2580/channel/n656bc248/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pb
 http://188.208.197.173:2580/channel/n520cdf15/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-2461" tvg-logo="https://images.iptv.rt.ru/images/ch4dl8bmhk079s3jpsv0.png",Shant Kids
 http://188.208.197.173:2580/channel/352daf24/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-2461" tvg-logo="",Shant Comedy
+http://188.208.197.173:2580/channel/2730d187/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-8021" tvg-logo="https://ovio.am/storage/uploads/channels/ATV.png_1627890585.png",ATV
 http://188.208.197.173:2580/channel/53db6a1a/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 
@@ -472,6 +474,12 @@ http://188.208.197.173:2580/channel/224bf860/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbi
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-50251" tvg-logo="https://ovio.am/storage/uploads/channels/j9vOys5d5F9I3z9YIRTBmDauyuMEfhIygrWo8cNv.png",Fast Sport 2
 http://188.208.197.173:2580/channel/224bf861/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 
+
+
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54499" tvg-logo="",Kinoman
+http://188.208.197.173:2580/channel/n4116a1dc/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54499" tvg-logo="",Cineman
+http://188.208.197.173:2580/channel/n4116a1fb/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54499" tvg-logo="https://ovio.am/storage/uploads/channels/Bazmoc-TV_1.png_1629793748.png",Bazmoc TV
 http://188.208.197.173:2580/channel/n7d1c15ed/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="Армения" tvg-id="hlsproxy-54498" tvg-logo="https://ovio.am/storage/uploads/channels/Hay-TV_1.png_1629744402.png",Hay TV
@@ -510,6 +518,8 @@ http://188.208.197.173:2580/channel/n359832b4/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pb
 #EXTINF:-1 group-title="Армения",Radio Van 103.0 FM Yerevan
 http://188.208.197.173:2580/channel/2f5f5ed7/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 
+#EXTINF:-1 group-title="Армения",Arma
+http://188.208.197.173:2580/channel/272245c9/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 tvg-logo="https://ovio.am/storage/uploads/channels/SONGTV_1.png_1629800389.png" group-title="Армения" tvg-id="hlsproxy-20985",Song TV Armenia
 http://188.208.197.173:2580/channel/4b1032e7/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" group-title="Армения" tvg-id="hlsproxy-51117",Fresh TV
