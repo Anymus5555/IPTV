@@ -39,15 +39,15 @@ http://31.131.141.195:8000/play/2070/index.m3u8
 http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 #EXTINF:-1 group-title="РОССИЯ",Пятница
 http://45.145.32.13:20440/piatnica/index.m3u8?token=test
-#EXTINF:-1 group-title="Лига Чемпионов",1
+#EXTINF:-1 group-title="Спорт",1
 https://ayagan.hayuhi.online/hls/okko_prime/playlist.m3u8?token=296af67ebf208897af041b15666761fb-0.5002231755717674-0.12628782250511783#EXTINF:-1 group-title="Лига Чемпионов",2
-#EXTINF:-1 group-title="Лига Чемпионов",2
+#EXTINF:-1 group-title="Спорт",2
 https://ayagan.hayuhi.online/hls/channel1/channel1/playlist.m3u8?token=95c7440b3bf9fd339ee45d765d6b77a8-0.8084282803604559-0.5655954784569674
-#EXTINF:-1 group-title="Лига Чемпионов",3
+#EXTINF:-1 group-title="Спорт",3
 https://ayagan.hayuhi.online/hls/dazn1/playlist.m3u8?token=83ac409e8b3c5347d55ee1e57f4c4a6e-0.6303642905193889-0.5864570432232394
-#EXTINF:-1 group-title="Лига Чемпионов",4
+#EXTINF:-1 group-title="Спорт",4
 https://ayagan.hayuhi.online/hls/okko_fut/playlist.m3u8?token=9ec210d8d6fc86a48175fbf1f090f5ac-0.3411143242672978-0.579185462925141
-#EXTINF:-1 group-title="Лига Чемпионов",5
+#EXTINF:-1 group-title="Спорт",5
 https://ayagan.hayuhi.online/hls/channel2/channel2/playlist.m3u8?token=6db2b8c0b40d976a9523cc8c02114dab-0.2704884546258284-0.4050474647319804
 
 #EXTINF:-1 group-title="познавательные",Travel+Adventure
