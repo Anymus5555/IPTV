@@ -303,14 +303,13 @@ http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
-http://188.208.197.173/viasat-explore/index.m3u8
+http://188.208.197.173:2101/vijuexpore/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat History
-http://188.208.197.173/visast-history/index.m3u8
+http://188.208.197.173:2101/vijehistory/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
-http://188.208.197.173/viasat-nature/index.m3u8
+http://188.208.197.173:2101/vijunature/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Da Vinci
-http://188.208.197.173/davinchi/index.m3u8
-
+http://188.208.197.173:2101/davinchi/index.m3u8
 
 #EXTINF:-1 group-title="Кино",НСТ
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
