@@ -661,6 +661,10 @@ http://188.208.197.173:2580/channel/n4116a1dc/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pb
 http://188.208.197.173:2580/channel/n37be870b/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 tvg-logo="" group-title="Армения",Alpha News
 http://188.208.197.173:2580/channel/n42a1b687/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 tvg-logo="" group-title="Армения",Aurora TV
+http://188.208.197.173:9090/memfs/b2ef3b4c-87e8-4bbf-979b-8d7ba533c9e1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Армения",Arm MUSIC
+http://188.208.197.173:9090/memfs/baa8ead8-32f8-4ede-8114-a0a9dbbc08ae.m3u8
 
 
 
