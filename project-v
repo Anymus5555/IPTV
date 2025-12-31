@@ -288,7 +288,7 @@ http://188.208.197.173/viju-action/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 romantica
 http://188.208.197.173/vijuromantica/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское
-http://217.154.10.99:2020/channel/13d5ff15/index.m3u8?q=618051a4e8fb85be64d971b12222208c
+http://tvon.zapto.org/tv1000rukino/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Кино",Amedia 1
 http://188.208.197.173:2580/channel/n73d376e8/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Кино",Amedia 2
@@ -454,7 +454,14 @@ http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Кино",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
-
+#EXTINF:-1 group-title="Кино",Viju Premiere
+http://tvon.zapto.org/vijupremiere/video.m3u8?token=tvon
+#EXTINF:-1 group-title="Кино",Viju Comedy
+http://tvon.zapto.org/vijucomedy/video.m3u8?token=tvon
+#EXTINF:-1 group-title="Кино",Viju Megahit
+http://tvon.zapto.org/vijumegahit/video.m3u8?token=tvon
+#EXTINF:-1 group-title="Кино",Viju Serial
+http://tvon.zapto.org/vijuserial/video.m3u8?token=tvon
 
 
 
@@ -469,7 +476,7 @@ http://185.223.125.136:8005/eurosport2?token=test
 #EXTINF:-1 group-title="Спорт",Футбол
 http://185.223.125.136:8005/football?token=test
 #EXTINF:-1 tvg-name="Матч! ТВ HD [RU]" group-title="Спорт",Матч! ТВ HD [RU]
-http://188.208.197.173:2101/match/index.m3u8 
+http://tvon.zapto.org/match/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 http://45.145.32.13:20440/match_arena/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Матч! Боец
