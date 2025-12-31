@@ -118,6 +118,77 @@ https://ayagan.hayuhi.online/hls/okko_fut/playlist.m3u8?token=9ec210d8d6fc86a481
 #EXTINF:-1 group-title="Спорт",5
 https://ayagan.hayuhi.online/hls/channel2/channel2/playlist.m3u8?token=6db2b8c0b40d976a9523cc8c02114dab-0.2704884546258284-0.4050474647319804
 
+
+#EXTINF:-1 group-title="Кино" audio-track="rus", ТВ21
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Хит
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1 HD
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 2 HD 
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Hit
+http://91.207.115.228:5000/c57
+#EXTINF:-1 group-title="Кино" audio-track="rus", FAN HD 
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FilmUADrama HD
+http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FlixSnip
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FX
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FX Life
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Hollywood
+http://193.25.8.59:8000/interaz
+#EXTINF:-1 group-title="Кино" audio-track="rus", Kino24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Plan_B
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/mrBfHb29/image.png",  Revolyo Mnemo                      
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 group-title="Кино" audio-track="rus", Start Air
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Start World
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Timeless Dizi
+http://195.158.223.132:8011/Dizi
+#EXTINF:-1 group-title="Кино" audio-track="rus", VHS-ка HD 
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Viasat Kino Comedy HD 
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 HD 
+http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 action
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 action HD 
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 romantica HD
+http://188.208.197.173:8888/vijuromantica/video.m3u8?token=loganet
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 новелла HD
+http://188.208.197.173:8888/viju-novella/video.m3u8?token=loganet
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Comedy
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Megahit
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Megahit HD 
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Premiere HD 
+https://stream2.somon.tv/vippremiera/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Serial HD
+http://188.208.197.173:8888/vijuserial/video.m3u8?token=loganet
+
+
 #EXTINF:-1 group-title="познавательные",Travel+Adventure
 http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
 #EXTINF:-1 group-title="познавательные",Viasat Explore
