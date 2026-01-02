@@ -330,13 +330,15 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=IF
 
 
 #EXTINF:-1 group-title="Кино",TV1000 HD
-http://188.208.197.173/viju/index.m3u8
+http://188.208.197.173:8888/viju/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Кино",TV1000 action
-http://188.208.197.173/viju-action/index.m3u8
+http://188.208.197.173:8888/viju-action/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Кино",TV1000 romantica
-http://188.208.197.173/vijuromantica/index.m3u8
+http://188.208.197.173:8888/vijuromantica/video.m3u8?token=tvon
+
+
 #EXTINF:-1 group-title="Кино",TV1000 Русское
-http://tvon.zapto.org/tv1000rukino/video.m3u8?token=tvon
+http://188.208.197.173:8888/tv1000rukino/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Кино",Amedia 1
 http://188.208.197.173:2580/channel/n73d376e8/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Кино",Amedia 2
@@ -503,14 +505,13 @@ http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Кино",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 group-title="Кино",Viju Premiere
-http://http://188.208.197.173:8888/vijupremiere/video.m3u8?token=tvon
+http://188.208.197.173:8888/vijupremiere/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Кино",Viju Comedy
-http://http://188.208.197.173:8888/vijucomedy/video.m3u8?token=tvon
+http://188.208.197.173:8888/vijucomedy/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Кино",Viju Megahit
-http://http://188.208.197.173:8888/vijumegahit/video.m3u8?token=tvon
+http://188.208.197.173:8888/vijumegahit/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Кино",Viju Serial
-http://http://188.208.197.173:8888/vijuserial/video.m3u8?token=tvon
-
+http://188.208.197.173:8888/vijuserial/video.m3u8?token=tvon
 
 
 
