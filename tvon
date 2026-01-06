@@ -352,13 +352,13 @@ http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Познавательные",Viasat Explore
+#EXTINF:-1 group-title="познавательные",Viasat Explore
 http://188.208.197.173:2101/vijuexpore/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat History
+#EXTINF:-1 group-title="познавательные",Viasat History
 http://188.208.197.173:2101/vijehistory/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Nature
+#EXTINF:-1 group-title="познавательные",Viasat Nature
 http://188.208.197.173:2101/vijunature/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Da Vinci
+#EXTINF:-1 group-title="познавательные",Da Vinci
 http://188.208.197.173:2101/davinchi/index.m3u8
 
 #EXTINF:-1 group-title="Кино",НСТ
@@ -378,7 +378,22 @@ http://178.212.71.253:8000/play/104/index.m3u8
 
 #EXTINF:-1 group-title="РОССИЯ",Соловьев Live
 http://178.212.71.253:8000/play/111/index.m3u8
-
+#EXTINF:-1 group-title="Кино" tvg-logo="http://filmtvgroup.site/uploads/logo.png",FILM TV GROUP Axterix
+http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Кино" tvg-logo="http://filmtvgroup.site/uploads/logo.png",FILM TV GROUP КИНО
+http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Кино" tvg-logo="http://filmtvgroup.site/uploads/logo.png",FILM TV GROUP МультКазки
+http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Кино" tvg-logo="http://filmtvgroup.site/uploads/logo.png",FILM TV MUSIC
+http://filmtvgroup.hopto.org/FILMtvMUSIC/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Кино" tvg-logo="http://filmtvgroup.site/uploads/logo.png",FILM TV RETRO WAVE UA TV
+http://filmtvgroup.hopto.org/RETROWAVEUAtv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Кино" tvg-logo="http://filmtvgroup.site/uploads/logo.png",FILM TV TRANCE IS STAR RADIO
+http://filmtvgroup.hopto.org/RadiO/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Кино" tvg-logo="http://filmtvgroup.site/uploads/logo.png",FILM TV Кінозал
+http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Кино" tvg-logo="http://filmtvgroup.site/uploads/logo.png",FILM TV Леді Баг & Щенячий патруль.
+http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="Кино",Бестселер
 http://178.212.71.253:8000/play/115/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
