@@ -736,5 +736,8 @@ http://tvon.duckdns.org:2580/channel/n37be870b/index.m3u8?q=eyJ1c2VySWQiOiJhZG1p
 http://tvon.duckdns.org:2580/channel/n42a1b687/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 
 
-#EXTINF:-1 tvg-logo="" group-title="Армения",Aurora TV
+#EXTINF:-1 tvg-logo="" group-title="Армения",Aurora TV (не стабильно)
 http://tvon.duckdns.org:9090/memfs/2c7fac21-5dd2-4baf-afd8-e58c19a59d26.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Армения", Hayjer Jan TV (не стабильно)
+http://tvon.duckdns.org:9090/memfs/cc7b0601-7c90-4dad-996a-f4d2b3c248fb.m3u8
