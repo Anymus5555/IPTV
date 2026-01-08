@@ -1,30 +1,30 @@
 #EXTM3U  url-tvg="http://epg.it999.ru/edem.xml.gz"
-#EXTINF:-1 group-title="РОССИЯ" tvg-id="", Первый 
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://epg.it999.ru/img/983.png", Первый 
 http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",Рен ТВ
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_256.webp",Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",Россия 1
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png",Россия 1
 http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ", Россия 1 (+1)
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png", Россия 1 (+1)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ", Россия 1 (+2)
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png", Россия 1 (+2)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ", Россия 1 (+3)
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png", Россия 1 (+3)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ", Россия 1 (+4)
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png", Россия 1 (+4)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ", Россия 1 (+5)
+#EXTINF:-1 group-title="РОССИЯ"tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png", Россия 1 (+5)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ", Россия 1 (+6)
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png", Россия 1 (+6)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ", Россия 1 (+7)
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png", Россия 1 (+7)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ", Россия 1 (+8)
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png", Россия 1 (+8)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ", Россия 1 (+9)
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png", Россия 1 (+9)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="РОССИЯ",НТВ
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/ntv.png",НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
 EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
@@ -123,27 +123,27 @@ https://ayagan.hayuhi.online/hls/channel2/channel2/playlist.m3u8?token=6db2b8c0b
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Хит
 http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1 HD
+
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://tvon.duckdns.org:2580/logos/a1-tv.png", Amedia 1 HD
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 2 HD 
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://tvon.duckdns.org:2580/logos/a2-tv.png", Amedia 2 HD 
 http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Hit
-http://91.207.115.228:5000/c57
-#EXTINF:-1 group-title="Кино" audio-track="rus", FAN HD 
-http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", FilmUADrama HD
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/amedia-hit.png", Amedia Hit
+http://tvon.duckdns.org:2580/channel/n5376d850/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/amedia-premium.png", Amedia Premium
+http://tvon.duckdns.org:2580/channel/253b0bf4/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://tvon.duckdns.org:2580/logos/fantastic-animation.png", FAN HD 
+http://tvon.duckdns.org:2580/channel/n6a8dbd8b/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://tvon.duckdns.org:2580/logos/filmua-drama.png", FilmUADrama HD
 http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", FlixSnip
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://tvon.duckdns.org:2580/logos/flix-snip.png", FlixSnip
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", FX
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://tvon.duckdns.org:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png", FX
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", FX Life
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://tvon.duckdns.org:2580/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png", FX Life
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Hollywood
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://tvon.duckdns.org:2580/logos/hollywood.png", Hollywood
 http://193.25.8.59:8000/interaz
 #EXTINF:-1 group-title="Кино" audio-track="rus", Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
@@ -341,14 +341,6 @@ http://188.208.197.173:8888/vijuromantica/video.m3u8?token=tvon
 
 #EXTINF:-1 group-title="Кино",TV1000 Русское
 http://188.208.197.173:8888/tv1000rukino/video.m3u8?token=tvon
-#EXTINF:-1 group-title="Кино",Amedia 1
-http://188.208.197.173:2580/channel/n73d376e8/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Кино",Amedia 2
-http://188.208.197.173:2580/channel/n73d376e7/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Кино",Amedia HIT
-http://188.208.197.173:2580/channel/n568f02d4/index.m3u8?q=1764241421478
-#EXTINF:-1 group-title="Кино",Amedia Premium
-http://188.208.197.173:2580/channel/1703c370/index.m3u8?q=1764241421478
 #EXTINF:-1 group-title="Кино" tvg-id="pro100", Про100 ТВ
 http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 
