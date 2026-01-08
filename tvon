@@ -521,13 +521,13 @@ http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Кино",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png",Viju Premiere
+#EXTINF:-1 group-title="Кино" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png",VIP Premiere HD
 http://188.208.197.173:8888/vijupremiere/video.m3u8?token=tvon
-#EXTINF:-1 group-title="Кино" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png",Viju Comedy
+#EXTINF:-1 group-title="Кино" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png",VIP Comedy HD
 http://188.208.197.173:8888/vijucomedy/video.m3u8?token=tvon
-#EXTINF:-1 group-title="Кино" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png",Viju Megahit
+#EXTINF:-1 group-title="Кино" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png",VIP Megahit HD
 http://188.208.197.173:8888/vijumegahit/video.m3u8?token=tvon
-#EXTINF:-1 group-title="Кино",Viju Serial
+#EXTINF:-1 group-title="Кино",VIP Serial HD
 http://188.208.197.173:8888/vijuserial/video.m3u8?token=tvon
 
 
