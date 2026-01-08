@@ -534,7 +534,7 @@ http://185.223.125.136:8005/eurosport2?token=test
 #EXTINF:-1 group-title="Спорт",Футбол
 http://185.223.125.136:8005/football?token=test
 #EXTINF:-1 tvg-name="Матч! ТВ HD [RU]" group-title="Спорт",Матч! ТВ HD [RU]
-http://tvon.zapto.org/match/video.m3u8?token=tvon
+http://188.208.197.173:8888/match/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 http://45.145.32.13:20440/match_arena/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Матч! Боец
