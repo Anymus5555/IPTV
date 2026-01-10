@@ -178,114 +178,94 @@ http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 group-title="познавательные",Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u8
 
-#EXTINF:-1 group-title="Музыкальные 🎶",1HD
-http://178.212.71.253:8000/play/60/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",МузТВ
-http://178.212.71.253:8000/play/20/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Music Box Russia
-http://178.212.71.253:8000/play/65/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Шансон ТВ
-http://178.212.71.253:8000/play/76/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge HD
-http://178.212.71.253:8000/play/98/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV
-http://178.212.71.253:8000/play/110/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Rock
-http://178.212.71.253:8000/play/101/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",BridgeTV Hit
-http://178.212.71.253:8000/play/134/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV classic
-http://178.212.71.253:8000/play/135/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Bridge TV Шлягер
+#EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music
+https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="zhar-ptica" audio-track="rus", Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="kuraj" audio-track="rus", Курай-ТВ
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Матур ТВ HD
+http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", ММТВ HD
+http://95.47.156.60:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Муз-ТВ
+http://178.163.121.127:4022/udp/234.0.0.96:2000
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Муз-ТВ HD
+http://178.124.179.122:8088/MuzTV/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз-ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз-ТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", О!2
+http://95.66.188.74/O2TV/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", О!2 HD
+http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Первый музыкальный
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 group-title="Музыка", Сити Эдем — Classic Music
+https://autopilot.catcast.tv/content/47400/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Сити Эдем — Meditation Music
+https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Сити Эдем — БирмаПлей
+https://autopilot.catcast.tv/content/34364/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Сити Эдем — СиртакиТВ
+https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", ТНТ Music
+http://tntm.mediacdn.ru/cdn/tntmusic/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", ТНТ Music HD
+http://tntm.mediacdn.ru/cdn/tntmusic/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Шансон-ТВ
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge
+http://185.58.205.1:4022/udp/224.0.90.214:1234
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Classic
+http://178.163.121.127:4022/udp/234.0.0.223:2000
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Шлягер
 http://178.212.71.253:8000/play/142/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",ТНТ Music
-http://178.212.71.253:8000/play/137/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",RU.TV
-http://178.212.71.253:8000/play/38/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",M1  UA
-http://188.208.197.173:2101/m1ua/index.m3u8
-
-
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" ,MTV Rocks
-https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/6331a4df44111b00076b15f7/colorLogoPNG.png" ,MTV Movie Hits
-https://jmp2.uk/plu-6331a4df44111b00076b15f7.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" ,MTV CLASSICS
-https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/62beb7a0f9db450007a123c5/colorLogoPNG.png" ,MTV Love Music
-https://jmp2.uk/plu-62beb7a0f9db450007a123c5.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" ,MTV Music Made in Spain
-https://jmp2.uk/plu-60a26a056d55b30007918d5a.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/61c09489197fe600073c0570/colorLogoPNG.png",MTV Unplugged
-https://jmp2.uk/plu-61c09489197fe600073c0570.m3u8
-
-
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3500002C4_20251028T011242SQUARE.png",Vevo Weihnachten
-https://jmp2.uk/stvp-DE3500002C4
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20250107T024438SQUARE.png",Vevo Schlager Pop
-https://jmp2.uk/stvp-DEBC21000022L
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20251013T235756SQUARE.png",Vevo Rock
-https://jmp2.uk/stvp-USBD3000145P
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png",Vevo Rétro
-https://jmp2.uk/stvp-FRBD1900013CB
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20251013T235753SQUARE.png",Vevo R&B
-https://jmp2.uk/stvp-USBC3900009K5
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-ITBC2100001G9
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3500001PK_20251028T011429SQUARE.png",Vevo Noël
-https://jmp2.uk/stvp-USBD3300010L9
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES35000016A_20251028T011357SQUARE.png",Vevo Navidad
-https://jmp2.uk/stvp-ES35000016A
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3500001Q6_20251028T010436SQUARE.png",Vevo Natale
-https://jmp2.uk/stvp-IT3500001Q6
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20251013T235748SQUARE.png",Vevo Latino
-https://jmp2.uk/stvp-USBC3600015GF
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20251013T235745SQUARE.png",Vevo Hip-Hop
-https://jmp2.uk/stvp-USBC3600002EK
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png",Vevo Hip Hop & R&B
-https://jmp2.uk/stvp-GBBD2300001C0
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20251014T000010SQUARE.png",Vevo Country
-https://jmp2.uk/stvp-CABC52000165E
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20251028T010351SQUARE.png",Vevo Christmas
-https://jmp2.uk/stvp-GB35000017V
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20251013T235730SQUARE.png",Vevo '70s
-https://jmp2.uk/stvp-USBD300011KQ
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20251013T235732SQUARE.png",Vevo '80s
-https://jmp2.uk/stvp-USBD300012YC
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20251013T235735SQUARE.png",Vevo '90s
-https://jmp2.uk/stvp-USBD3000133M
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png",Vevo '70s & '80s
-https://jmp2.uk/stvp-GBBD1900009UD
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png",Vevo '90s & '00s
-https://jmp2.uk/stvp-ITBC210000200
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20251013T235740SQUARE.png",Vevo 2K
-https://jmp2.uk/stvp-USBB4400015F5
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20251013T235738SQUARE.png",Vevo 2010s
-https://jmp2.uk/stvp-USBD120002431
-
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_35.png",PowerTürk TV
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png",Power Dance
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png",Power Love
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Музыкальные 🎶",МузСоюз
-https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=0fkViaXC2VCJDJRpep8IGA&e=2066735731&scheme=https
-#EXTINF:-1 group-title="Музыкальные 🎶",Deluxe Dance
-https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=E4wru_m2iMxt9rs7zlXnmQ&e=2066735733&scheme=https
-#EXTINF:-1 group-title="Музыкальные 🎶",Record Супердискотека 90х
-https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=7jWfJwnJKbUOjw-CmuPm2Q&e=2066735734&scheme=https
-#EXTINF:-1 group-title="Музыкальные 🎶",Record Russian Hits
-https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=vSy4bBFCLOOWLjbRZ6mUaw&e=2066735735&scheme=https
-#EXTINF:-1 group-title="Музыкальные 🎶",Record Megamix
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=qQtHVtCiHhcHvc_zAB92jg&e=2066735736&scheme=https
-#EXTINF:-1 group-title="Музыкальные 🎶",Record Trance
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=3aKTNmNjtJ6tK0y3gDawaA&e=2066735737&scheme=https
-#EXTINF:-1 group-title="Музыкальные 🎶",VIVA Russia HD
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=IFVEQMz6yl4662lyUkAzLg&e=2066735738&scheme=https
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Clubbing TV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Dance
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Dance HD
+https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Lounge
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Rap
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Kiss Kiss
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Kiss Kiss HD
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Live Music Channel
+http://cdn.voka.tv/live/6028-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Maidan
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", MCM Top
+http://185.58.205.1:4022/udp/224.0.90.48:1234
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo
+http://158.101.222.193:88/georgia_play.php?id=mezzo
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo Live
+http://cdn.voka.tv/live/871-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Radio M2O
+http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV
+http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV HD
+http://dmitry-tv.ddns.net/hls/CH_RUTVHD.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Кино",TV1000 HD
@@ -400,8 +380,7 @@ http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
-https://t.me/loganettv_original
+
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" audio-track="rus", .Black
 http://95.66.188.74/.black/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" audio-track="rus", .Black HD
