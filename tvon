@@ -1,6 +1,6 @@
 #EXTM3U  url-tvg="http://epg.it999.ru/edem.xml.gz"
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://epg.it999.ru/img/983.png", Первый 
-http://31.131.141.195:8000/play/1010/index.m3u8
+http://80.89.224.67/perviy/video.m3u8?token=tvon-v
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_256.webp",Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png",Россия 1
@@ -25,7 +25,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/ntv.png",НТВ
-http://31.131.141.195:8000/play/1040/index.m3u8
+http://80.89.224.67/ntv/video.m3u8?token=tvon-v
 EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
@@ -73,7 +73,9 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 
 
 #EXTINF:-1 group-title="РОССИЯ",ТНТ
-http://31.131.141.195:8000/play/2090/index.m3u8
+http://80.89.224.67/tnt/video.m3u8?token=tvon-v
+#EXTINF:-1 group-title="РОССИЯ",ТНТ 4
+http://80.89.224.67/tvt4/video.m3u8?token=tvon-v
 #EXTINF:-1 group-title="РОССИЯ",Россия К
 http://31.131.141.195:8000/play/1060/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",РОССИЯ 24
@@ -93,20 +95,30 @@ http://31.131.141.195:8000/play/2060/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",ТВ3
-http://31.131.141.195:8000/play/a002/index.m3u8
+http://80.89.224.67/tv3/video.m3u8?token=tvon-v
 #EXTINF:-1 group-title="РОССИЯ",Мир
-http://31.131.141.195:8000/play/a003/index.m3u8
+http://80.89.224.67/mir/video.m3u8?token=tvon-v
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
+#EXTINF:-1 group-title="РОССИЯ",Мир 24
+http://80.89.224.67/mir24/video.m3u8?token=tvon-v
+#EXTINF:-1 group-title="РОССИЯ",2x2
+http://80.89.224.67/2x2/video.m3u8?token=tvon-v
+#EXTINF:-1 group-title="РОССИЯ",Пятница
+http://80.89.224.67/pyatnica/video.m3u8?token=tvon-v
+#EXTINF:-1 group-title="РОССИЯ",Суббота
+http://80.89.224.67/subota/video.m3u8?token=tvon-v
+#EXTINF:-1 group-title="РОССИЯ",360
+http://80.89.224.67/360/video.m3u8?token=tvon-v
+#EXTINF:-1 group-title="РОССИЯ",Ю
+http://80.89.224.67/yu/video.m3u8?token=tvon-v
 #EXTINF:-1 group-title="РОССИЯ",Оплот 2
 http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Звезда
-http://31.131.141.195:8000/play/2070/index.m3u8
+http://80.89.224.67/zvezda/video.m3u8?token=tvon-v
 #EXTINF:-1 group-title="РОССИЯ",Звезда Плюс
 http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
-#EXTINF:-1 group-title="РОССИЯ",Пятница
-http://45.145.32.13:20440/piatnica/index.m3u8?token=test
+
 #EXTINF:-1 group-title="Спорт",1
 https://ayagan.hayuhi.online/hls/okko_prime/playlist.m3u8?token=296af67ebf208897af041b15666761fb-0.5002231755717674-0.12628782250511783#EXTINF:-1 group-title="Лига Чемпионов",2
 #EXTINF:-1 group-title="Спорт",2
