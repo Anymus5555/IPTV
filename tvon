@@ -124,7 +124,7 @@ http://80.89.224.67/rbk/video.m3u8?token=tvon-v
 
 
 #EXTINF:-1 group-title="Спорт",1
-https://ayagan.hayuhi.online/hls/okko_prime/playlist.m3u8?token=296af67ebf208897af041b15666761fb-0.5002231755717674-0.12628782250511783#EXTINF:-1 group-title="Лига Чемпионов",2
+https://ayagan.hayuhi.online/hls/okko_prime/playlist.m3u8?token=296af67ebf208897af041b15666761fb-0.5002231755717674-0.12628782250511783
 #EXTINF:-1 group-title="Спорт",2
 https://ayagan.hayuhi.online/hls/channel1/channel1/playlist.m3u8?token=95c7440b3bf9fd339ee45d765d6b77a8-0.8084282803604559-0.5655954784569674
 #EXTINF:-1 group-title="Спорт",3
@@ -609,6 +609,12 @@ http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:0 type="stream" group-title="Кино" catchup="shift" catchup-days="6" catchup-source="http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/premium-kino-kz.png" tvg-id="premium-kino-kz" tvg-country="KZ", Премиум кино
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 
+#EXTINF:0 type="stream" group-title="Кино" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/suspense.png" tvg-id="suspense", Suspense
+http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:0 type="stream" group-title="Кино" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/romance.png" tvg-id="romance", Romance
+http://188.225.31.197/bpk-tv/000008780/tve/index.m3u8
+
+
 
 
 
@@ -646,14 +652,13 @@ http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Viasat Sport
 http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-1.png" tvg-country="KZ", Q Live 1
-zr#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-2.png" tvg-country="KZ", Q Live 2
+#EXTINF:0 type="stream" group-title="Спорт" channelId="-1" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-2.png" tvg-country="KZ", Q Live 2
 http://188.225.31.197/bpk-tv/000008726/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-4.png" tvg-country="KZ", Q Live 4
+#EXTINF:0 type="stream" group-title="Спорт" channelId="-1" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-4.png" tvg-country="KZ", Q Live 4
 http://188.225.31.197/bpk-tv/000008727/tve/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/sport-plus-kz.png" tvg-id="sport-plus-kz" tvg-country="KZ", Sport+
+#EXTINF:0 type="stream" group-title="Спорт" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/sport-plus-kz.png" tvg-id="sport-plus-kz" tvg-country="KZ", Sport+
 http://188.225.31.197/bpk-tv/000008731/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-football-kz.png" tvg-id="q-football-kz" tvg-country="KZ", Q Football
+#EXTINF:0 type="stream" group-title="Спорт" catchup="shift" catchup-days="6" catchup-source="http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-football-kz.png" tvg-id="q-football-kz" tvg-country="KZ", Q Football
 http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8
 
 
