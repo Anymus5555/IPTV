@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U  url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://epg.it999.ru/img/983.png", Первый 
 http://80.89.224.67/perviy/video.m3u8?token=tvon-v
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_256.webp",Рен ТВ
@@ -600,6 +600,15 @@ http://95.66.188.74/VHS/index.m3u8
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:0 type="stream" group-title="Кино" catchup="shift" catchup-days="6" catchup-source="http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/mirovoe-kino-kz.png" tvg-id="mirovoe-kino-kz" tvg-country="KZ", Мировое кино
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:0 type="stream" group-title="Кино" catchup="shift" catchup-days="6" catchup-source="http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/semejnoe-kino-kz.png" tvg-id="semejnoe-kino-kz" tvg-country="KZ", Семейное кино
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:0 type="stream" group-title="Кино" catchup="shift" catchup-days="6" catchup-source="http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/kinoboevik-kz.png" tvg-id="kinoboevik-kz" tvg-country="KZ", Кинобоевик
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:0 type="stream" group-title="Кино" catchup="shift" catchup-days="6" catchup-source="http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/premium-kino-kz.png" tvg-id="premium-kino-kz" tvg-country="KZ", Премиум кино
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+
 
 
 
@@ -636,28 +645,17 @@ http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Viasat Sport
 http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт",Extreme sports
-http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт",beIN SPORTS XTRA Español
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=vgXWzitbt7BlC9chk9ziyQ&e=2066735740&scheme=https
-#EXTINF:-1 group-title="Спорт",Sky Sports Tennis
-https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=hDayBvpPSAdchFoVbRfmOg&e=2066735741&scheme=https
-#EXTINF:-1 group-title="Спорт",Sky Sports F1
-https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=9yuV38QuEL4gsr3PKtCY6Q&e=2066735742&scheme=https
-#EXTINF:-1 group-title="Спорт",Sky Sports Main Event
-https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=qNxN5KpUZ-JoSaAO1tsYoQ&e=2066735743&scheme=https
-#EXTINF:-1 group-title="Спорт",Волейбол
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=ZlEfBywCIz5wKJbCxYSUlQ&e=2066735744&scheme=https
-#EXTINF:-1 group-title="Спорт",Red Bull TV
-https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=zRZMdnc7OyA_nmDc_CNjxQ&e=2066735746&scheme=https
-#EXTINF:-1 group-title="Спорт",Unbeaten
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=35hzFvUhsZtN0mXQGZCEmA&e=2066735747&scheme=https
-#EXTINF:-1 group-title="Спорт",Sports Grid
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=__k9koFBxz68ifDMDrr_iw&e=2066735748&scheme=https
-#EXTINF:-1 group-title="Спорт",TVS Classic Sports
-https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=0J5Dfxb7IH6K6b-mHYNY6A&e=2066735749&scheme=https
-#EXTINF:-1 group-title="Спорт",Dubai Sports 2
-https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=4uaVUju9MXUg6tFZf3V1FA&e=2066735750&scheme=https
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-1.png" tvg-country="KZ", Q Live 1
+zr#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-2.png" tvg-country="KZ", Q Live 2
+http://188.225.31.197/bpk-tv/000008726/tve/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-4.png" tvg-country="KZ", Q Live 4
+http://188.225.31.197/bpk-tv/000008727/tve/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/sport-plus-kz.png" tvg-id="sport-plus-kz" tvg-country="KZ", Sport+
+http://188.225.31.197/bpk-tv/000008731/tve/index.m3u8
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="http://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-football-kz.png" tvg-id="q-football-kz" tvg-country="KZ", Q Football
+http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8
+
 
 
 #EXTINF:-1  group-title="Спорт",Матч! Футбол 3 
