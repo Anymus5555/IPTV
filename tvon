@@ -1,6 +1,6 @@
 #EXTM3U  url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://epg.it999.ru/img/983.png", Первый 
-http://80.89.224.67/channel/n41e22b07/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/perviy/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_256.webp",Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/rossia1-hd.png",Россия 1
@@ -25,7 +25,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://tvon.duckdns.org:2580/logos/ntv.png",НТВ
-http://80.89.224.67/channel/n47a936b6/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/ntv/index.m3u8
 EXTINF:-1 group-title="РОССИЯ" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
@@ -56,26 +56,12 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 
 
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg",НТВ Сериалы Пёс
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg",НТВ Сериалы Первый отдел
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg",НТВ Сериалы Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg",НТВ Сериалы Невский
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Сериалы Балабол
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Сериалы Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 
 
 #EXTINF:-1 group-title="РОССИЯ",ТНТ
-http://80.89.224.67/channel/n3f602b30/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/tnt/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",ТНТ 4
-http://80.89.224.67/channel/53634734/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/tnt4/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Россия К
 http://31.131.141.195:8000/play/1060/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",РОССИЯ 24
@@ -95,13 +81,13 @@ http://31.131.141.195:8000/play/2060/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",ТВ3
-http://80.89.224.67/channel/n41c4ef6c/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/tv3/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Мир
-http://80.89.224.67/channel/708455a9/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/mir/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Мир 24
-http://80.89.224.67/channel/n481323e7/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/mir24/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",360
 http://80.89.224.67/channel/707527b2/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 
@@ -112,16 +98,15 @@ http://80.89.224.67/channel/6208a6cf/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdU
 #EXTINF:-1 group-title="РОССИЯ",Оплот 2
 http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Звезда
-http://80.89.224.67/channel/n50e5118c/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/zvezda/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Звезда Плюс
 http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 #EXTINF:-1 group-title="РОССИЯ",Пятница
-http://80.89.224.67/channel/n51d76e20/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/pyatnica/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Ю
 http://80.89.224.67/channel/3ab902f3/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="РОССИЯ",РБК
-http://80.89.224.67/channel/70845fce/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
-
+http://188.208.197.173:2101/rbk/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",1
 https://ayagan.hayuhi.online/hls/okko_prime/playlist.m3u8?token=296af67ebf208897af041b15666761fb-0.5002231755717674-0.12628782250511783
@@ -285,27 +270,23 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="viju" group-title="Кино" tvg-id="viju",viju TV 1000
-http://80.89.224.67/viju/video.m3u8?token=tvon-v
+http://188.208.197.173:2101/tv1000/index.m3u8
 #EXTINF:-1 tvg-name="viju-action" group-title="Кино" tvg-id="viju-action",viju TV 1000 Action
-http://80.89.224.67/viju-action/video.m3u8?token=tvon-v
+http://188.208.197.173:2101/tv1000action/index.m3u8
 #EXTINF:-1 tvg-name="vijuromantica" group-title="Кино" tvg-id="vijuromantica",vijuromantica
-http://80.89.224.67/vijuromantica/video.m3u8?token=tvon-v
-#EXTINF:-1 tvg-name="viju-novella" group-title="Кино" tvg-id="viju-novella",viju-novella
-http://80.89.224.67/viju-novella/video.m3u8?token=tvon-v
+http://188.208.197.173:2101/tv1000romantica/index.m3u8
+
 #EXTINF:-1 tvg-name="vijupremiere" group-title="Кино" tvg-id="vijupremiere",vijupremiere
-http://80.89.224.67/vijupremiere/video.m3u8?token=tvon-v
+http://188.208.197.173:2101/vijupremiere/index.m3u8
 #EXTINF:-1 tvg-name="vijumegahit" group-title="Кино" tvg-id="vijumegahit",vijumegahit
-http://80.89.224.67/vijumegahit/video.m3u8?token=tvon-v
+http://188.208.197.173:2101/vijumegahit/index.m3u8
 #EXTINF:-1 tvg-name="vijucomedy" group-title="Кино" tvg-id="vijucomedy",vijucomedy
-http://80.89.224.67/vijucomedy/video.m3u8?token=tvon-v
+http://188.208.197.173:2101/vijucomedy/index.m3u8
 #EXTINF:-1 tvg-name="vijuserial" group-title="Кино" tvg-id="vijuserial",vijuserial
 http://80.89.224.67/vijuserial/video.m3u8?token=tvon-v
 #EXTINF:-1 tvg-name="tv1000rukino" group-title="Кино" tvg-id="tv1000rukino",tv1000rukino
-http://80.89.224.67/tv1000rukino/video.m3u8?token=tvon-v
-#EXTINF:-1 tvg-name="real-madrid" group-title="Спорт" tvg-id="real-madrid",real-madrid
-http://80.89.224.67/real-madrid/video.m3u8?token=tvon-v
-#EXTINF:-1 tvg-name="viasatsport" group-title="Спорт" tvg-id="viasatsport",viasatsport
-http://80.89.224.67/viasatsport/video.m3u8?token=tvon-v
+http://188.208.197.173:2101/tv1000rukino/index.m3u8
+
 
 #EXTINF:-1 group-title="Кино" tvg-id="pro100", Про100 ТВ
 http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
@@ -623,7 +604,7 @@ http://185.223.125.136:8005/eurosport2?token=test
 #EXTINF:-1 group-title="Спорт",Футбол
 http://185.223.125.136:8005/football?token=test
 #EXTINF:-1 tvg-name="Матч! ТВ HD [RU]" group-title="Спорт",Матч! ТВ HD [RU]
-http://80.89.224.67/channel/n105e9e40/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 http://45.145.32.13:20440/match_arena/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Матч! Боец
