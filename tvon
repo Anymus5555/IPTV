@@ -89,10 +89,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Мир 24
 http://188.208.197.173:2101/mir24/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",360
-http://80.89.224.67/channel/707527b2/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
-
+http://188.208.197.173:2101/360/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",2x2
-http://80.89.224.67/channel/70752bf1/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
+http://188.208.197.173:2101/2X2/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",Суббота
 http://80.89.224.67/channel/6208a6cf/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.EvAdUOkGjhW3m4d4-JfTAo3G-IC68I9U6a1t4dk6MmGvL623n2tnYACmfow0zGhjbC_1m6NKvMTnwEqLGdzj2Q
 #EXTINF:-1 group-title="РОССИЯ",Оплот 2
